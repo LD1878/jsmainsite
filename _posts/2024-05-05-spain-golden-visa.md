@@ -1,175 +1,161 @@
 ---
 layout: post
-title: "Spain Golden Visa: The Complete 2025 Guide"
-description: "Investment routes, property rules, required documents, timelines, and taxes—everything you need to secure Spain’s Golden Visa."
-seo_title: "Spain Golden Visa: The Complete 2025 Guide"
+title: "Spain Golden Visa 2026: Renewals, Closures, and Alternatives"
+description: "Everything you need to know about the 2025 closure of the property route, renewal rules for current holders, and 2026 residency alternatives."
+seo_title: "Spain Golden Visa 2026: Guide to Renewals and Alternatives"
 permalink: /guides/spain-golden-visa/
-date: 2024-05-05
+date: 2026-04-11
 tags: [Golden Visa, residency, investment]
 image: /assets/img/logo.svg
 faqs:
-  - question: "What is the minimum investment for Spain’s Golden Visa?"
-    answer: "The most popular route requires €500,000 in unencumbered real estate, although alternatives include €1 million in shares or bank deposits and €2 million in Spanish government bonds."
-  - question: "Can my family join my Spain Golden Visa application?"
-    answer: "Yes, spouses, registered partners, dependent children of any age, and dependent parents can be included if you prove financial support."
-  - question: "How long does the Golden Visa process take?"
-    answer: "Expect 2–3 months from investment to initial residence card issuance, depending on property completion and police appointments."
+  - question: "Is the Spain Golden Visa still available for property investment?"
+    answer: "No. New applications via the €500,000 real estate route were officially discontinued on April 3, 2025. Existing holders can still renew their permits."
+  - question: "Can my family join my Spain Golden Visa renewal?"
+    answer: "Yes, spouses, registered partners, dependent children of any age, and dependent parents remain included in renewal applications if financial support is proven."
+  - question: "How long do Golden Visa renewals take in 2026?"
+    answer: "Renewals are typically processed within 20 working days. If you receive no response within this timeframe, the application is considered approved by administrative silence."
   - question: "Does the Golden Visa lead to permanent residency or citizenship?"
-    answer: "After five years of continuous residence you can apply for permanent residency, and after ten years (with language and civic integration) you can request citizenship."
+    answer: "Yes. After five years of continuous residence you can apply for permanent residency, and after ten years (with language and civic integration) you can request citizenship."
 ---
 
 ## Table of contents
-- [Why Spain’s Golden Visa remains attractive in 2025](#why-spains-golden-visa-remains-attractive-in-2025)
-- [Who qualifies for the programme](#who-qualifies-for-the-programme)
-- [Investment options explained](#investment-options-explained)
-- [Buying property for the Golden Visa](#buying-property-for-the-golden-visa)
-- [Due diligence, background checks, and compliance](#due-diligence-background-checks-and-compliance)
+- [The state of Spain’s Golden Visa in 2026](#the-state-of-spains-golden-visa-in-2026)
+- [Who qualifies for renewals and existing permits](#who-qualifies-for-renewals-and-existing-permits)
+- [Current investment options and alternatives](#current-investment-options-and-alternatives)
+- [Managing property for Golden Visa holders](#managing-property-for-golden-visa-holders)
+- [Due diligence, compliance, and 2026 checks](#due-diligence-compliance-and-2026-checks)
 - [Including family members](#including-family-members)
-- [Application timeline step by step](#application-timeline-step-by-step)
+- [Renewal timeline step by step](#renewal-timeline-step-by-step)
 - [Fees, taxes, and running costs](#fees-taxes-and-running-costs)
 - [Renewals, permanent residency, and citizenship](#renewals-permanent-residency-and-citizenship)
 - [Common pitfalls to avoid](#common-pitfalls-to-avoid)
 - [Strategic planning tips](#strategic-planning-tips)
 - [FAQs](#faqs)
 
-## Why Spain’s Golden Visa remains attractive in 2025
+## The state of Spain’s Golden Visa in 2026
 
-Spain’s Golden Visa is one of the EU’s most flexible residency-by-investment programmes. It grants the right to live and work in Spain, access the Schengen Area, and eventually obtain permanent residency and citizenship—all while allowing you to spend limited time in the country if you prefer. Since its launch in 2013, more than 14,000 investors and family members have benefited. In 2025, the programme remains available, although scrutiny around property investment has increased. Spain continues to offer a balanced lifestyle, high-quality healthcare and education, and a competitive cost of living compared with other Western European countries.
+Spain’s Golden Visa program underwent a massive transition on April 3, 2025, when the government officially stopped accepting new applications based on real estate investment. While the "property route" is closed to new investors, the program remains active for those who secured their visas before the deadline. It continues to grant the right to live and work in Spain, access the Schengen Area, and eventually obtain permanent residency. In 2026, the focus has shifted toward compliance for existing holders and a surge in interest for alternatives like the Digital Nomad Visa.
 
-The Golden Visa is especially attractive to families planning future relocation, digital entrepreneurs seeking an EU base, and investors diversifying into stable property markets. Unlike some EU programmes, Spain does not impose minimum stay requirements for renewals. You only need to visit Spain once per year to keep the permit active. That flexibility, combined with straightforward renewal rules, keeps demand high even as other countries tighten their schemes.
+The program remains vital for thousands of families currently residing in Spain. Unlike other permits, the Golden Visa does not impose strict minimum stay requirements for renewals. You only need to visit Spain once per year to keep the permit active. This flexibility, combined with the new 5 year renewal periods, keeps it as a premier residency status for those who met the 2025 deadline.
 
-## Who qualifies for the programme
+## Who qualifies for renewals and existing permits
 
-To qualify you must:
+To maintain or renew your residency you must:
 
-- Be over 18 and have no criminal record in the past five years.
-- Hold valid private health insurance in Spain.
-- Demonstrate sufficient financial means to support yourself and dependants.
-- Make a qualifying investment (property, financial assets, or business project).
-- Show proof of funds for the investment plus acquisition costs.
+- Be over 18 and have a clean criminal record for the past five years.
+- Hold valid private health insurance in Spain with no co-payments.
+- Demonstrate sufficient financial means (IPREM 2026 levels) to support yourself and dependants.
+- Maintain the qualifying investment that granted the initial visa.
+- Visit Spain at least once during each year of the residency period.
 
-Applicants must also pass a background check covering their global criminal history, fiscal compliance, and financial solvency. Spanish authorities verify that investment funds come from legitimate sources and that you are not on sanctions lists. While the process is straightforward, preparing the documentation with sworn translations takes time, so start early.
+Applicants must pass background checks covering global criminal history and fiscal compliance. Spanish authorities now use the EU Entry/Exit System (EES), launched in late 2025, to biometrically verify your annual visits. While the process is streamlined, ensuring your documentation is updated with sworn translations is essential for 2026 approvals.
 
-## Investment options explained
+## Current investment options and alternatives
 
-Spain’s Golden Visa offers several investment routes. Most applicants choose property, but other options exist:
+While the real estate route is closed to new applicants, other investment paths technically remain in the law, though they face higher scrutiny:
 
-1. **Real estate investment of €500,000 or more.** You can buy residential, commercial, or land assets. The threshold must be free of mortgages or charges.
-2. **Financial assets of €1 million.** Invest in shares of Spanish companies, units of investment funds, or bank deposits in Spanish institutions.
-3. **Government bonds of €2 million.** Purchase Spanish public debt securities for a minimum of five years.
-4. **Business project.** Present a business plan that creates jobs, fosters scientific innovation, or has socio-economic impact. This route requires approval from the Directorate-General for International Trade and Investment.
+1. **Financial assets of €1 million:** Investment in shares of Spanish companies or bank deposits in Spanish institutions.
+2. **Government bonds of €2 million:** Purchase of Spanish public debt securities.
+3. **Business projects:** Plans that create jobs or foster scientific innovation. This route is now often funneled through the Entrepreneur Visa.
+4. **Digital Nomad Visa (Alternative):** For those earning approximately €2,850 per month from remote work (200% of the 2026 Minimum Wage).
 
-Investments can be made personally or through a company, provided you hold majority control and the company is not registered in a tax haven. Couples often buy property jointly as long as each contributes enough to meet the threshold or they are married in community of property regimes.
+Existing property investors can "swap" properties as long as they reinvest the full €500,000 immediately to ensure no gap in their investment status.
 
-## Buying property for the Golden Visa
+## Managing property for Golden Visa holders
 
-Property remains the most popular route because it combines residency with potential rental income and capital growth. However, due diligence is essential.
+Property management is now a primary focus for Golden Visa holders who wish to maintain their residency while potentially generating income.
 
-### Selecting the right asset
+### Selecting the right strategy
 
-- **Primary residence vs. investment.** Decide whether the property will be a holiday home, rental asset, or your future primary residence. This affects neighbourhood choice, property management needs, and financing.
-- **Off-plan vs. completed homes.** Off-plan purchases can qualify if you already own the property via a public deed and have invested the required €500,000. Developers must provide bank guarantees for amounts paid before completion.
-- **Commercial options.** Retail units, offices, and co-living spaces can qualify, provided you meet the threshold and have a clear business plan for rental operations.
+- **Maintaining the threshold:** Ensure that any sale and subsequent purchase of property keeps your unencumbered investment above €500,000.
+- **Rental operations:** Many holders now utilize long term rentals to satisfy "economic interest" markers. Short term rental regulations have tightened in 2026, particularly in Madrid and Barcelona.
+- **Tax residency:** Spending more than 183 days in Spain will trigger tax residency. Holders must balance their time carefully to manage global tax liabilities.
 
 ### Legal checks
 
-- **Nota simple.** Verify ownership and encumbrances at the Land Registry.
-- **Technical survey.** Identify structural issues, outstanding community debts, or illegal extensions.
-- **Licence verification.** Ensure rental permits or tourist licences are in place if you plan to rent short term.
-- **Money trail.** Funds must flow from your bank to the seller via traceable transfers. Keep all bank receipts.
+- **Nota simple:** Always keep an updated copy from the Land Registry to prove the investment is still active.
+- **Tax compliance:** Ensure the Impuesto sobre la Renta de No Residentes (IRNR) is paid annually to avoid renewal rejections.
+- **EES Monitoring:** Ensure your entries and exits are correctly logged in the digital EU system to prove your mandatory annual visit.
 
-### Financing
+## Due diligence, compliance, and 2026 checks
 
-You can finance amounts above €500,000 with a mortgage, but the first €500,000 must be unencumbered. Banks typically lend 50–60% LTV to non-residents. See our [mortgage guide for expats]({{ '/guides/mortgages-for-expats-spain/' | relative_url }}) for detailed requirements.
+The UGE-CE (Large Companies Unit) has increased its digital auditing in 2026. Prepare the following for any renewal:
 
-## Due diligence, background checks, and compliance
+- **Criminal record certificates:** Must be issued within 90 days of the renewal application, apostilled, and translated.
+- **Proof of investment maintenance:** A certificate from the Land Registry (for property) or a bank certificate (for financial assets).
+- **2026 Health insurance:** Policies must be from a provider authorized in Spain and include "full coverage" terms.
 
-Spain’s immigration office (UGE-CE) and police conduct rigorous checks. Prepare the following:
-
-- **Criminal record certificates** from every country where you have lived in the past five years, apostilled and translated into Spanish.
-- **Proof of funds** such as bank statements, investment portfolio reports, and purchase deeds.
-- **Health insurance certificate** from a provider authorised to operate in Spain.
-- **Tax compliance evidence** if you already have business activities in Spain.
-
-During the analysis phase, authorities examine whether the investment funds originate from lawful sources. Expect to provide purchase contracts, bank transfer slips, and, if necessary, notarised affidavits explaining the origin of funds. The more transparent and organised your documentation, the faster the approval.
+Authorities now check for "tax transparency." If you are claiming non-resident status but your children are in local schools or you have a Spanish car registered, you may be flagged for a tax residency audit during your Golden Visa renewal.
 
 ## Including family members
 
-The Golden Visa allows you to include close family members under a single application:
+Existing permits allow you to continue including family members:
 
-- **Spouse or registered partner.** Provide marriage or partnership certificates legalised or apostilled.
-- **Children under 18** and **dependent adult children** (students or those with health conditions). Demonstrate financial dependence through bank statements or tuition payments.
-- **Dependent parents** on either side of the family. Provide proof they rely on you financially, such as pension statements or remittance records.
+- **Spouse or registered partner:** Legalized marriage or partnership certificates are required.
+- **Dependent children:** In 2026, authorities are stricter regarding adult children. You must provide clear bank transfers showing you provide 100% of their financial support.
+- **Dependent parents:** Requires proof of financial reliance, typically via remittance records over the previous 12 months.
 
-Each family member needs their own passport, health insurance, and clean criminal record (if over 18). When your dependants are included, they receive residence permits with the same validity as the main applicant.
+Each family member receives a card valid for the same duration as the main investor. Adult family members on a Golden Visa retain the full right to work in Spain.
 
-## Application timeline step by step
+## Renewal timeline step by step
 
-1. **Initial consultation and strategy (Week 0).** Define your investment route, budget, and family composition.
-2. **Document preparation (Weeks 1–4).** Gather criminal records, insurance, proof of funds, and translations. Open a Spanish bank account to receive funds if buying property.
-3. **Investment execution (Weeks 4–8).** Sign the reservation contract, pay deposits, and complete the purchase or investment. Obtain the public deed (*escritura*).
-4. **Visa application (Weeks 8–10).** If you are outside Spain, apply for the investor visa at the consulate. Inside Spain, file directly for the residence permit via the UGE-CE platform.
-5. **Resolution (Weeks 10–14).** Authorities have 20 working days to decide. Lack of response equals approval by positive administrative silence, but in practice you receive confirmation sooner.
-6. **Residence card issuance (Weeks 14–16).** Once approved, book a fingerprint appointment at the police station to obtain the TIE card valid for three years.
-
-Keep digital copies of every step. Many investors hire a local lawyer to coordinate the property purchase, submit the immigration file, and book the police appointment to avoid delays.
+1. **Window Opening (60 days before expiry):** You can submit your renewal application up to 60 days before your TIE expires.
+2. **Document Refresh (Weeks 1-2):** Obtain new criminal records and updated bank certificates showing IPREM compliance.
+3. **Submission (Weeks 2-3):** File electronically via the Mercurio platform. In 2026, physical submissions are rarely accepted for these permits.
+4. **Processing (20 Working Days):** The UGE-CE must respond within 20 working days. If they do not, "Positive Silence" applies.
+5. **Approval and Fingerprints:** Once approved, you have 30 days to book a police appointment for your new 5 year TIE card.
+6. **Card Collection:** Usually available 30 to 45 days after the fingerprint appointment.
 
 ## Fees, taxes, and running costs
 
-Budget for the following expenses in addition to the investment amount:
+Budget for the following for your 2026 renewal and property maintenance:
 
-- **Property purchase taxes.** Transfer tax (ITP) ranges from 6% to 11% depending on the region. New builds attract VAT (IVA) at 10% plus stamp duty (AJD) around 1.5%.
-- **Notary and registry fees.** Approximately 1–1.5% of the purchase price.
-- **Legal fees.** Expect €3,000–€6,000 for full-service legal representation covering property and immigration.
-- **Immigration fees.** The investor residence application fee is roughly €75 per applicant. Police card issuance costs about €16.
-- **Annual running costs.** Property tax (IBI), community fees, insurance, and utilities vary by location but average €2,000–€4,000 for a city apartment.
-
-Remember to factor in translation, apostille, and courier expenses. If you rent the property, budget for property management and tax filings. The [buying property guide]({{ '/guides/buying-property-in-spain/' | relative_url }}) breaks down taxes and due diligence in more detail.
+- **Immigration renewal fees:** Approximately €80 for the main applicant.
+- **Police card issuance:** Roughly €16 per family member.
+- **Non-Resident Income Tax (IRNR):** 19% for EU/EEA citizens and, following a 2025 ruling, 19% for many non-EU investors depending on their country of origin.
+- **Legal renewal services:** Professional fees for renewal typically range from €1,500 to €3,000 for a family.
+- **Annual IBI and Community fees:** These continue to rise with inflation: expect a 3% to 5% increase over 2025 levels.
 
 ## Renewals, permanent residency, and citizenship
 
-The initial investor residence card lasts three years. After that, you renew for successive five-year periods as long as you maintain the qualifying investment. Key points:
+The 2026 renewal for a Golden Visa typically grants a 5 year residence permit. This is a significant upgrade from the previous 2 year extensions.
 
-- **Physical presence.** There is no minimum stay requirement for renewal, but you must visit Spain at least once per year.
-- **Investment proof.** Submit updated land registry certificates or financial statements showing you still hold the assets.
-- **Health insurance and means.** Maintain private health cover and demonstrate financial capacity.
-
-After five years of residence (with at least six months per year in Spain) you can apply for long-term EU residence. After ten years of continuous residence, plus passing language (DELE A2) and culture (CCSE) exams, you may seek Spanish citizenship. Latin American citizens can often apply after just two years.
+- **Permanent Residency:** Requires 5 years of actual residence in Spain (spending more than 6 months per year).
+- **Citizenship:** After 10 years of residency. You must pass the DELE A2 and CCSE exams.
+- **EES Impact:** The Entry/Exit System makes it impossible to "fake" residency days for citizenship applications. Every day spent in or out of the Schengen zone is now tracked digitally.
 
 ## Common pitfalls to avoid
 
-- **Incomplete documentation.** Missing apostilles or outdated criminal records trigger refusals. Documents must be issued within the last 90 days.
-- **Financing below the threshold.** Mortgage any amount above €500,000 only. If you finance part of the threshold, the authorities reject the application.
-- **Unregistered property.** Ensure the property is fully registered in your name before applying. Pre-contracts alone are insufficient.
-- **Tax planning gaps.** Becoming a tax resident may be advantageous for some families but not all. Coordinate with an international tax advisor early.
-- **Ignoring community rules.** Some apartment blocks restrict tourist rentals. Understand local bylaws before purchasing investment properties.
+- **Missed Annual Visit:** Failing to enter Spain at least once a year is the most common reason for renewal rejection in 2026.
+- **Expired Documents:** Using a criminal record certificate that is 91 days old will result in an immediate "requerimiento" (request for more info), delaying your permit.
+- **Selling Before Rebuying:** If you sell your €500k property, you must have the new deed ready immediately. A gap in investment can terminate the permit.
+- **Insufficient Funds:** The IPREM (Minimum Income Indicator) was raised in 2026. Ensure your bank balance reflects the new, higher requirements.
 
 ## Strategic planning tips
 
-- **Combine with the Digital Nomad Visa.** Some clients secure the Golden Visa for family flexibility while a spouse uses the [digital nomad visa]({{ '/guides/digital-nomad-visa-spain/' | relative_url }}) to work remotely and access social security.
-- **Use a power of attorney.** Grant a Spanish lawyer authority to sign the purchase deed and submit the application if you cannot travel.
-- **Plan for future upgrades.** Keep renovation invoices, as they may enhance your property’s value and support tax deductions.
-- **Monitor policy shifts.** Spain occasionally debates adjusting thresholds. Starting the process early protects you from sudden changes.
-- **Stay organised.** Maintain a shared digital folder with passports, certificates, deeds, and renewal reminders to streamline future applications.
+- **Digital Nomad Pivot:** If you can no longer maintain the €500k investment, check if your remote work qualifies you for the Digital Nomad Visa before your Golden Visa expires.
+- **Beckham Law:** If you have shifted from a Golden Visa to an employment-based visa, check your eligibility for the 24% fixed tax rate (Beckham Law) within the first 6 months.
+- **Digital Certificate:** Ensure your Spanish digital certificate (Certificado Digital) is valid. You cannot file renewals in 2026 without it.
+- **Health Insurance Review:** Ensure your 2026 policy specifically mentions "no co-payments" to meet UGE-CE standards.
 
 ## FAQs
 
-### Can I rent out my Golden Visa property?
+### Can I still buy property to get a new Golden Visa?
 
-Yes, Spain allows long-term rentals and, in many regions, tourist rentals if you obtain the proper licence. Rental income is taxable in Spain, even if you remain a non-resident taxpayer.
+No. As of April 2025, property investment no longer qualifies you for a new residency permit. You must look at the Digital Nomad or Entrepreneur routes.
 
-### Do I need to live in Spain full time?
+### I already have a Golden Visa: is it safe?
 
-No. The Golden Visa grants flexibility. You can visit occasionally and still renew, provided you maintain the investment and visit at least once annually.
+Yes. The 2025 law protected current holders. As long as you maintain your investment and visit Spain annually, you can continue to renew for 5 year periods.
 
-### What happens if I sell the property?
+### Can I sell my property and keep the residency?
 
-You must reinvest the required amount in another qualifying asset before the next renewal. Otherwise, your permit will not be renewed.
+Only if you reinvest the minimum €500,000 into another qualifying asset (property or financial) without a significant delay.
 
-### Can I work in Spain with the Golden Visa?
+### Does the Golden Visa allow me to work in 2026?
 
-Yes, the investor residence permit allows you and your adult family members to work as employees or self-employed professionals in Spain.
+Yes, the permit remains one of the best for professionals as it allows both the main applicant and family members to work for any company or start their own business.
 
 ---
 
-This guide is informational; get tailored advice by booking a call.
+This guide is informational: get tailored advice by booking a call.
