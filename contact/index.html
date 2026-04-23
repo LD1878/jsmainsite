@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bespoke Intake | JURO Spain
+title: Client Intake | JURO Spain
 permalink: /contact/
 ---
 
@@ -22,6 +22,7 @@ permalink: /contact/
         font-family: 'Inter', sans-serif;
     }
 
+    /* THE STAGE */
     .juro-stage {
         background: var(--juro-white);
         border: 1px solid var(--juro-border);
@@ -33,16 +34,18 @@ permalink: /contact/
         box-shadow: 0 40px 80px rgba(10, 25, 47, 0.08);
     }
 
+    /* PROGRESS LASER */
     .laser-progress {
         position: absolute; top: 0; left: 0; height: 4px;
         background: linear-gradient(90deg, var(--juro-red), var(--juro-gold));
-        width: 15%;
+        width: 20%;
         transition: width 0.8s cubic-bezier(0.65, 0, 0.35, 1);
         z-index: 10;
     }
 
     .juro-body { padding: 4rem; flex-grow: 1; position: relative; }
 
+    /* TYPOGRAPHY */
     .juro-h1 {
         font-family: 'Oswald', sans-serif;
         text-transform: uppercase;
@@ -66,20 +69,9 @@ permalink: /contact/
 
     .juro-sub { color: var(--juro-slate); font-size: 1.1rem; margin-bottom: 3rem; max-width: 600px; line-height: 1.6; opacity: 0.8; }
 
-    /* AUDIT BOX - NEW PRE-EMAIL INFO LAYER */
-    .audit-briefing {
-        background: #F1F5F9;
-        border-left: 4px solid var(--juro-gold);
-        padding: 2.5rem;
-        margin-bottom: 2.5rem;
-    }
-    .audit-briefing h4 { font-family: 'Oswald', sans-serif; text-transform: uppercase; margin-bottom: 1rem; color: var(--juro-navy); letter-spacing: 1px; }
-    .audit-briefing ul { list-style: none; padding: 0; }
-    .audit-briefing li { margin-bottom: 1rem; font-size: 1rem; color: var(--juro-slate); display: flex; align-items: flex-start; }
-    .audit-briefing li::before { content: "•"; color: var(--juro-red); font-weight: bold; margin-right: 12px; }
-
     /* TILES */
     .choice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    
     .juro-tile {
         border: 1px solid var(--juro-border);
         padding: 3rem 2rem;
@@ -94,6 +86,18 @@ permalink: /contact/
     .juro-tile:hover { border-color: var(--juro-navy); background: var(--juro-white); transform: translateY(-8px); box-shadow: 0 20px 40px rgba(10, 25, 47, 0.05); }
     .juro-tile h3 { font-family: 'Oswald', sans-serif; text-transform: uppercase; margin: 0 0 12px 0; font-size: 1.5rem; color: var(--juro-navy); }
     .juro-tile p { color: #64748B; font-size: 1rem; margin: 0; line-height: 1.5; }
+
+    /* AUDIT BOX */
+    .audit-briefing {
+        background: #F1F5F9;
+        border-left: 4px solid var(--juro-gold);
+        padding: 2.5rem;
+        margin-bottom: 2.5rem;
+    }
+    .audit-briefing h4 { font-family: 'Oswald', sans-serif; text-transform: uppercase; margin-bottom: 1rem; color: var(--juro-navy); letter-spacing: 1px; }
+    .audit-briefing ul { list-style: none; padding: 0; }
+    .audit-briefing li { margin-bottom: 1rem; font-size: 1rem; color: var(--juro-slate); display: flex; align-items: flex-start; }
+    .audit-briefing li::before { content: "•"; color: var(--juro-red); font-weight: bold; margin-right: 12px; }
 
     /* FORM & INPUTS */
     .juro-input {
@@ -118,79 +122,63 @@ permalink: /contact/
         <div class="juro-body">
             
             <div id="step-1" class="step active">
-                <span class="juro-meta">Strategic Intake</span>
-                <h1 class="juro-h1">Define Your<br>Legal Path</h1>
-                <p class="juro-sub">Select your area of inquiry to access specialized legal intelligence.</p>
-                <div class="choice-grid">
-                    <div class="juro-tile" onclick="setService('Residency', 30)">
-                        <h3>Residency</h3>
-                        <p>DNV or NLV frameworks for Non-EU citizens looking to relocate.</p>
-                    </div>
-                    <div class="juro-tile" onclick="setService('Property', 30)">
-                        <h3>Property</h3>
-                        <p>Conveyancing, due diligence, and safe asset acquisition in Spain.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div id="step-residency" class="step">
-                <span class="juro-meta">Residency Categorization</span>
-                <h1 class="juro-h1">Select Framework.</h1>
+                <span class="juro-meta">Strategic Selection</span>
+                <h1 class="juro-h1">Direct Legal<br>Intake</h1>
+                <p class="juro-sub">Select your inquiry framework to bypass general queues and access specialized counsel.</p>
+                
                 <div class="choice-grid">
                     <div class="juro-tile" onclick="runAudit('DNV')">
                         <h3>Digital Nomad</h3>
-                        <p>I work remotely for a company outside of Spain.</p>
+                        <p>DNV framework for remote workers, freelancers, and tech professionals.</p>
                     </div>
                     <div class="juro-tile" onclick="runAudit('NLV')">
                         <h3>Non-Lucrative</h3>
-                        <p>I am moving for retirement or via passive wealth/savings.</p>
+                        <p>Relocation via passive wealth, savings, or retirement assets.</p>
                     </div>
                 </div>
-            </div>
-
-            <div id="step-property" class="step">
-                <span class="juro-meta">Acquisition Stage</span>
-                <h1 class="juro-h1">Current Progress.</h1>
-                <div class="choice-grid">
-                    <div class="juro-tile" onclick="runAudit('Property-Ready')">
-                        <h3>Offer in Progress</h3>
-                        <p>I have identified a property and need an immediate contract review.</p>
-                    </div>
-                    <div class="juro-tile" onclick="runAudit('Property-Search')">
-                        <h3>Initial Search</h3>
-                        <p>I am planning a purchase and need a legal partner for the search phase.</p>
-                    </div>
+                <div style="margin-top: 24px;">
+                    <button class="juro-tile" style="width: 100%; padding: 2rem; flex-direction: row; justify-content: space-between; align-items: center;" onclick="setGeneral()">
+                        <h3 style="margin: 0; font-size: 1.2rem;">Other / General Legal Matter</h3>
+                        <span style="color: var(--juro-gold)">→</span>
+                    </button>
                 </div>
             </div>
 
             <div id="step-audit" class="step">
                 <span class="juro-meta">Compliance Audit</span>
-                <h1 class="juro-h1" id="audit-title">Eligibility Brief.</h1>
+                <h1 class="juro-h1" id="audit-title">Framework Brief.</h1>
                 
                 <div id="audit-content" class="audit-briefing">
                     </div>
 
                 <div class="choice-grid">
-                    <div class="juro-tile" style="padding: 2rem;" onclick="goToContact(true)">
+                    <div class="juro-tile" style="padding: 2.5rem;" onclick="goToContact(true)">
                         <h3>I meet these criteria</h3>
-                        <p>Proceed to priority strategy scheduling.</p>
+                        <p>Proceed to priority strategy session booking.</p>
                     </div>
-                    <div class="juro-tile" style="padding: 2rem;" onclick="goToContact(false)">
+                    <div class="juro-tile" style="padding: 2.5rem;" onclick="goToContact(false)">
                         <h3>I have questions</h3>
-                        <p>Proceed to standard legal inquiry.</p>
+                        <p>Proceed to bespoke legal inquiry form.</p>
                     </div>
                 </div>
+                <p style="text-align: center; margin-top: 2rem;"><a href="javascript:void(0)" onclick="reset()" style="color: #94A3B8; font-size: 0.75rem; text-decoration: none; letter-spacing: 2px;">← BACK</a></p>
             </div>
 
             <div id="step-contact" class="step">
-                <span class="juro-meta">Case File Initiation</span>
-                <h1 class="juro-h1">Verify Identity.</h1>
-                <p class="juro-sub">Submit your details to finalize your briefing request. Priority leads will receive immediate calendar access.</p>
+                <span class="juro-meta">Identity Verification</span>
+                <h1 class="juro-h1">Generate Case File.</h1>
+                <p class="juro-sub">Submit your details to finalize your request. Qualified leads will receive immediate calendar access.</p>
                 <form id="juro-form" action="https://formspree.io/f/mwpjpyoj" method="POST" onsubmit="handleFormSubmission(event)">
-                    <input type="hidden" name="Path" id="context-path">
-                    <input type="hidden" name="Priority_Status" id="priority-status">
-                    <input type="text" name="name" class="juro-input" required placeholder="FULL NAME">
-                    <input type="email" name="email" class="juro-input" required placeholder="PRIVATE EMAIL ADDRESS">
+                    <input type="hidden" name="Inquiry_Path" id="context-path">
+                    <input type="hidden" name="Eligibility_Status" id="priority-status">
+                    
+                    <div style="margin-bottom: 2rem;">
+                        <input type="text" name="name" class="juro-input" required placeholder="FULL NAME">
+                    </div>
+                    <div style="margin-bottom: 2.5rem;">
+                        <input type="email" name="email" class="juro-input" required placeholder="EMAIL ADDRESS">
+                    </div>
+                    
                     <button type="submit" class="juro-btn" id="submit-btn">Initialize Case File</button>
                 </form>
             </div>
@@ -198,14 +186,15 @@ permalink: /contact/
             <div id="step-calendar" class="step">
                 <span class="juro-meta">Priority Access Confirmed</span>
                 <h1 class="juro-h1">Strategy Session.</h1>
-                <div style="border: 1px solid var(--juro-border); border-radius: 4px; overflow: hidden;">
+                <div style="border: 1px solid var(--juro-border); border-radius: 4px; overflow: hidden; background: #fff;">
                     <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" style="border: 0" width="100%" height="650" frameborder="0"></iframe>
                 </div>
             </div>
 
             <div id="step-success" class="step" style="text-align: center; padding-top: 5rem;">
                 <h1 class="juro-h1">Brief Received.</h1>
-                <p class="juro-sub" style="margin: 0 auto 3rem;">Your details have been routed to our senior counsel. Expect a bespoke response within 4 business hours.</p>
+                <p class="juro-sub" style="margin: 0 auto 3rem;">Your case file has been routed to our senior counsel. You will receive a bespoke response within 4 business hours.</p>
+                <div style="height: 1px; width: 100px; background: var(--juro-gold); margin: 0 auto;"></div>
             </div>
 
         </div>
@@ -213,47 +202,30 @@ permalink: /contact/
 </div>
 
 <script>
-    let currentContext = "";
+    let currentType = "";
     let isPriority = false;
 
-    function setService(service, progress) {
-        document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
-        document.getElementById('step-' + service.toLowerCase()).classList.add('active');
-        document.getElementById('laser').style.width = progress + "%";
-    }
-
     function runAudit(type) {
-        currentContext = type;
+        currentType = type;
         const title = document.getElementById('audit-title');
         const content = document.getElementById('audit-content');
         
         if(type === 'DNV') {
             title.innerText = "DNV Requirements";
-            content.innerHTML = `<h4>Digital Nomad Visa (2026)</h4>
+            content.innerHTML = `<h4>Digital Nomad Visa Eligibility</h4>
                 <ul>
-                    <li>Monthly Income: Minimum of approx. €3,100 for a single applicant.</li>
-                    <li>Professional status: Minimum 3 months remote contract or freelancing history.</li>
-                    <li>Clean criminal record for the past 2-5 years.</li>
+                    <li>Monthly Income: Minimum of approx. €3,100 (Single Applicant).</li>
+                    <li>Status: Freelancer or Remote Employee for a non-Spanish company.</li>
+                    <li>History: Minimum 3 months of existing professional relationship.</li>
                 </ul>`;
         } else if (type === 'NLV') {
             title.innerText = "NLV Requirements";
-            content.innerHTML = `<h4>Non-Lucrative Visa</h4>
+            content.innerHTML = `<h4>Non-Lucrative Visa Eligibility</h4>
                 <ul>
-                    <li>Passive Wealth: Minimum of approx. €30,000 in personal savings.</li>
-                    <li>Employment: No Spanish-based remote work permitted under this framework.</li>
-                    <li>Healthcare: Comprehensive private Spanish health insurance required.</li>
+                    <li>Savings: Minimum of approx. €30,000 in personal liquidity.</li>
+                    <li>Restrictions: No remote or local employment allowed in Spain.</li>
+                    <li>Health: Full-coverage private Spanish insurance is mandatory.</li>
                 </ul>`;
-        } else if (type === 'Property-Ready') {
-            title.innerText = "Conveyancing Audit";
-            content.innerHTML = `<h4>Active Acquisition Briefing</h4>
-                <ul>
-                    <li>Deposit: Do not pay the 10% deposit until the Arras contract is audited.</li>
-                    <li>Timeline: We prioritize deals with an existing offer or viewing scheduled.</li>
-                    <li>Security: Independent legal representation is essential for deposit safety.</li>
-                </ul>`;
-        } else {
-            title.innerText = "General Inquiry";
-            content.innerHTML = `<p>We specialize in bespoke legal matters and corporate law. Please proceed to share your requirements.</p>`;
         }
 
         document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
@@ -261,10 +233,20 @@ permalink: /contact/
         document.getElementById('laser').style.width = "50%";
     }
 
+    function setGeneral() {
+        currentType = "General/Other";
+        isPriority = false;
+        document.getElementById('context-path').value = "General Inquiry";
+        document.getElementById('priority-status').value = "Standard";
+        document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+        document.getElementById('step-contact').classList.add('active');
+        document.getElementById('laser').style.width = "75%";
+    }
+
     function goToContact(qualifies) {
         isPriority = qualifies;
-        document.getElementById('context-path').value = currentContext;
-        document.getElementById('priority-status').value = qualifies ? "High-Priority" : "Standard";
+        document.getElementById('context-path').value = currentType;
+        document.getElementById('priority-status').value = qualifies ? "Qualified/Calendar" : "Unqualified/Email";
         document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
         document.getElementById('step-contact').classList.add('active');
         document.getElementById('laser').style.width = "75%";
@@ -284,11 +266,18 @@ permalink: /contact/
         if (response.ok) {
             document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
             document.getElementById('laser').style.width = "100%";
-            if (isPriority) {
+            // Only DNV/NLV leads who "Meet Criteria" get the calendar
+            if (isPriority && (currentType === 'DNV' || currentType === 'NLV')) {
                 document.getElementById('step-calendar').classList.add('active');
             } else {
                 document.getElementById('step-success').classList.add('active');
             }
         }
+    }
+
+    function reset() {
+        document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+        document.getElementById('step-1').classList.add('active');
+        document.getElementById('laser').style.width = "20%";
     }
 </script>
