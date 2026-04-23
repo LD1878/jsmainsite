@@ -26,7 +26,7 @@ permalink: /contact/
     .juro-stage {
         background: var(--juro-white);
         border: 1px solid var(--juro-border);
-        min-height: 780px;
+        min-height: 820px;
         position: relative;
         overflow: hidden;
         display: flex;
@@ -101,11 +101,18 @@ permalink: /contact/
 
     /* FORM & INPUTS */
     .juro-input {
-        width: 100%; padding: 1.5rem 0; border: none; border-bottom: 2px solid var(--juro-border);
-        font-size: 1.25rem; outline: none; background: transparent; color: var(--juro-navy); transition: border-color 0.4s;
+        width: 100%; padding: 1.2rem 0; border: none; border-bottom: 2px solid var(--juro-border);
+        font-size: 1.2rem; outline: none; background: transparent; color: var(--juro-navy); transition: border-color 0.4s;
+        font-family: inherit;
     }
     .juro-input:focus { border-bottom-color: var(--juro-gold); }
-    .juro-btn { background: var(--juro-navy); color: white; border: none; padding: 1.5rem; font-family: 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: 3px; cursor: pointer; width: 100%; font-size: 1.1rem; transition: background 0.3s; }
+    
+    textarea.juro-input {
+        min-height: 120px;
+        resize: none;
+    }
+
+    .juro-btn { background: var(--juro-navy); color: white; border: none; padding: 1.5rem; font-family: 'Oswald', sans-serif; text-transform: uppercase; letter-spacing: 3px; cursor: pointer; width: 100%; font-size: 1.1rem; transition: background 0.3s; margin-top: 1rem; }
     .juro-btn:hover { background: var(--juro-red); }
 
     /* ANIMATIONS */
@@ -165,18 +172,28 @@ permalink: /contact/
             </div>
 
             <div id="step-contact" class="step">
-                <span class="juro-meta">Identity Verification</span>
-                <h1 class="juro-h1">Generate Case File.</h1>
-                <p class="juro-sub">Submit your details to finalize your request. Qualified leads will receive immediate calendar access.</p>
+                <span class="juro-meta">Case File Initiation</span>
+                <h1 class="juro-h1">Personal Details.</h1>
+                <p class="juro-sub">Provide a brief overview of your situation. Qualified leads will receive immediate calendar access following submission.</p>
+                
                 <form id="juro-form" action="https://formspree.io/f/mwpjpyoj" method="POST" onsubmit="handleFormSubmission(event)">
                     <input type="hidden" name="Inquiry_Path" id="context-path">
                     <input type="hidden" name="Eligibility_Status" id="priority-status">
                     
-                    <div style="margin-bottom: 2rem;">
-                        <input type="text" name="name" class="juro-input" required placeholder="FULL NAME">
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 1rem;">
+                        <div>
+                            <label class="juro-meta" style="font-size: 0.6rem; color: #94A3B8;">Full Name</label>
+                            <input type="text" name="name" class="juro-input" required placeholder="Julian Juro">
+                        </div>
+                        <div>
+                            <label class="juro-meta" style="font-size: 0.6rem; color: #94A3B8;">Email Address</label>
+                            <input type="email" name="email" class="juro-input" required placeholder="name@domain.com">
+                        </div>
                     </div>
-                    <div style="margin-bottom: 2.5rem;">
-                        <input type="email" name="email" class="juro-input" required placeholder="EMAIL ADDRESS">
+
+                    <div style="margin-bottom: 2rem;">
+                        <label class="juro-meta" style="font-size: 0.6rem; color: #94A3B8;">Brief Case Overview / Comments</label>
+                        <textarea name="message" class="juro-input" placeholder="Tell us about your timeline, citizenship, or specific concerns..." required></textarea>
                     </div>
                     
                     <button type="submit" class="juro-btn" id="submit-btn">Initialize Case File</button>
@@ -186,6 +203,7 @@ permalink: /contact/
             <div id="step-calendar" class="step">
                 <span class="juro-meta">Priority Access Confirmed</span>
                 <h1 class="juro-h1">Strategy Session.</h1>
+                <p class="juro-sub">Select a briefing time below. Our counsel will have reviewed your notes prior to the session.</p>
                 <div style="border: 1px solid var(--juro-border); border-radius: 4px; overflow: hidden; background: #fff;">
                     <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" style="border: 0" width="100%" height="650" frameborder="0"></iframe>
                 </div>
@@ -193,7 +211,7 @@ permalink: /contact/
 
             <div id="step-success" class="step" style="text-align: center; padding-top: 5rem;">
                 <h1 class="juro-h1">Brief Received.</h1>
-                <p class="juro-sub" style="margin: 0 auto 3rem;">Your case file has been routed to our senior counsel. You will receive a bespoke response within 4 business hours.</p>
+                <p class="juro-sub" style="margin: 0 auto 3rem;">Your case file has been routed to our senior counsel. You will receive a bespoke response via email within 4 business hours.</p>
                 <div style="height: 1px; width: 100px; background: var(--juro-gold); margin: 0 auto;"></div>
             </div>
 
