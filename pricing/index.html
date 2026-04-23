@@ -51,6 +51,32 @@ permalink: /pricing/
         border-color: var(--gold-color);
     }
 
+    /* NEW: REQUIREMENT BOX STYLING */
+    .req-box {
+        background: rgba(197, 160, 89, 0.08); /* Subtle Gold Tint */
+        border-left: 3px solid var(--gold-color);
+        padding: 1.2rem;
+        margin-bottom: 1.5rem;
+        border-radius: 4px;
+    }
+
+    .req-box h4 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        margin: 0 0 0.5rem 0;
+        color: var(--gold-color);
+        border: none;
+    }
+
+    .req-box p {
+        font-size: 0.85rem;
+        line-height: 1.4;
+        margin: 0;
+        color: var(--text-muted);
+    }
+
     /* Featured/Most Popular Styling */
     .pricing-card-premium.featured {
         border: 3px solid var(--sp-red);
@@ -76,7 +102,7 @@ permalink: /pricing/
     }
 
     .price-display {
-        margin: 2rem 0;
+        margin: 2rem 0 1rem 0;
         font-family: 'Oswald', sans-serif;
     }
 
@@ -92,9 +118,9 @@ permalink: /pricing/
     }
 
     .pricing-features li {
-        padding: 14px 0;
+        padding: 12px 0;
         border-bottom: 1px solid var(--border-light);
-        font-size: 1rem;
+        font-size: 0.95rem;
         display: flex;
         gap: 12px;
         align-items: center;
@@ -198,7 +224,7 @@ permalink: /pricing/
         
         <div class="pricing-card-premium" id="essentials">
             <h3 style="margin-top:0; border:none; font-size: 1.6rem; color: var(--text-primary);">Relocation Essentials</h3>
-            <p class="small" style="color: var(--text-muted);">Foundational setup for life in Spain.</p>
+            <p class="small" style="color: var(--text-muted); margin-bottom: 1.5rem;">Foundational setup for life in Spain.</p>
             
             <div class="price-display">
                 <span class="currency">€</span><span class="amount">250</span><span class="tax">+IVA</span>
@@ -218,19 +244,23 @@ permalink: /pricing/
         <div class="pricing-card-premium featured" id="dnv">
             <span class="popular-tag">Most Popular</span>
             <h3 style="margin-top:0; border:none; font-size: 1.6rem; color: var(--text-primary);">Digital Nomad Visa</h3>
-            <p class="small" style="color: var(--text-muted);">The complete 3-year residency package.</p>
+            <p class="small" style="color: var(--text-muted); margin-bottom: 0.5rem;">The complete 3-year residency package.</p>
             
             <div class="price-display">
                 <span class="currency" style="color:var(--sp-red);">€</span><span class="amount" style="color:var(--sp-red);">960</span><span class="tax">+IVA</span>
             </div>
 
+            <div class="req-box">
+                <h4>Core Requirements:</h4>
+                <p>€3,100+ monthly income & 3 months remote work history.</p>
+            </div>
+
             <ul class="pricing-features">
                 <li><b>Full UGE-CE Submission</b></li>
                 <li>Expert Document Audit</li>
-                <li>Translation Coordination</li>
-                <li>Beckham Law Tax Review</li>
                 <li>Post-Approval TIE Support</li>
                 <li>Vetted Attorney Filing</li>
+                <li>Direct Lawyer Communication</li>
             </ul>
 
             <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" class="btn" style="width: 100%;">Book Eligibility Call</a>
@@ -238,10 +268,15 @@ permalink: /pricing/
 
         <div class="pricing-card-premium" id="nlv">
             <h3 style="margin-top:0; border:none; font-size: 1.6rem; color: var(--text-primary);">Non-Lucrative Visa</h3>
-            <p class="small" style="color: var(--text-muted);">For retirees and those with passive income.</p>
+            <p class="small" style="color: var(--text-muted); margin-bottom: 0.5rem;">For retirees and those with passive income.</p>
             
             <div class="price-display">
                 <span class="currency">€</span><span class="amount">1.4k</span><span class="tax"> (Starting)</span>
+            </div>
+
+            <div class="req-box">
+                <h4>Core Requirements:</h4>
+                <p>€30,000+ personal savings. No Spanish remote work permitted.</p>
             </div>
 
             <ul class="pricing-features">
@@ -249,7 +284,6 @@ permalink: /pricing/
                 <li>Financial Means Compliance Audit</li>
                 <li>Health Insurance Verification</li>
                 <li>Criminal Record Legalization</li>
-                <li>Medical Certificate Review</li>
                 <li>Visa Interview Preparation</li>
             </ul>
 
@@ -320,4 +354,3 @@ permalink: /pricing/
     </div>
 
 </div>
-```
