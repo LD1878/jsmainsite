@@ -222,7 +222,6 @@ permalink: /contact/
 <div class="container">
     <div class="concierge-wrapper">
         
-        <!-- SIDEBAR with rotating testimonial -->
         <div class="concierge-sidebar">
             <div style="position: relative; z-index: 2;">
                 <div class="agent-avatar">J</div>
@@ -239,19 +238,15 @@ permalink: /contact/
             </div>
         </div>
 
-        <!-- FORM AREA -->
         <div class="concierge-form-area" style="position: relative; overflow: hidden;">
-            <!-- Subtle radial gradient accent -->
             <div style="position: absolute; top: -20px; right: -20px; width: 150px; height: 150px; background: radial-gradient(circle, rgba(227,6,19,0.03) 0%, transparent 70%); border-radius: 50%; pointer-events: none;"></div>
             
-            <!-- Progress indicator -->
             <div style="display: flex; justify-content: center; gap: 0.5rem; margin-bottom: 2rem;">
                 <div id="progress-step1" style="width: 40px; height: 4px; background: var(--sp-red); border-radius: 2px;"></div>
                 <div id="progress-step2" style="width: 40px; height: 4px; background: var(--border-light); border-radius: 2px;"></div>
                 <div id="progress-step3" style="width: 40px; height: 4px; background: var(--border-light); border-radius: 2px;"></div>
             </div>
             
-            <!-- STEP 1: Service selection -->
             <div id="step-1" class="form-step active">
                 <h2 style="border: none; margin-top: 0; color: var(--text-primary);">How may we assist you?</h2>
                 <div class="service-grid">
@@ -274,7 +269,6 @@ permalink: /contact/
                 </div>
             </div>
 
-            <!-- BRANCH: DNV (with additional qualifiers) -->
             <div id="branch-dnv" class="form-step">
                 <h2 style="border: none; margin-top: 0; color: var(--text-primary);">DNV Quick Check</h2>
                 
@@ -287,7 +281,6 @@ permalink: /contact/
                     <option value="Australia">Australia</option>
                     <option value="Singapore">Singapore</option>
                     <option value="Other">Other</option>
-                    <!-- In practice, you'd list all countries. For brevity, we include key ones + Other. -->
                 </select>
 
                 <div class="two-col">
@@ -333,7 +326,6 @@ permalink: /contact/
                 </div>
             </div>
 
-            <!-- BRANCH: Property (with additional qualifiers) -->
             <div id="branch-property" class="form-step">
                 <h2 style="border: none; margin-top: 0; color: var(--text-primary);">Property Details</h2>
                 
@@ -386,7 +378,6 @@ permalink: /contact/
                 </div>
             </div>
 
-            <!-- BRANCH: Beckham Law (with additional qualifiers) -->
             <div id="branch-beckham" class="form-step">
                 <h2 style="border: none; margin-top: 0; color: var(--text-primary);">Tax Profile</h2>
                 
@@ -436,7 +427,6 @@ permalink: /contact/
                 </div>
             </div>
 
-            <!-- STEP: Analyzing -->
             <div id="step-analyzing" class="form-step">
                 <div class="analyzing-screen">
                     <div class="spinner"></div>
@@ -448,7 +438,6 @@ permalink: /contact/
                 </div>
             </div>
 
-            <!-- STEP: Success (calendar) -->
             <div id="step-success" class="form-step">
                 <div style="width: 60px; height: 60px; background: var(--sp-red); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; animation: scaleIn 0.3s ease;">
                     <span style="color: white; font-size: 2rem;">✓</span>
@@ -457,12 +446,11 @@ permalink: /contact/
                 <h2 style="border: none; margin-top: 0; color: var(--text-primary);">You qualify for a <span style="color: var(--sp-red);">Priority Audit</span>.</h2>
                 <p style="color: var(--text-muted); margin-bottom: 1.5rem;">Your profile matches our success criteria. Please select a time below to finalize your roadmap.</p>
                 
-                <div style="width:100%; height:450px; overflow:scroll; border: 1px solid var(--border-light); border-radius: 12px;">
-                    <iframe src="https://app.cal.eu/jurospain/30min?embed=true" frameborder="0" style="width: 100%; height: 100%;"></iframe>
+                <div style="width:100%; height:600px; overflow:scroll; border: 1px solid var(--border-light); border-radius: 12px;">
+                    <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" frameborder="0" style="width: 100%; height: 100%;"></iframe>
                 </div>
             </div>
 
-            <!-- STEP: Contact form -->
             <div id="step-form" class="form-step">
                 <h2 style="border: none; margin-top: 0; color: var(--text-primary);">Your next step</h2>
                 <p style="color: var(--text-muted);">Please provide your details and we'll get back to you shortly.</p>
