@@ -1,303 +1,235 @@
 ---
 layout: default
-title: Concierge Intake | JURO Spain
+title: Bespoke Intake | JURO Spain
 permalink: /contact/
 ---
 
 <style>
     :root {
-        --juro-red: #E30613;
+        --juro-navy: #0A192F;
         --juro-gold: #C5A059;
-        --juro-dark: #1A1A1A;
-        --juro-gray: #F9F9F9;
-        --juro-border: #EEEEEE;
+        --juro-red: #E30613;
+        --juro-slate: #1E293B;
+        --juro-bg: #F8FAFC;
+        --juro-white: #FFFFFF;
+        --juro-border: #E2E8F0;
     }
 
-    /* 1. LAYOUT & RESET */
-    .juro-concierge-container {
-        max-width: 1000px;
+    .juro-concierge-system {
+        max-width: 1100px;
         margin: 4rem auto;
         padding: 0 20px;
         font-family: 'Inter', sans-serif;
     }
 
-    .juro-card {
-        background: white;
+    /* THE STAGE */
+    .juro-stage {
+        background: var(--juro-white);
         border: 1px solid var(--juro-border);
-        border-radius: 4px; /* Sharp, professional corners */
-        display: grid;
-        grid-template-columns: 320px 1fr;
-        min-height: 700px;
-        box-shadow: 0 30px 60px rgba(0,0,0,0.05);
+        min-height: 750px;
+        position: relative;
         overflow: hidden;
-    }
-
-    /* 2. SIDEBAR - The Authority */
-    .juro-sidebar {
-        background: var(--juro-dark);
-        color: white;
-        padding: 3rem 2rem;
         display: flex;
         flex-direction: column;
+        box-shadow: 0 40px 80px rgba(10, 25, 47, 0.08);
     }
 
-    .juro-sidebar h2 {
+    /* THE TOP LASER PROGRESS */
+    .laser-progress {
+        position: absolute; top: 0; left: 0; height: 4px;
+        background: linear-gradient(90deg, var(--juro-red), var(--juro-gold));
+        width: 20%;
+        transition: width 0.8s cubic-bezier(0.65, 0, 0.35, 1);
+        z-index: 10;
+    }
+
+    .juro-body { padding: 4rem; flex-grow: 1; position: relative; }
+
+    /* TYPOGRAPHY */
+    .juro-h1 {
         font-family: 'Oswald', sans-serif;
         text-transform: uppercase;
-        letter-spacing: 2px;
-        font-size: 1.8rem;
+        font-size: 3rem;
+        letter-spacing: 1px;
+        line-height: 1;
+        margin-bottom: 1.5rem;
+        color: var(--juro-navy);
+    }
+
+    .juro-meta {
+        font-family: 'Oswald', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        font-size: 0.8rem;
+        color: var(--juro-gold);
         margin-bottom: 1rem;
-        color: white;
-        border: none;
+        display: block;
+        font-weight: 600;
     }
 
-    .juro-sidebar p {
-        font-size: 0.9rem;
-        line-height: 1.6;
-        color: #999;
-    }
+    .juro-sub { color: var(--juro-slate); font-size: 1.1rem; margin-bottom: 3rem; max-width: 600px; line-height: 1.6; opacity: 0.8; }
 
-    .juro-sidebar .badge {
-        margin-top: auto;
-        padding-top: 2rem;
-        border-top: 1px solid #333;
-    }
-
-    /* 3. MAIN CONTENT AREA */
-    .juro-content {
-        padding: 4rem;
-        position: relative;
-    }
-
-    .step-title {
-        font-family: 'Oswald', sans-serif;
-        text-transform: uppercase;
-        font-size: 1.5rem;
-        margin-bottom: 2rem;
-        color: var(--juro-dark);
-    }
-
-    /* 4. TILE SELECTORS - The "No Work" Logic */
-    .juro-grid {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 15px;
-    }
+    /* TILES */
+    .choice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
 
     .juro-tile {
         border: 1px solid var(--juro-border);
-        padding: 2rem 1.5rem;
+        padding: 3rem 2rem;
         cursor: pointer;
-        transition: all 0.2s ease;
-        text-align: left;
+        transition: all 0.4s cubic-bezier(0.23, 1, 0.32, 1);
+        background: #FDFDFD;
+        position: relative;
         display: flex;
         flex-direction: column;
         justify-content: center;
-        background: var(--juro-gray);
     }
 
     .juro-tile:hover {
-        border-color: var(--juro-red);
-        background: white;
+        border-color: var(--juro-navy);
+        background: var(--juro-white);
+        transform: translateY(-8px);
+        box-shadow: 0 20px 40px rgba(10, 25, 47, 0.05);
     }
 
-    .juro-tile h3 {
-        font-family: 'Oswald', sans-serif;
-        font-size: 1.1rem;
-        margin: 0;
-        text-transform: uppercase;
-        color: var(--juro-dark);
+    .juro-tile::after {
+        content: "→"; position: absolute; right: 2rem; bottom: 2rem;
+        font-size: 1.5rem; color: var(--juro-gold); opacity: 0; transition: 0.3s;
     }
 
-    .juro-tile p {
-        margin: 5px 0 0;
-        font-size: 0.85rem;
-        color: #666;
+    .juro-tile:hover::after { opacity: 1; transform: translateX(5px); }
+
+    .juro-tile h3 { font-family: 'Oswald', sans-serif; text-transform: uppercase; margin: 0 0 12px 0; font-size: 1.5rem; color: var(--juro-navy); }
+    .juro-tile p { color: #64748B; font-size: 1rem; margin: 0; line-height: 1.5; }
+
+    /* INPUTS */
+    .juro-input-group { margin-bottom: 2rem; position: relative; }
+    .juro-input {
+        width: 100%; padding: 1.5rem 0; border: none;
+        border-bottom: 2px solid var(--juro-border);
+        font-size: 1.25rem; outline: none; background: transparent;
+        color: var(--juro-navy); transition: border-color 0.4s;
     }
+    .juro-input:focus { border-bottom-color: var(--juro-gold); }
 
-    /* 5. FORM ELEMENTS */
-    .juro-input-group { margin-bottom: 1.5rem; }
-    
-    .juro-label {
-        font-family: 'Oswald', sans-serif;
-        font-size: 0.75rem;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        display: block;
-        margin-bottom: 8px;
-        color: #888;
-    }
-
-    .juro-field {
-        width: 100%;
-        padding: 1rem;
-        border: 1px solid var(--juro-border);
-        font-size: 1rem;
-        border-radius: 0;
-        outline: none;
-    }
-
-    .juro-field:focus { border-color: var(--juro-dark); }
-
-    /* 6. BUTTONS */
     .juro-btn {
-        background: var(--juro-red);
-        color: white;
-        padding: 1.2rem 2rem;
-        font-family: 'Oswald', sans-serif;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        border: none;
-        cursor: pointer;
-        width: 100%;
-        transition: opacity 0.2s;
+        background: var(--juro-navy); color: white; border: none;
+        padding: 1.5rem; font-family: 'Oswald', sans-serif;
+        text-transform: uppercase; letter-spacing: 3px;
+        cursor: pointer; width: 100%; font-size: 1.1rem;
+        transition: background 0.3s;
     }
+    .juro-btn:hover { background: var(--juro-red); }
 
-    .juro-btn:hover { opacity: 0.9; }
-
-    /* 7. ANIMATIONS & STATES */
+    /* ANIMATIONS */
     .step { display: none; }
-    .step.active { display: block; animation: slideIn 0.4s ease-out; }
+    .step.active { display: block; animation: smoothEntry 0.7s ease-out forwards; }
 
-    @keyframes slideIn {
-        from { opacity: 0; transform: translateX(10px); }
-        to { opacity: 1; transform: translateX(0); }
+    @keyframes smoothEntry { 
+        from { opacity: 0; transform: translateY(20px) scale(0.98); filter: blur(5px); } 
+        to { opacity: 1; transform: translateY(0) scale(1); filter: blur(0); } 
     }
 
-    .loading-overlay {
-        text-align: center;
-        padding: 5rem 0;
-    }
-
-    .spinner {
-        width: 40px; height: 40px;
-        border: 2px solid var(--juro-border);
-        border-top: 2px solid var(--juro-red);
-        border-radius: 50%;
-        animation: spin 0.8s linear infinite;
-        margin: 0 auto 1.5rem;
-    }
-
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    /* MOBILE ADJUSTMENTS */
-    @media (max-width: 850px) {
-        .juro-card { grid-template-columns: 1fr; }
-        .juro-sidebar { padding: 2rem; }
-        .juro-content { padding: 2rem; }
-        .juro-grid { grid-template-columns: 1fr; }
+    @media (max-width: 768px) { 
+        .choice-grid { grid-template-columns: 1fr; } 
+        .juro-body { padding: 2rem; } 
+        .juro-h1 { font-size: 2.2rem; } 
     }
 </style>
 
-<div class="juro-concierge-container">
-    <div class="juro-card">
-        
-        <div class="juro-sidebar">
-            <h2 id="sidebar-title">Concierge</h2>
-            <p id="sidebar-desc">We route your inquiry to specialized legal counsel based on your specific requirements.</p>
-            
-            <div class="badge">
-                <p style="color: white; font-weight: bold; margin-bottom: 5px;">MÁLAGA • MADRID</p>
-                <p style="font-size: 0.75rem;">Premium Legal Services</p>
-            </div>
-        </div>
+<div class="juro-concierge-system">
+    <div class="juro-stage">
+        <div id="laser" class="laser-progress"></div>
 
-        <div class="juro-content">
+        <div class="juro-body">
             
             <div id="step-1" class="step active">
-                <div class="step-title">How can we assist?</div>
-                <div class="juro-grid">
-                    <div class="juro-tile" onclick="selectService('visa', 'Visa & Residency')">
+                <span class="juro-meta">Strategic Intake</span>
+                <h1 class="juro-h1">Define Your<br>Legal Path</h1>
+                <p class="juro-sub">Select your area of inquiry to access specialized counsel and bypass general administrative queues.</p>
+                
+                <div class="choice-grid">
+                    <div class="juro-tile" onclick="setService('Residency', 40)">
                         <h3>Residency</h3>
-                        <p>Digital Nomad & NLV</p>
+                        <p>Specialized filings for Digital Nomad, Non-Lucrative, and High-Wealth Visas.</p>
                     </div>
-                    <div class="juro-tile" onclick="selectService('property', 'Property Law')">
+                    <div class="juro-tile" onclick="setService('Property', 40)">
                         <h3>Property</h3>
-                        <p>Buying or Selling</p>
+                        <p>Independent legal protection for safe real estate acquisition and conveyancing.</p>
                     </div>
-                    <div class="juro-tile" onclick="selectService('tax', 'Tax & Beckham Law')">
-                        <h3>Taxation</h3>
-                        <p>Beckham Law & Wealth</p>
-                    </div>
-                    <div class="juro-tile" onclick="selectService('other', 'General Inquiry')">
-                        <h3>Other</h3>
-                        <p>General Matters</p>
-                    </div>
+                </div>
+                <div style="margin-top: 24px;">
+                    <button class="juro-tile" style="width: 100%; padding: 2rem; flex-direction: row; justify-content: space-between; align-items: center;" onclick="showContact('Corporate/General')">
+                        <h3 style="margin: 0; font-size: 1.2rem;">General / Corporate Matter</h3>
+                        <span style="color: var(--juro-gold)">→</span>
+                    </button>
                 </div>
             </div>
 
-            <div id="step-visa" class="step">
-                <div class="step-title">Visa Qualification</div>
-                
-                <div class="juro-input-group">
-                    <label class="juro-label">Primary Citizenship</label>
-                    <select id="visa-citizen" class="juro-field">
-                        <option value="Non-EU">Non-EU (USA, UK, CA, etc)</option>
-                        <option value="EU">EU Citizen</option>
-                    </select>
-                </div>
-
-                <div class="juro-input-group">
-                    <label class="juro-label">Financial Profile</label>
-                    <div class="juro-grid">
-                        <div class="juro-tile" style="padding: 1rem;" onclick="finishAudit(80)">
-                            <h3 style="font-size: 0.9rem;">Income > €35k</h3>
-                        </div>
-                        <div class="juro-tile" style="padding: 1rem;" onclick="finishAudit(40)">
-                            <h3 style="font-size: 0.9rem;">Income < €35k</h3>
-                        </div>
+            <div id="step-residency" class="step">
+                <span class="juro-meta">Residency Categorization</span>
+                <h1 class="juro-h1">Verify Framework.</h1>
+                <p class="juro-sub">Choose your intended visa framework to view current legal processing times.</p>
+                <div class="choice-grid">
+                    <div class="juro-tile" onclick="setProfile('Digital Nomad Visa')">
+                        <h3>Digital Nomad</h3>
+                        <p>For remote workers or freelancers with international income.</p>
+                    </div>
+                    <div class="juro-tile" onclick="setProfile('Non-Lucrative Visa')">
+                        <h3>Non-Lucrative</h3>
+                        <p>For those moving to Spain via passive income or personal savings.</p>
                     </div>
                 </div>
-                <p style="text-align: center; margin-top: 1rem;"><a href="#" onclick="resetFlow()" style="font-size: 0.8rem; color: #999; text-transform: uppercase;">← Back</a></p>
+                <p style="text-align: center; margin-top: 3rem;"><a href="javascript:void(0)" onclick="reset()" style="color: #94A3B8; font-size: 0.75rem; text-decoration: none; letter-spacing: 2px;">← BACK TO SELECTION</a></p>
             </div>
 
             <div id="step-property" class="step">
-                <div class="step-title">Property Details</div>
-                <div class="juro-grid">
-                    <div class="juro-tile" onclick="finishAudit(90)">
-                        <h3>Purchasing</h3>
-                        <p>Found a property</p>
+                <span class="juro-meta">Acquisition Stage</span>
+                <h1 class="juro-h1">Current Progress.</h1>
+                <div class="choice-grid">
+                    <div class="juro-tile" onclick="setProfile('Property - Ready')">
+                        <h3>Offer in Progress</h3>
+                        <p>I have identified a property and require an immediate contract audit.</p>
                     </div>
-                    <div class="juro-tile" onclick="finishAudit(60)">
-                        <h3>Searching</h3>
-                        <p>Planning to buy</p>
+                    <div class="juro-tile" onclick="setProfile('Property - Searching')">
+                        <h3>Initial Search</h3>
+                        <p>I am planning an acquisition and require a legal partner for the search phase.</p>
                     </div>
                 </div>
-                <p style="text-align: center; margin-top: 1rem;"><a href="#" onclick="resetFlow()" style="font-size: 0.8rem; color: #999; text-transform: uppercase;">← Back</a></p>
-            </div>
-
-            <div id="step-loading" class="step">
-                <div class="loading-overlay">
-                    <div class="spinner"></div>
-                    <div class="step-title" style="font-size: 1rem;">Routing to Specialist...</div>
-                </div>
-            </div>
-
-            <div id="step-calendar" class="step">
-                <div class="step-title" style="color: var(--juro-red);">Priority Access</div>
-                <p style="margin-bottom: 2rem; font-size: 0.95rem;">You qualify for a direct consultation. Please select a time for your briefing.</p>
-                <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" style="border: 0" width="100%" height="550" frameborder="0"></iframe>
+                <p style="text-align: center; margin-top: 3rem;"><a href="javascript:void(0)" onclick="reset()" style="color: #94A3B8; font-size: 0.75rem; text-decoration: none; letter-spacing: 2px;">← BACK TO SELECTION</a></p>
             </div>
 
             <div id="step-contact" class="step">
-                <div class="step-title">Send Inquiry</div>
-                <p style="margin-bottom: 2rem; font-size: 0.95rem;">Our intake team will review your details and respond via email.</p>
+                <span class="juro-meta">Bespoke Profile</span>
+                <h1 class="juro-h1">Verify Identity.</h1>
+                <p class="juro-sub">Enter your details to generate your case file. If your profile qualifies, you will be routed to a Strategy Session.</p>
                 
-                <form action="https://formspree.io/f/mwpjpyoj" method="POST">
+                <form id="juro-form" action="https://formspree.io/f/mwpjpyoj" method="POST" onsubmit="handleFormSubmission(event)">
+                    <input type="hidden" name="Client_Path" id="context-path">
                     <div class="juro-input-group">
-                        <label class="juro-label">Full Name</label>
-                        <input type="text" name="name" class="juro-field" required>
+                        <label class="juro-meta" style="color: #94A3B8;">Full Name</label>
+                        <input type="text" name="name" id="user-name" class="juro-input" required placeholder="Ex: Julian Juro">
                     </div>
                     <div class="juro-input-group">
-                        <label class="juro-label">Email Address</label>
-                        <input type="email" name="email" class="juro-field" required>
+                        <label class="juro-meta" style="color: #94A3B8;">Private Email Address</label>
+                        <input type="email" name="email" id="user-email" class="juro-input" required placeholder="name@domain.com">
                     </div>
-                    <div class="juro-input-group">
-                        <label class="juro-label">Brief Overview</label>
-                        <textarea name="message" class="juro-field" rows="3"></textarea>
-                    </div>
-                    <button type="submit" class="juro-btn">Request Follow-up</button>
+                    <button type="submit" class="juro-btn" id="submit-btn">Initialize Case File</button>
                 </form>
+            </div>
+
+            <div id="step-calendar" class="step">
+                <span class="juro-meta">Priority Access Confirmed</span>
+                <h1 class="juro-h1" id="cal-title">Strategy Session.</h1>
+                <p class="juro-sub">Select a briefing time below to finalize your residency or property roadmap.</p>
+                <div style="border: 1px solid var(--juro-border); border-radius: 4px; overflow: hidden; background: #fff;">
+                    <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" style="border: 0" width="100%" height="650" frameborder="0"></iframe>
+                </div>
+            </div>
+
+            <div id="step-success" class="step" style="text-align: center; padding-top: 5rem;">
+                <h1 class="juro-h1">Brief Received.</h1>
+                <p class="juro-sub" style="margin: 0 auto 3rem;">Your details have been routed to our senior counsel. Expect a bespoke response within 4 business hours.</p>
+                <div style="height: 1px; width: 100px; background: var(--juro-gold); margin: 0 auto;"></div>
             </div>
 
         </div>
@@ -305,36 +237,66 @@ permalink: /contact/
 </div>
 
 <script>
-    function showStep(stepId) {
+    let globalPath = "";
+
+    function setService(service, progress) {
         document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
-        document.getElementById(stepId).classList.add('active');
+        document.getElementById('step-' + service.toLowerCase()).classList.add('active');
+        document.getElementById('laser').style.width = progress + "%";
     }
 
-    function selectService(type, label) {
-        document.getElementById('sidebar-title').innerText = label;
-        
-        if(type === 'other') {
-            showStep('step-contact');
+    function setProfile(profile) {
+        globalPath = profile;
+        document.getElementById('context-path').value = profile;
+        document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+        document.getElementById('step-contact').classList.add('active');
+        document.getElementById('laser').style.width = "75%";
+    }
+
+    function showContact(context) {
+        globalPath = context;
+        document.getElementById('context-path').value = context;
+        document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+        document.getElementById('step-contact').classList.add('active');
+        document.getElementById('laser').style.width = "75%";
+    }
+
+    async function handleFormSubmission(event) {
+        event.preventDefault();
+        const form = event.target;
+        const btn = document.getElementById('submit-btn');
+        btn.innerText = "Processing...";
+
+        // Submit to Formspree
+        const data = new FormData(form);
+        const response = await fetch(form.action, {
+            method: 'POST',
+            body: data,
+            headers: { 'Accept': 'application/json' }
+        });
+
+        if (response.ok) {
+            document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+            document.getElementById('laser').style.width = "100%";
+
+            // LOGIC: Priority vs Standard
+            // Both Visa (DNV/NLV) and Property-Ready get the Calendar
+            if (globalPath.includes('Visa') || globalPath === 'Property - Ready') {
+                document.getElementById('step-calendar').classList.add('active');
+                if(globalPath.includes('Property')) {
+                    document.getElementById('cal-title').innerText = "Conveyancing Brief";
+                }
+            } else {
+                document.getElementById('step-success').classList.add('active');
+            }
         } else {
-            showStep('step-' + type);
+            alert("An error occurred. Please refresh and try again.");
         }
     }
 
-    function finishAudit(score) {
-        showStep('step-loading');
-        
-        // Artificial "Processing" delay for premium feel
-        setTimeout(() => {
-            if(score >= 75) {
-                showStep('step-calendar');
-            } else {
-                showStep('step-contact');
-            }
-        }, 1200);
-    }
-
-    function resetFlow() {
-        document.getElementById('sidebar-title').innerText = "Concierge";
-        showStep('step-1');
+    function reset() {
+        document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+        document.getElementById('step-1').classList.add('active');
+        document.getElementById('laser').style.width = "20%";
     }
 </script>
