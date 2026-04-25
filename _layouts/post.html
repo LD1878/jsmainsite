@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% assign t = site.data.i18n[page.lang | default: 'en'] %}
 
 <style>
     /* 1. POST HEADER - THEME SYNCED */
@@ -151,12 +150,12 @@ layout: default
     
     <header class="post-header-premium">
         <div class="container">
-            <span class="post-category-tag">{{ t.post_category_tag }}</span>
+            <span class="post-category-tag">Official Guide</span>
             <h1 class="post-title-main" itemprop="headline">{{ page.title }}</h1>
             
             <div style="display: flex; gap: 25px; flex-wrap: wrap; color: var(--text-muted); font-size: 0.9rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1px;">
                 <span>🗓️ {{ page.date | date: "%B %Y" }}</span>
-                <span style="color: var(--sp-red);">{{ t.post_vetted }}</span>
+                <span style="color: var(--sp-red);">⚖️ Vetted by JURO Legal Network</span>
             </div>
         </div>
     </header>
@@ -169,7 +168,7 @@ layout: default
                 <div class="transparency-notice">
                     <span style="font-size: 2.5rem;">⚖️</span>
                     <div>
-                        <strong>{{ t.post_notice_title }}</strong> {{ t.post_notice_body }}
+                        <strong>Legal Transparency:</strong> This guide is authored by JURO Spain's relocation experts. We work alongside a vetted network of licensed Spanish attorneys for formal filings. This content is for informational purposes and does not constitute legal advice.
                     </div>
                 </div>
 
@@ -178,25 +177,25 @@ layout: default
                 </div>
 
                 <div style="margin-top: 6rem; padding: 4rem; background: var(--bg-secondary); border-radius: 24px; text-align: center; border: 1px solid var(--border-light);">
-                    <h2 style="border: none; margin-top: 0; color: var(--text-primary);">{{ t.post_cta_heading }}</h2>
-                    <p style="margin-bottom: 2.5rem; color: var(--text-muted);">{{ t.post_cta_body }}</p>
-                    <a href="https://app.cal.eu/jurospain/30min" class="btn" style="padding: 1.2rem 3rem; font-size: 1.1rem;">{{ t.post_cta_button }}</a>
+                    <h2 style="border: none; margin-top: 0; color: var(--text-primary);">Ready to start your application?</h2>
+                    <p style="margin-bottom: 2.5rem; color: var(--text-muted);">Don't let bureaucracy slow you down. Book a priority call to discuss your residency or property purchase with our team.</p>
+                    <a href="https://app.cal.eu/jurospain/30min" class="btn" style="padding: 1.2rem 3rem; font-size: 1.1rem;">Book Priority Consultation</a>
                 </div>
             </div>
 
             <aside class="post-sidebar">
                 <div class="sidebar-card">
-                    <h4 style="text-transform: uppercase; letter-spacing: 1px; margin-bottom: 1rem;">{{ t.post_sidebar_heading }}</h4>
-                    <p style="font-size: 0.9rem; opacity: 0.9; margin-bottom: 2rem;">{{ t.post_sidebar_body }}</p>
-                    <a href="https://app.cal.eu/jurospain/30min" class="btn btn-white" style="width: 100%; border-radius: 50px;">{{ t.post_sidebar_button }}</a>
+                    <h4 style="text-transform: uppercase; letter-spacing: 1px; margin-bottom: 1rem;">Free Case Review</h4>
+                    <p style="font-size: 0.9rem; opacity: 0.9; margin-bottom: 2rem;">Speak with a relocation specialist about your specific situation in Spain.</p>
+                    <a href="https://app.cal.eu/jurospain/30min" class="btn btn-white" style="width: 100%; border-radius: 50px;">Book Call</a>
                 </div>
 
                 <div id="toc-wrapper" class="toc-container">
-                    <span class="toc-title">{{ t.post_toc_title }}</span>
+                    <span class="toc-title">On This Page</span>
                     </div>
 
                 <div style="margin-top: 3rem; padding: 2rem; border: 1px solid var(--border-light); border-radius: 16px; background: var(--bg-secondary);">
-                    <h4 style="margin-top: 0; font-family: 'Oswald', sans-serif; text-transform: uppercase; color: var(--text-primary);">{{ t.post_related_title }}</h4>
+                    <h4 style="margin-top: 0; font-family: 'Oswald', sans-serif; text-transform: uppercase; color: var(--text-primary);">Related Resources</h4>
                     <ul style="list-style: none; padding: 0; margin-top: 1.5rem;">
                         {% for post in site.posts limit:4 %}
                         {% unless post.url == page.url %}
