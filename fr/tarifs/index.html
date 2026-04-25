@@ -1,0 +1,263 @@
+---
+layout: default
+lang: fr
+ref: /pricing/
+permalink: /fr/tarifs/
+title: "Tarifs Transparents et Forfaitaires | JURO Spain"
+description: "Pas d'honoraires à l'heure. Pas de frais cachés. Accompagnement juridique et relocation à prix fixe pour Visa Nomade Numérique, VNL et Fiscalité en Espagne."
+---
+
+<style>
+    .pricing-hero {
+        padding: 6rem 0 4rem;
+        background: linear-gradient(to bottom, var(--bg-secondary) 0%, var(--bg-primary) 100%);
+        border-top: 8px solid var(--sp-red);
+        text-align: center;
+    }
+    .pricing-h1 {
+        font-family: 'Oswald', sans-serif !important;
+        font-size: clamp(2.5rem, 6vw, 4rem) !important;
+        font-weight: 700 !important;
+        text-transform: uppercase;
+        letter-spacing: -1px !important;
+        margin-bottom: 1.5rem;
+        color: var(--text-primary);
+    }
+    .pricing-flex-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        gap: 2.5rem;
+        margin: 4rem 0;
+        align-items: stretch;
+    }
+    .pricing-card-premium {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border-light);
+        border-radius: 24px;
+        padding: 3.5rem 2.5rem;
+        display: flex;
+        flex-direction: column;
+        transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+        position: relative;
+        color: var(--text-primary);
+    }
+    .pricing-card-premium:hover {
+        transform: translateY(-10px);
+        box-shadow: var(--elev-3);
+        border-color: var(--gold-color);
+    }
+    .req-box {
+        background: rgba(197, 160, 89, 0.08);
+        border-left: 3px solid var(--gold-color);
+        padding: 1.2rem;
+        margin-bottom: 1.5rem;
+        border-radius: 4px;
+    }
+    .req-box h4 {
+        font-family: 'Oswald', sans-serif;
+        font-size: 0.7rem;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        margin: 0 0 0.5rem 0;
+        color: var(--gold-color);
+        border: none;
+    }
+    .req-box p { font-size: 0.85rem; line-height: 1.4; margin: 0; color: var(--text-muted); }
+    .pricing-card-premium.featured {
+        border: 3px solid var(--sp-red);
+        transform: scale(1.05);
+        z-index: 10;
+        box-shadow: 0 30px 60px -12px rgba(227, 6, 19, 0.15);
+    }
+    .popular-tag {
+        position: absolute;
+        top: -18px; left: 50%;
+        transform: translateX(-50%);
+        background: var(--sp-red);
+        color: white;
+        padding: 8px 24px;
+        border-radius: 50px;
+        font-weight: 800; font-size: 0.75rem;
+        text-transform: uppercase; letter-spacing: 1.5px;
+    }
+    .price-display { margin: 2rem 0 1rem 0; font-family: 'Oswald', sans-serif; }
+    .price-display .currency { font-size: 2rem; vertical-align: top; color: var(--text-primary); }
+    .price-display .amount { font-size: 4.5rem; font-weight: 700; color: var(--text-primary); line-height: 1; }
+    .price-display .tax { font-size: 1rem; color: var(--text-muted); font-weight: 400; margin-left: 5px; }
+    .pricing-features { list-style: none; padding: 0; margin: 0 0 3rem 0; flex-grow: 1; }
+    .pricing-features li {
+        padding: 12px 0;
+        border-bottom: 1px solid var(--border-light);
+        font-size: 0.95rem;
+        display: flex; gap: 12px; align-items: center;
+        color: var(--text-primary);
+    }
+    .pricing-features li::before { content: '&#10003;'; color: #25d366; font-weight: 900; font-size: 1.1rem; }
+    .service-faq {
+        border: 1px solid var(--border-light);
+        margin-bottom: 1.2rem;
+        border-radius: 16px;
+        background: var(--bg-secondary);
+        overflow: hidden;
+    }
+    .service-faq summary {
+        padding: 1.5rem;
+        font-weight: 700;
+        cursor: pointer;
+        color: var(--text-primary);
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-family: 'Oswald', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+    .service-faq summary::after { content: '+'; font-size: 1.5rem; color: var(--sp-red); }
+    .service-faq[open] { border-color: var(--sp-red); }
+    .service-faq[open] summary::after { content: '&#x2212;'; }
+    .faq-content { padding: 0 1.5rem 1.5rem 1.5rem; color: var(--text-muted); line-height: 1.7; font-size: 1.05rem; }
+    .comparison-section {
+        background: var(--text-primary);
+        color: var(--bg-secondary);
+        border-radius: 30px;
+        padding: 5rem 4rem;
+        margin: 6rem 0;
+    }
+    .comparison-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4rem; align-items: center; }
+    @media (max-width: 900px) {
+        .pricing-card-premium.featured { transform: scale(1); margin: 2rem 0; }
+        .comparison-grid { grid-template-columns: 1fr; gap: 3rem; }
+        .comparison-section { padding: 3rem 2rem; }
+    }
+</style>
+
+<div class="pricing-hero">
+    <div class="container">
+        <p style="font-weight: 800; color: var(--sp-red); letter-spacing: 2px; text-transform: uppercase; margin-bottom: 1rem;">
+            Forfaits Fixes. Support Francophone. Zéro Surprise.
+        </p>
+        <h1 class="pricing-h1">Tarification Transparente</h1>
+        <p style="font-size: 1.25rem; max-width: 750px; margin: 0 auto; color: var(--text-muted);">
+            Nous facturons des résultats, pas des heures. Accompagnement juridique et relocation optimisé pour les expatriés francophones.
+        </p>
+    </div>
+</div>
+
+<div class="container">
+
+    <div class="pricing-flex-grid">
+
+        <div class="pricing-card-premium">
+            <h3 style="margin-top:0; border:none; font-size: 1.6rem; color: var(--text-primary);">Essentiels Relocation</h3>
+            <p class="small" style="color: var(--text-muted); margin-bottom: 1.5rem;">La base pour s'installer en Espagne.</p>
+            <div class="price-display">
+                <span class="currency">€</span><span class="amount">250</span><span class="tax">+TVA</span>
+            </div>
+            <ul class="pricing-features">
+                <li>Obtention du Numéro NIE</li>
+                <li>Configuration du Certificat Numérique</li>
+                <li>Compte Bancaire Espagnol</li>
+                <li>Inscription Sécurité Sociale</li>
+                <li>Aide à l'Empadronamiento</li>
+            </ul>
+            <a href="https://app.cal.eu/jurospain/30min" class="btn btn-outline" style="width: 100%; border-color: var(--text-primary); color: var(--text-primary) !important;">Démarrer les Essentiels</a>
+        </div>
+
+        <div class="pricing-card-premium featured">
+            <span class="popular-tag">Le Plus Demandé</span>
+            <h3 style="margin-top:0; border:none; font-size: 1.6rem; color: var(--text-primary);">Visa Nomade Numérique</h3>
+            <p class="small" style="color: var(--text-muted); margin-bottom: 0.5rem;">Le pack résidence 3 ans complet.</p>
+            <div class="price-display">
+                <span class="currency" style="color:var(--sp-red);">€</span><span class="amount" style="color:var(--sp-red);">960</span><span class="tax">+TVA</span>
+            </div>
+            <div class="req-box">
+                <h4>Conditions Clés :</h4>
+                <p>3 100 €+ de revenus mensuels et 3 mois d'historique de télétravail.</p>
+            </div>
+            <ul class="pricing-features">
+                <li><b>Dépôt UGE-CE Complet</b></li>
+                <li>Audit Expert des Documents</li>
+                <li>Suivi Post-Approbation TIE</li>
+                <li>Dépôt par Avocat Agréé</li>
+                <li>Communication Directe avec l'Avocat</li>
+            </ul>
+            <a href="https://app.cal.eu/jurospain/30min" class="btn" style="width: 100%;">Appel d'Éligibilité</a>
+        </div>
+
+        <div class="pricing-card-premium">
+            <h3 style="margin-top:0; border:none; font-size: 1.6rem; color: var(--text-primary);">Visa Non Lucratif</h3>
+            <p class="small" style="color: var(--text-muted); margin-bottom: 0.5rem;">Pour les retraités et personnes à revenus passifs.</p>
+            <div class="price-display">
+                <span class="currency">€</span><span class="amount">1,4k</span><span class="tax"> (à partir de)</span>
+            </div>
+            <div class="req-box">
+                <h4>Conditions Clés :</h4>
+                <p>30 000 €+ d'épargne personnelle. Aucun travail à distance en Espagne autorisé.</p>
+            </div>
+            <ul class="pricing-features">
+                <li>Prise de Rendez-vous Consulaire</li>
+                <li>Audit de Conformité Financière</li>
+                <li>Vérification Assurance Maladie</li>
+                <li>Légalisation du Casier Judiciaire</li>
+                <li>Préparation à l'Entretien Consulaire</li>
+            </ul>
+            <a href="https://app.cal.eu/jurospain/30min" class="btn btn-outline" style="width: 100%; border-color: var(--text-primary); color: var(--text-primary) !important;">Vérifier mon Éligibilité</a>
+        </div>
+
+    </div>
+
+    <section class="comparison-section">
+        <div class="comparison-grid">
+            <div>
+                <h2 style="border: none; margin-top: 0; font-size: 2.8rem; color: white !important; font-family: 'Oswald';">L'Avantage JURO.</h2>
+                <p style="font-size: 1.15rem; line-height: 1.8; color: #cbd5e1;">
+                    Les cabinets espagnols traditionnels facturent souvent un pourcentage de vos actifs ou des honoraires horaires élevés. Nous pensons que c'est dépassé.
+                </p>
+                <p style="font-size: 1.15rem; line-height: 1.8; color: #cbd5e1;">
+                    Chez JURO, vous payez pour le <b>résultat</b>, pas pour le temps. Une tarification transparente signifie que vous pouvez budgéter votre installation à l'euro près.
+                </p>
+            </div>
+            <div style="background: var(--bg-secondary); border-radius: 20px; padding: 3rem; border-left: 10px solid var(--gold-color); box-shadow: var(--elev-3);">
+                <h4 style="margin-top: 0; font-size: 1.4rem; color: var(--text-primary); font-family: 'Oswald';">Notre Engagement Tarifaire :</h4>
+                <ul style="list-style: none; padding: 0; margin-top: 1.5rem; line-height: 2.8; font-weight: 600; color: var(--text-primary);">
+                    <li>&#9989; <b>Pas d'Acompte :</b> Paiement au fil de l'avancement.</li>
+                    <li>&#9989; <b>Devis Clairs :</b> TVA toujours indiquée.</li>
+                    <li>&#9989; <b>Tout Compris :</b> Honoraires du réseau juridique inclus.</li>
+                    <li>&#9989; <b>Efficacité :</b> Workflow 100 % Digital.</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <div style="max-width: 850px; margin: 0 auto 8rem;">
+        <h2 class="center" style="border: none; margin-bottom: 4rem; text-align: center; color: var(--text-primary); font-size: 2.5rem;">FAQ Tarifs</h2>
+
+        <details class="service-faq">
+            <summary>Y a-t-il des honoraires d'avocat supplémentaires en sus de ces tarifs ?</summary>
+            <div class="faq-content">Non. Nos honoraires <b>incluent</b> les frais professionnels des avocats agréés de notre réseau juridique qui gèrent votre dépôt officiel. Vous ne payez que les taxes gouvernementales (Tasas) et les traductions assermentées externes.</div>
+        </details>
+
+        <details class="service-faq">
+            <summary>Quand dois-je effectuer le paiement ?</summary>
+            <div class="faq-content">Nous travaillons sur une base 50/50 pour la plupart des services de résidence : 50 % pour démarrer l'audit documentaire et la préparation du dossier, et 50 % lors du dépôt réussi de votre demande auprès des autorités.</div>
+        </details>
+
+        <details class="service-faq">
+            <summary>Proposez-vous des réductions pour les familles ?</summary>
+            <div class="faq-content">Absolument. Les demandes familiales (conjoint et enfants) sont nettement moins chères lorsqu'elles sont traitées avec le demandeur principal. Nous fournissons des devis personnalisés aux familles pour garantir le meilleur rapport qualité-prix.</div>
+        </details>
+
+        <details class="service-faq">
+            <summary>Que se passe-t-il si ma demande est rejetée ?</summary>
+            <div class="faq-content">Nous effectuons un audit d'éligibilité interne strict avant d'accepter votre dossier. Si nous pensons que vous n'obtiendrez pas le visa, nous vous le disons avant que vous ne payiez. Si un rejet survient par notre faute, nous offrons une nouvelle soumission sans frais supplémentaires.</div>
+        </details>
+    </div>
+
+    <div class="center" style="margin-bottom: 8rem; text-align: center;">
+        <h2 style="border: none; font-size: 2.8rem; color: var(--text-primary);">Prêt à commencer ?</h2>
+        <p style="color: var(--text-muted); font-size: 1.25rem; margin-bottom: 3rem;">Réservez un appel gratuit de 15 minutes pour confirmer votre éligibilité.</p>
+        <a href="https://app.cal.eu/jurospain/30min" class="btn" style="padding: 1.5rem 4rem; font-size: 1.2rem; text-decoration: none; display: inline-block;">Réserver un Audit Gratuit</a>
+    </div>
+
+</div>

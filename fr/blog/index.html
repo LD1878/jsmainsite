@@ -1,0 +1,101 @@
+---
+layout: default
+lang: fr
+ref: /blog/
+permalink: /fr/blog/
+title: "Blog & Guides | Ressources pour Votre Résidence et Immobilier en Espagne"
+description: "Guides pratiques sur l'immigration, l'immobilier et la vie d'expatrié en Espagne pour les familles internationales et les professionnels en télétravail."
+---
+
+<style>
+    .blog-hero {
+        padding: 5rem 0 3rem;
+        background: linear-gradient(to bottom, var(--bg-secondary) 0%, var(--bg-primary) 100%);
+        border-top: 8px solid var(--sp-red);
+    }
+    .blog-h1 {
+        font-family: 'Oswald', sans-serif !important;
+        font-size: clamp(2.5rem, 6vw, 4rem) !important;
+        font-weight: 700 !important;
+        text-transform: uppercase;
+        letter-spacing: -2px !important;
+        margin-bottom: 1rem;
+        color: var(--text-primary);
+    }
+    .post-card {
+        background: var(--bg-secondary);
+        border: 1px solid var(--border-light);
+        border-radius: 16px;
+        padding: 2rem;
+        transition: all 0.3s ease;
+        display: flex;
+        flex-direction: column;
+    }
+    .post-card:hover { transform: translateY(-4px); border-color: var(--sp-red); box-shadow: var(--elev-2); }
+    .post-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+        gap: 2rem;
+        margin-top: 3rem;
+    }
+    .post-tag {
+        display: inline-block;
+        background: var(--bg-primary);
+        padding: 4px 12px;
+        border-radius: 50px;
+        font-size: 0.75rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: var(--sp-red);
+        border: 1px solid var(--border-light);
+        margin-bottom: 1rem;
+    }
+</style>
+
+<div class="blog-hero">
+    <div class="container center">
+        <span style="color: var(--sp-red); font-weight: 800; letter-spacing: 2px; text-transform: uppercase; font-size: 0.85rem;">Guides &amp; Analyses</span>
+        <h1 class="blog-h1">Blog &amp; Guides</h1>
+        <p style="color: var(--text-muted); font-size: 1.2rem; max-width: 700px; margin: 0 auto;">
+            Analyses approfondies sur l'immigration, la fiscalité et l'immobilier en Espagne par les experts de JURO Spain.
+        </p>
+    </div>
+</div>
+
+<div class="container" style="padding: 4rem 0 6rem;">
+
+    <div style="margin-bottom: 3rem;">
+        <h2 style="font-family: 'Oswald'; font-size: 1.8rem; color: var(--text-primary); border-bottom: 2px solid var(--border-light); padding-bottom: 1rem;">Guides en Anglais</h2>
+        <p style="color: var(--text-muted);">Nos guides complets sont disponibles en anglais ci-dessous. Des traductions françaises arrivent progressivement.</p>
+    </div>
+
+    <div class="post-grid">
+        {% assign en_posts = site.posts | where_exp: "post", "post.lang != 'fr'" %}
+        {% for post in en_posts limit: 24 %}
+        <article class="post-card">
+            <span class="post-tag">Guide Officiel</span>
+            <h3 style="font-family: 'Oswald'; font-size: 1.3rem; margin: 0 0 0.8rem; color: var(--text-primary);">
+                <a href="{{ post.url | relative_url }}" style="text-decoration: none; color: inherit;">{{ post.title }}</a>
+            </h3>
+            <p style="color: var(--text-muted); font-size: 0.9rem; flex-grow: 1; margin-bottom: 1.5rem;">{{ post.description | truncate: 120 }}</p>
+            <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="color: var(--text-muted); font-size: 0.8rem;">{{ post.date | date: "%B %Y" }}</span>
+                <a href="{{ post.url | relative_url }}" style="color: var(--sp-red); font-weight: 700; font-size: 0.9rem; text-decoration: none;">Lire &rarr;</a>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+
+    {% if en_posts.size > 24 %}
+    <div style="text-align: center; margin-top: 3rem;">
+        <a href="/blog/" class="btn btn-outline">Voir tous les guides</a>
+    </div>
+    {% endif %}
+
+    <div style="margin-top: 5rem; padding: 3rem; background: var(--bg-secondary); border-radius: 20px; text-align: center; border: 1px solid var(--border-light);">
+        <h2 style="font-family: 'Oswald'; font-size: 2rem; margin-bottom: 1rem; color: var(--text-primary);">Une Question Spécifique ?</h2>
+        <p style="color: var(--text-muted); margin-bottom: 2rem;">Nos experts répondent en français. Réservez un appel gratuit pour obtenir une réponse adaptée à votre situation.</p>
+        <a href="/fr/contact/" class="btn" style="padding: 1.2rem 3rem;">Parler à un Expert</a>
+    </div>
+</div>

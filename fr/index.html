@@ -1,0 +1,329 @@
+---
+layout: default
+lang: fr
+ref: /
+permalink: /fr/
+title: "Experts Francophones Immigration & Relocation Espagne | JURO Spain"
+description: "Le partenaire stratégique pour votre installation en Espagne. Conseil de haut niveau et réseau d'avocats agréés pour vos Visas, Immobilier et Fiscalité."
+---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "JuroSpain",
+  "image": "{{ site.url }}/assets/images/juro-logo.jpg",
+  "@id": "{{ site.url }}",
+  "url": "{{ site.url }}/fr/",
+  "telephone": "+34900000000",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Calle Gran Vía",
+    "addressLocality": "Madrid",
+    "postalCode": "28013",
+    "addressCountry": "ES"
+  },
+  "priceRange": "€€€",
+  "description": "Experts francophones en immigration et relocation en Espagne."
+}
+</script>
+
+<style>
+    .hero-authority {
+        padding: 7rem 0 5rem;
+        background: linear-gradient(to bottom, var(--bg-secondary) 0%, var(--bg-primary) 100%);
+        border-top: 8px solid var(--sp-red);
+        position: relative;
+    }
+    .seo-h1 {
+        font-family: 'Oswald', sans-serif;
+        font-size: clamp(2.8rem, 5vw, 4.5rem);
+        font-weight: 700;
+        line-height: 1.1;
+        color: var(--text-primary);
+        text-transform: uppercase;
+        margin-bottom: 1.5rem;
+        letter-spacing: -1px;
+    }
+    .hero-sub {
+        font-size: 1.3rem;
+        max-width: 780px;
+        margin: 0 auto 3rem;
+        color: var(--text-muted);
+        font-family: 'Inter', sans-serif;
+        line-height: 1.6;
+    }
+    .bento-grid {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 2rem;
+        margin-top: 3rem;
+    }
+    .bento-card {
+        background: var(--bg-primary);
+        border: 1px solid var(--border-light);
+        padding: 2.5rem;
+        border-radius: 12px;
+        transition: transform 0.2s, border-color 0.2s;
+        display: flex;
+        flex-direction: column;
+    }
+    .bento-card:hover { transform: translateY(-5px); border-color: var(--sp-red); }
+    .bento-third { grid-column: span 4; }
+    .icon-svg { width: 48px; height: 48px; margin-bottom: 1.5rem; fill: var(--sp-red); }
+    .comparison-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 3rem;
+        background: var(--bg-primary);
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: var(--elev-2);
+    }
+    .comparison-table th, .comparison-table td {
+        padding: 1.5rem;
+        text-align: left;
+        border-bottom: 1px solid var(--border-light);
+    }
+    .comparison-table th {
+        background: var(--bg-secondary);
+        font-family: 'Oswald', sans-serif;
+        font-size: 1.2rem;
+        color: var(--text-primary);
+    }
+    .comparison-col-juro {
+        background: rgba(227, 6, 19, 0.03);
+        border-left: 2px solid var(--sp-red);
+        border-right: 2px solid var(--sp-red);
+    }
+    .check { color: var(--sp-red); font-weight: bold; font-family: 'Oswald', sans-serif; }
+    .cross { color: var(--text-muted); opacity: 0.5; }
+    .roadmap-step {
+        display: flex;
+        gap: 2rem;
+        margin-bottom: 3rem;
+        position: relative;
+    }
+    .roadmap-step::before {
+        content: '';
+        position: absolute;
+        left: 24px; top: 60px; bottom: -40px;
+        width: 2px;
+        background: var(--border-light);
+        z-index: 0;
+    }
+    .roadmap-step:last-child::before { display: none; }
+    .step-number {
+        width: 50px; height: 50px;
+        background: var(--bg-primary);
+        border: 2px solid var(--sp-red);
+        color: var(--sp-red);
+        border-radius: 50%;
+        display: flex; align-items: center; justify-content: center;
+        font-weight: 700; font-size: 1.2rem;
+        flex-shrink: 0; z-index: 1; position: relative;
+    }
+    .faq-item {
+        margin-bottom: 1.5rem;
+        background: var(--bg-secondary);
+        border-radius: 8px;
+        border: 1px solid var(--border-light);
+        overflow: hidden;
+    }
+    .faq-summary {
+        padding: 1.5rem 2rem;
+        font-weight: 700;
+        font-size: 1.15rem;
+        cursor: pointer;
+        list-style: none;
+        color: var(--text-primary);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .faq-content {
+        padding: 0 2rem 2rem;
+        color: var(--text-muted);
+        line-height: 1.7;
+        font-size: 1.05rem;
+        border-top: 1px solid rgba(0,0,0,0.05);
+        padding-top: 1.5rem;
+    }
+    .sticky-cta {
+        display: none;
+        position: fixed;
+        bottom: 0; left: 0; right: 0;
+        background: var(--bg-secondary);
+        border-top: 2px solid var(--sp-red);
+        padding: 1rem;
+        text-align: center;
+        z-index: 1000;
+    }
+    .sticky-close {
+        position: absolute; top: 5px; right: 10px;
+        background: none; border: none; font-size: 1.2rem;
+        cursor: pointer; color: var(--text-muted);
+    }
+    @media (max-width: 900px) {
+        .bento-third { grid-column: span 12; }
+        .seo-h1 { font-size: 2.8rem; }
+        .sticky-cta { display: block; }
+        body { padding-bottom: 80px; }
+    }
+</style>
+
+<div class="hero-authority center">
+    <div class="container">
+        <p style="font-weight: 800; color: var(--sp-red); letter-spacing: 2px; text-transform: uppercase; margin-bottom: 1rem;">
+            L'Espagne Sans La Complexité
+        </p>
+        <h1 class="seo-h1">
+            EXPERTS FRANCOPHONES <br>
+            <span style="color: var(--sp-red);">EN IMMIGRATION &amp; RELOCATION</span>
+        </h1>
+        <p class="hero-sub">
+            L'alternative moderne aux cabinets traditionnels. Nous combinons une <b>stratégie de haut niveau</b> avec un réseau vérifié d'<b>avocats espagnols agréés</b> pour gérer votre Visa, Immobilier et Résidence Fiscale.
+        </p>
+        <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem;">
+            <a href="/fr/contact/" class="btn" style="padding: 1.3rem 3.5rem; font-size: 1.15rem;">
+                Réserver une Consultation
+            </a>
+            <a href="/fr/tarifs/" class="btn btn-outline" style="padding: 1.3rem 3.5rem; font-size: 1.15rem; border: 2px solid var(--text-primary); color: var(--text-primary) !important;">
+                Voir les Tarifs
+            </a>
+        </div>
+    </div>
+</div>
+
+<section style="background: var(--bg-primary); padding: 7rem 0;">
+    <div class="container">
+        <div style="max-width: 850px; margin: 0 auto;">
+            <h2 style="font-family: 'Oswald'; font-size: 2.5rem; margin-bottom: 1.5rem;">L'Espagne est un Chef-d'Oeuvre. L'Administration est un Labyrinthe.</h2>
+            <p style="font-size: 1.2rem; line-height: 1.8; color: var(--text-primary); margin-bottom: 1.5rem;">
+                Vous venez pour le style de vie : les déjeuners en terrasse, le climat méditerranéen, la culture. Mais pour accéder à cette vie, vous devez d'abord naviguer dans une bureaucratie réputée pour sa rigidité et son opacité.
+            </p>
+            <p style="font-size: 1.2rem; line-height: 1.8; color: var(--text-primary); margin-bottom: 1.5rem;">
+                En 2026, le défi n'est pas seulement "la langue." C'est la <b>procédure</b>. Les portails de rendez-vous saturent. Le "silence" de l'administration a des conséquences juridiques. Une seule erreur dans une traduction assermentée peut bloquer votre vie pendant six mois.
+            </p>
+            <div style="border-left: 4px solid var(--sp-red); padding-left: 1.5rem; margin: 2rem 0;">
+                <p style="font-size: 1.3rem; font-style: italic; color: var(--text-muted); margin: 0;">
+                    "JURO Spain ne remplit pas simplement des formulaires. Nous concevons votre résidence pour qu'elle résiste au contrôle des autorités."
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="background: var(--bg-secondary); padding: 6rem 0; border-top: 1px solid var(--border-light);">
+    <div class="container">
+        <h2 class="center" style="font-family: 'Oswald'; font-size: 2.5rem; margin-bottom: 3rem;">Nos Clients</h2>
+        <div class="bento-grid">
+            <div class="bento-card bento-third">
+                <svg class="icon-svg" viewBox="0 0 24 24"><path d="M20 18c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2H0v2h24v-2h-4zM4 6h16v10H4V6z"/></svg>
+                <h3 style="font-family: 'Oswald'; margin: 0 0 1rem;">Nomades Numériques</h3>
+                <p style="color: var(--text-muted);">Pour les salariés à distance et les freelances. Nous gérons le dossier UGE-CE et la complexité de l'attestation de détachement Social Security.</p>
+            </div>
+            <div class="bento-card bento-third">
+                <svg class="icon-svg" viewBox="0 0 24 24"><path d="M12 3L2 12h3v8h6v-6h2v6h6v-8h3L12 3zm0 13c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"/></svg>
+                <h3 style="font-family: 'Oswald'; margin: 0 0 1rem;">Acquéreurs Immobiliers</h3>
+                <p style="color: var(--text-muted);">Pour les investisseurs exigeants. Nous effectuons un audit juridique approfondi des titres de propriété pour vous garantir l'acquisition d'un bien, non d'une dette.</p>
+            </div>
+            <div class="bento-card bento-third">
+                <svg class="icon-svg" viewBox="0 0 24 24"><path d="M11.8 10.9c-2.27-.59-3-1.2-3-2.15 0-1.09 1.01-1.85 2.7-1.85 1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-1.94.42-3.5 1.68-3.5 3.61 0 2.31 1.91 3.46 4.7 4.13 2.5.6 3 1.48 3 2.41 0 .69-.49 1.79-2.7 1.79-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c1.95-.37 3.5-1.5 3.5-3.55 0-2.84-2.43-3.81-4.7-4.4z"/></svg>
+                <h3 style="font-family: 'Oswald'; margin: 0 0 1rem;">Optimisation Fiscale</h3>
+                <p style="color: var(--text-muted);">Pour ceux qui visent la Loi Beckham. Nous alignons votre date d'arrivée avec le calendrier fiscal pour verrouiller le taux fixe de 24 %.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="background: var(--bg-primary); padding: 7rem 0;">
+    <div class="container">
+        <div class="center" style="max-width: 800px; margin: 0 auto 3rem;">
+            <h2 style="font-family: 'Oswald'; font-size: 2.5rem; margin-bottom: 1rem;">La Réalité du Marché</h2>
+            <p style="color: var(--text-muted); font-size: 1.2rem;">
+                La plupart des expatriés choisissent le mauvais partenaire : soit ils surpaient un grand cabinet, soit ils sous-paient une gestoría et se font rejeter. JURO Spain occupe le terrain stratégique du milieu.
+            </p>
+        </div>
+        <div style="overflow-x: auto;">
+            <table class="comparison-table">
+                <thead>
+                    <tr>
+                        <th style="width: 25%;">Critère</th>
+                        <th style="width: 25%;">Gestoría Générique</th>
+                        <th style="width: 25%;">Cabinet Traditionnel</th>
+                        <th class="comparison-col-juro" style="width: 25%; color: var(--sp-red);">Le Protocole Juro</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Langue</strong></td>
+                        <td>Basique / Google Trad.</td>
+                        <td>Courant (facturé à l'heure)</td>
+                        <td class="comparison-col-juro"><strong>Français Natif / Bilingue</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tarification</strong></td>
+                        <td>Frais cachés</td>
+                        <td>Retainer horaire élevé</td>
+                        <td class="comparison-col-juro"><strong>100 % Forfait Fixe</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Rapidité</strong></td>
+                        <td>Lent (bureau provincial)</td>
+                        <td>Moyen</td>
+                        <td class="comparison-col-juro"><strong>Rapide (UGE-CE Direct)</strong></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Stratégie</strong></td>
+                        <td class="cross">Dépôt uniquement</td>
+                        <td class="check">Oui</td>
+                        <td class="comparison-col-juro check"><strong>Planification Stratégique</strong></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+
+<section style="background: var(--bg-secondary); padding: 7rem 0; border-top: 1px solid var(--border-light);">
+    <div class="container" style="max-width: 800px;">
+        <h2 class="center" style="font-family: 'Oswald'; font-size: 2.5rem; margin-bottom: 4rem;">Comment Nous Orchestrons Votre Installation</h2>
+        <div class="roadmap-step">
+            <div class="step-number">1</div>
+            <div>
+                <h3 style="margin-top: 0; color: var(--text-primary);">L'Audit "Sans Surprise"</h3>
+                <p style="color: var(--text-muted);">Nous n'acceptons pas votre dossier sans l'évaluer d'abord. Si votre profil présente des lacunes dans votre historique de cotisations sociales ou vos revenus, nous vous le disons <b>avant</b> que vous payiez le moindre euro. Nous colmatons les failles en amont.</p>
+            </div>
+        </div>
+        <div class="roadmap-step">
+            <div class="step-number">2</div>
+            <div>
+                <h3 style="margin-top: 0; color: var(--text-primary);">La Compilation du "Dossier Parfait"</h3>
+                <p style="color: var(--text-muted);">L'UGE-CE recherche des termes précis dans vos contrats. Notre équipe juridique reformule vos documents pour correspondre exactement à la liste de contrôle du fonctionnaire. Nous ne laissons aucune place à l'interprétation.</p>
+            </div>
+        </div>
+        <div class="roadmap-step">
+            <div class="step-number">3</div>
+            <div>
+                <h3 style="margin-top: 0; color: var(--text-primary);">Le Protocole d'Atterrissage</h3>
+                <p style="color: var(--text-muted);">L'approbation n'est que le début. Nous coordonnons votre rendez-vous d'empreintes pour la TIE, activons votre statut Loi Beckham et configurons votre Sécurité Sociale. Vous débarquez avec un filet de sécurité.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section style="background: var(--bg-primary); padding: 7rem 0;" id="footer-cta-section">
+    <div class="container" style="max-width: 850px;">
+        <h2 class="center" style="font-family: 'Oswald'; font-size: 2.5rem; margin-bottom: 1rem;">Arrêtez de Chercher. Commencez à Préparer vos Valises.</h2>
+        <p style="font-size: 1.25rem; color: var(--text-muted); margin-bottom: 3rem;">
+            Votre nouvelle vie en Espagne vous attend. Laissez-nous gérer la paperasse qui s'y oppose.
+        </p>
+        <a href="/fr/contact/" class="btn" style="font-size: 1.3rem; padding: 1.5rem 4rem;">Réserver votre Consultation</a>
+    </div>
+</section>
+
+<div id="sticky-cta" class="sticky-cta">
+    <a href="/fr/contact/" class="btn">Vérifier votre éligibilité &rarr;</a>
+    <button class="sticky-close" onclick="this.parentElement.style.display='none'">&#x2715;</button>
+</div>
