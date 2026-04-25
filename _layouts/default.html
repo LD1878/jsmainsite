@@ -309,19 +309,34 @@ layout: null
             </a>
             
             <nav class="site-nav" id="siteNav">
-                <a href="{{ t.nav_services_url }}">{{ t.nav_services }}</a>
-                <a href="{{ t.nav_pricing_url }}">{{ t.nav_pricing }}</a>
+                {% if page.lang == 'fr' %}
+                <a href="/fr/services/">Services</a>
+                <a href="/fr/tarifs/">Tarifs</a>
                 <div class="dropdown-container">
-                    <span class="dropdown-trigger">{{ t.nav_resources }}</span>
+                    <span class="dropdown-trigger">Ressources</span>
                     <div class="dropdown-menu">
-                        <a href="{{ t.nav_calculator_url }}">{{ t.nav_calculator }}</a>
-                        <a href="{{ t.nav_blog_url }}">{{ t.nav_blog }}</a>
-                        <a href="{{ t.nav_glossary_url }}">{{ t.nav_glossary }}</a>
-                        <a href="{{ t.nav_about_url }}">{{ t.nav_about }}</a>
-                        <a href="{{ t.nav_partners_url }}">{{ t.nav_partners }}</a>
+                        <a href="/fr/blog/">Blog &amp; Guides</a>
+                        <a href="/fr/glossaire/">Glossaire Expatrié</a>
+                        <a href="/fr/a-propos/">À Propos</a>
+                        <a href="/partners/">Programme Partenaire</a>
                     </div>
                 </div>
-                <a href="{{ t.nav_contact_url }}">{{ t.nav_contact }}</a>
+                <a href="/fr/contact/">Contact</a>
+                {% else %}
+                <a href="/services/">Services</a>
+                <a href="/pricing/">Pricing</a>
+                <div class="dropdown-container">
+                    <span class="dropdown-trigger">Resources</span>
+                    <div class="dropdown-menu">
+                        <a href="/calculator/">Calculator</a>
+                        <a href="/blog/">Blog &amp; Guides</a>
+                        <a href="/glossary/">Expat Glossary</a>
+                        <a href="/about/">About Us</a>
+                        <a href="/partners/">Partner Program</a>
+                    </div>
+                </div>
+                <a href="/contact/">Contact</a>
+                {% endif %}
             </nav>
 
             <div class="header-actions">
@@ -330,13 +345,14 @@ layout: null
                 </button>
                 {% if page.lang == 'fr' %}
                   <a href="{{ page.ref }}" class="lang-switcher" aria-label="Switch to English">EN</a>
+                  <a href="https://app.cal.eu/jurospain/30min" class="btn" style="padding: 0.7rem 1.5rem; font-size: 0.85rem;">Prendre RDV</a>
                 {% else %}
                   {% assign _sw_post = site.posts | where: "lang", "fr" | where: "ref", page.url | first %}
                   {% assign _sw_page = site.pages | where: "lang", "fr" | where: "ref", page.url | first %}
                   {% assign _sw = _sw_post | default: _sw_page %}
                   {% if _sw %}<a href="{{ _sw.url | relative_url }}" class="lang-switcher" aria-label="Passer en français">FR</a>{% endif %}
+                  <a href="https://app.cal.eu/jurospain/30min" class="btn" style="padding: 0.7rem 1.5rem; font-size: 0.85rem;">Book Call</a>
                 {% endif %}
-                <a href="{{ t.nav_book_call_url }}" class="btn" style="padding: 0.7rem 1.5rem; font-size: 0.85rem;">{{ t.nav_book_call }}</a>
                 <div class="menu-toggle" id="menuToggle"><span></span><span></span><span></span></div>
             </div>
         </div>
