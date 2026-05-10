@@ -359,7 +359,7 @@ permalink: /services/digital-nomad-visa/
 
     <div class="tax-box">
         <div>
-            <p style="color: var(--gold-highlight); font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">The Juro Advantage</p>
+            <p style="color: var(--gold-highlight); font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">The JUROSpain Advantage</p>
             <h2 style="font-family: 'Oswald'; font-size: 3rem; margin-top: 0; line-height: 1.1;">Don't Just Move.<br>Optimize.</h2>
             <p style="font-size: 1.1rem; opacity: 0.9; margin-bottom: 2rem; line-height: 1.7;">
                 Most agencies just file the visa. We file the <strong>Tax Strategy</strong>. 
