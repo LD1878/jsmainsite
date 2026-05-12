@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spanish Tax Residency for Expats: The 183-Day Rule and Beyond"
-description: "When expats become tax residents in Spain, double taxation agreements, Beckham Law, and compliance essentials for 2025."
+description: "Becoming a tax resident in Spain? JUROSpain explains the 183-day rule, Beckham Law savings, and double tax treaties for expats. Know your obligations now."
 seo_title: "Spanish Tax Residency for Expats: The 183-Day Rule and Beyond"
 permalink: /guides/spanish-tax-residency-expats/
 date: 2025-11-12

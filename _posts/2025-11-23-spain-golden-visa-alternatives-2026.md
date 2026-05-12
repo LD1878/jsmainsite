@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Golden Visa: What Happened & Your Alternatives (2026 Update)"
-description: "Complete guide to Spain's Golden Visa ending in April 2025, what it means for existing holders, and alternative residency options for 2026."
+description: "Spain's Golden Visa ended in 2025. JUROSpain explains the impact on current holders and the best alternative residency routes for 2026. See your options now."
 seo_title: "Spain Golden Visa Ended 2025: Alternatives & What's Next (2026)"
 permalink: /guides/spain-golden-visa-alternatives-2026/
 date: 2025-11-23

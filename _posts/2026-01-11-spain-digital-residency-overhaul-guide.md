@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 2026 Spanish Digital Residency Overhaul: Navigating the New Portal"
-description: "Master Spain's new centralized digital residency system. Learn how the 2026 platform replaces regional appointments and what you need to file residency applications online."
+description: "Spain launched a new digital residency portal in 2026. JUROSpain explains how to use it to file residency applications and skip the queues. Get started today."
 seo_title: "Spain Digital Residency Overhaul 2026: New Portal & Rules"
 permalink: /guides/spanish-digital-residency-overhaul-2026/
 date: 2026-01-11

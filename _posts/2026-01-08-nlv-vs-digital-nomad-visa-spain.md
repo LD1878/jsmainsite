@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Non-Lucrative Visa vs. Digital Nomad Visa: 2026 Comparison"
-description: "Choosing between the NLV and Digital Nomad Visa in 2026 depends on your work status and tax goals. Compare income limits, work rights, and application routes."
+description: "Non-Lucrative Visa or Digital Nomad Visa for Spain? JUROSpain compares income limits, work rights, and tax benefits for 2026. Pick the right one today."
 seo_title: "Non-Lucrative Visa vs Digital Nomad Visa Spain 2026 Guide"
 permalink: /guides/nlv-vs-digital-nomad-visa-spain/
 date: 2026-01-08

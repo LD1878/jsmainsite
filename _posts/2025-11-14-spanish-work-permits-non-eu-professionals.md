@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spanish Work Permits for Non-EU Professionals: 2025 Requirements"
-description: "Understand Spain’s main work permit routes for skilled employees, intra-company transfers, and highly qualified professionals."
+description: "Applying for a work permit in Spain as a non-EU professional? JUROSpain explains the main permit routes and requirements for 2025 clearly. Get help now."
 seo_title: "Spanish Work Permits for Non-EU Professionals"
 permalink: /guides/spanish-work-permits-non-eu-professionals/
 date: 2025-11-14

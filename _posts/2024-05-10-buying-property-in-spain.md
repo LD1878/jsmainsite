@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buying Property in Spain as a Foreigner: Fees, Taxes & Process"
-description: "From reservation to notary—ITP, IVA, AJD, NIE, bank accounts, mortgages for expats, and common mistakes to avoid."
+description: "Buying property in Spain as a foreigner? JUROSpain covers every fee, tax, and legal step from reservation to keys. Avoid costly mistakes. Get help today."
 seo_summary: "A comprehensive guide to buying property in Spain as a non-resident. We cover the entire process step-by-step, including mandatory fees (ITP, VAT), due diligence essentials, and specialized mortgage advice for expats."
 permalink: /guides/buying-property-in-spain/
 date: 2024-05-10

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 2026 Autónomo Quota: The 'Real Cost' of Being Freelance in Spain (It's Not Just €80)"
-description: "Confused by the 'Real Income' tax system? Here is the exact breakdown of what high-earning Digital Nomads will pay in Social Security in 2026. Spoiler: The 'Flat Rate' has hidden costs."
+description: "Confused by autónomo costs in Spain for 2026? JUROSpain explains the real income-based social security quotas for freelancers. See exactly what you will pay."
 seo_title: "Autónomo Quota Spain 2026 Calculator: Brackets & Flat Rate"
 permalink: /autonomo-quota-spain-2026-calculator/
 date: 2026-01-19

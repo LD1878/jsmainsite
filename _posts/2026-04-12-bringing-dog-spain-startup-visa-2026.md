@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bringing Your Dog to Spain on a Startup Visa 2026: Complete Checklist and Requirements"
-description: "You got Startup Visa approval but now need to bring your dog. Here is the exact 2026 EU pet import checklist for Spain - microchip, rabies vaccine, health certificate, airline rules and post arrival registration."
+description: "Got your Startup Visa and need to bring your dog to Spain? JUROSpain covers the 2026 pet import checklist, health paperwork, and airline rules. Start today."
 seo_title: "Bring Dog to Spain Startup Visa 2026: EU Pet Passport Checklist"
 permalink: /bringing-dog-spain-startup-visa-2026/
 date: 2026-04-12

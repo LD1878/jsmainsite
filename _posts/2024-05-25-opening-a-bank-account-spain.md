@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Open a Bank Account in Spain (Resident & Non-Resident)"
-description: "Non-resident certificate, KYC, fees, online vs branch onboarding, documents, and insider tips for expats."
+description: "Need a Spanish bank account? JUROSpain explains the documents, best banks, and steps to open one as a resident or non-resident in 2026. Get sorted today."
 seo_title: "How to Open a Bank Account in Spain (Resident & Non-Resident)"
 permalink: /guides/opening-a-bank-account-spain/
 date: 2024-05-25

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Digital Nomad Visa Spain Family Inclusion: The 2026 Logic"
-description: "Can your spouse work on a Digital Nomad Visa? Learn about family income requirements, dependent rights, and the 2026 application process for families."
+description: "Bringing your family on a Digital Nomad Visa to Spain? JUROSpain explains income rules, dependent work rights, and the 2026 application steps. Apply today."
 seo_title: "DNV Spain Family Requirements 2026: Work Rights & Income"
 permalink: /guides/digital-nomad-visa-spain-family-inclusion/
 date: 2026-01-11

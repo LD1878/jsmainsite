@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Beckham Law Year 7 Cliff: Tax Strategies for Long-Term Expats"
-description: "What happens when the Beckham Law ends? Prepare for the 'Year 7 Cliff' in 2026 with strategies for worldwide income tax, wealth tax, and Modelo 720 compliance."
+description: "Beckham Law ends after 6 years. JUROSpain explains the Year 7 tax cliff and how to plan your exit or restructure your income as a long-term expat. Plan now."
 seo_title: "Beckham Law Year 7 Spain: Transitioning to Progressive Tax"
 permalink: /guides/beckham-law-year-7-cliff-tax-strategy/
 date: 2026-01-11

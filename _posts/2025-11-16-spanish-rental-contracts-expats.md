@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spanish Rental Contracts for Expats: LAU Rules and Tenant Protections"
-description: "Learn how Spain’s Urban Leases Act (LAU) regulates tenancy agreements, deposits, rent increases, and contract renewals for newcomers."
+description: "Renting in Spain and confused by the contracts? JUROSpain explains LAU rules, deposit limits, and tenant rights so you sign with confidence. Get help now."
 seo_title: "Spanish Rental Contracts for Expats"
 permalink: /guides/spanish-rental-contracts-expats/
 date: 2025-11-16

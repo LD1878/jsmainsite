@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "US LLC Owners in Spain: The 2026 Tax Guide for Digital Nomads"
-description: "Moving to Spain with a US LLC? Learn why Spain treats LLCs differently, how to avoid double taxation, and the 'Autónomo' structure you must use for the Digital Nomad Visa."
+description: "Moving to Spain with a US LLC? JUROSpain explains how Spain taxes LLCs and why switching to autónomo is safer for your Digital Nomad Visa. Get help today."
 seo_title: "US LLC Spain Tax Guide 2026: Digital Nomad Visa & Double Taxation"
 permalink: /guides/us-llc-spain-digital-nomad-visa-taxes/
 date: 2025-12-21

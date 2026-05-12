@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Atajos para la Nacionalidad Española: Guía 2026 para Latinoamericanos"
-description: "Descubra cómo obtener el pasaporte español en solo 2 años. Guía completa sobre los requisitos de residencia para ciudadanos de Iberoamérica y Filipinas en 2026."
+description: "¿Quieres la nacionalidad española en 2 años? JUROSpain explica los requisitos de residencia para latinoamericanos y filipinos en 2026. Empieza hoy mismo."
 seo_title: "Nacionalidad Española para Latinoamericanos 2026: Requisitos y Plazos"
 permalink: /guias/nacionalidad-espanola-latinoamericanos-2026/
 date: 2026-01-11

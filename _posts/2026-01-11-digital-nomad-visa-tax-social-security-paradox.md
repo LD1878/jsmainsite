@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 2026 Digital Nomad Visa Tax Paradox: Beckham Law vs. RETA"
-description: "Navigate the complex intersection of the Beckham Law and Social Security for Spanish Digital Nomads in 2026. Learn how to optimize your 24% flat tax while paying mandatory RETA quotas."
+description: "Beckham Law and social security for Digital Nomads in Spain explained. JUROSpain covers the 2026 tax paradox and how to pay RETA correctly. Get sorted today."
 seo_title: "DNV Spain Tax 2026: Beckham Law & Social Security Explained"
 permalink: /guides/digital-nomad-visa-tax-social-security-2026/
 date: 2026-01-11

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 'Madrid Shield' is Broken: Why Moving to the Capital Won't Save You from Wealth Tax (But the Beckham Law Will)"
-description: "Thinking of moving to Madrid to avoid Wealth Tax? In 2026, the 'Solidarity Tax' has changed the game. Here is the real math on assets over €3M and the only true shield left."
+description: "Does the Madrid wealth tax shield still work in 2026? JUROSpain explains the Solidarity Tax and why Beckham Law is now the only real protection. Read now."
 seo_title: "Madrid Wealth Tax vs Solidarity Tax 2026: The Real Cost"
 permalink: /madrid-wealth-tax-vs-solidarity-tax/
 date: 2026-02-17

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spanish Real Estate Due Diligence Checklist for Expats"
-description: "How to verify property titles, debts, and licences before buying real estate in Spain as a foreigner."
+description: "Buying property in Spain? JUROSpain walks you through due diligence, checking titles, debts, and licences before you commit. Protect your investment now."
 seo_title: "Spanish Real Estate Due Diligence for Expats"
 permalink: /guides/spanish-real-estate-due-diligence-expats/
 date: 2025-11-19

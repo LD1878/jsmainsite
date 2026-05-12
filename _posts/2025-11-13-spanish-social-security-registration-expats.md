@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spanish Social Security Registration for Expats: From NIE to Seguridad Social"
-description: "How newcomers to Spain obtain a Social Security number, enroll with TGSS, and activate healthcare coverage after arrival."
+description: "Need to register with Spanish social security? JUROSpain explains how to get your NUSS number, enroll with TGSS, and activate healthcare. Start today."
 seo_title: "Spanish Social Security Registration for Expats"
 permalink: /guides/spanish-social-security-registration-expats/
 date: 2025-11-13

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Squatters in Spain: 2026 Legal Protection Guide for Property Owners"
-description: "Protect your Spanish property from illegal occupation (okupas). Learn about the 2025 Anti-Squat Law, the difference between Home Invasion and Usurpation, and essential preventive measures."
+description: "Worried about squatters in Spain? JUROSpain explains the 2025 Anti-Squat Law, the types of illegal occupation, and how to protect your property. Act now."
 seo_title: "Spain Squatter Laws 2026: Protection & Express Eviction Guide"
 permalink: /guides/squatter-protection-spain-2026/
 date: 2026-01-11

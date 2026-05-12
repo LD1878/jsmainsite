@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Denied by Sanitas? How to Get the Digital Nomad Visa with Pre-Existing Conditions (The Social Security Loophole)"
-description: "Can you get a Spanish Digital Nomad Visa if you have diabetes, cancer history, or age-related conditions? Private insurers will reject you. Here is the legal loophole to use the Public System instead."
+description: "Been denied health insurance for Spain's Digital Nomad Visa? JUROSpain explains the public system loophole for pre-existing conditions in 2026. Find out now."
 seo_title: "Spain Digital Nomad Visa Health Insurance Pre-Existing Conditions"
 permalink: /digital-nomad-visa-pre-existing-conditions-health-insurance/
 date: 2026-02-10

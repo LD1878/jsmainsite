@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Buying Property in Spain: Complete 2026 Guide for Foreign Buyers"
-description: "Step-by-step guide to purchasing property in Spain as a foreigner: legal process, costs, taxes, mortgage options, and avoiding common pitfalls in 2026."
+description: "Ready to buy property in Spain in 2026? JUROSpain covers taxes, legal steps, mortgage options, and common pitfalls for foreign buyers. Get started today."
 seo_title: "Buying Property in Spain 2026: Complete Guide for Expats"
 permalink: /guides/buying-property-spain-2026/
 date: 2025-11-23

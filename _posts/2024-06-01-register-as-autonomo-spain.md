@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Registering as Autónomo in Spain: Social Security & Taxes Explained"
-description: "Hacienda models, RETA registration, social security quotas, VAT (IVA), and bookkeeping obligations for freelancers in Spain."
+description: "Going freelance in Spain? JUROSpain covers autónomo registration, social security costs, and tax models clearly. Everything you need to get started in 2026."
 seo_title: "Registering as Autónomo in Spain: Social Security & Taxes Explained"
 permalink: /guides/register-as-autonomo-spain/
 date: 2024-06-01

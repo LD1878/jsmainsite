@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crypto & Hacienda 2026: Why 'Form 721' is the Most Dangerous Document for Digital Nomads"
-description: "Think your Bitcoin on Binance is invisible? Think again. With the EU's MiCA regulation fully active, Spain knows about your crypto. Here is the new tax reality."
+description: "Spain's tax office knows about your crypto. JUROSpain explains Form 721 and MiCA reporting rules Digital Nomads must follow in 2026. Get compliant today."
 seo_title: "Crypto Taxes Spain 2026: Form 721 & MiCA Regulation Guide"
 permalink: /crypto-taxes-spain-form-721-mica/
 date: 2026-01-21

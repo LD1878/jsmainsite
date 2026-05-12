@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 'Padrón Catch-22': How to Register Your Address Without a Rental Contract (The Notary Trick)"
-description: "Police demand a Padrón for your TIE. Landlords demand a TIE for your contract. Here is the 'Acta de Manifestación' hack to break the deadlock."
+description: "Stuck in the Spanish padron catch-22? JUROSpain explains the notary trick to register your address without a rental contract. Break the deadlock today."
 seo_title: "How to get Empadronamiento without Rental Contract Spain 2026"
 permalink: /padron-without-contract-notary-trick/
 date: 2026-02-24

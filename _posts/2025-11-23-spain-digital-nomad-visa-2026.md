@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Digital Nomad Visa: Complete 2026 Application Guide"
-description: "Step-by-step guide to Spain's Digital Nomad Visa for remote workers: requirements, income thresholds, application process, and tax benefits for 2026."
+description: "Want to work remotely from Spain in 2026? JUROSpain explains the Digital Nomad Visa requirements, income thresholds, and Beckham Law savings. Apply now."
 seo_title: "Spain Digital Nomad Visa 2026: Requirements & How to Apply"
 permalink: /guides/spain-digital-nomad-visa-2026/
 date: 2025-11-23

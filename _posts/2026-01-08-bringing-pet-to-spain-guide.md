@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bringing Your Pet to Spain: The 2026 Relocation Protocol"
-description: "Everything you need to move your dog, cat, or ferret to Spain in 2026. Learn about the new animal welfare laws, insurance requirements, and health paperwork."
+description: "Bringing your pet to Spain in 2026? JUROSpain covers microchip, rabies vaccine, health paperwork, and new animal welfare rules. Get your pet ready today."
 seo_title: "Moving to Spain with Pets 2026: Requirements & New Laws"
 permalink: /guides/bringing-pet-to-spain-2026/
 date: 2026-01-08

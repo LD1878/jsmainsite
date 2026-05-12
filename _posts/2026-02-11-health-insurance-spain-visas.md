@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Health Insurance for Spanish Visas: The 2026 Compliance Checklist"
-description: "Everything you need to know about 'no-copay' health insurance for Spanish residency. Requirements for Digital Nomad, NLV, and Student visas in 2026."
+description: "Need health insurance for your Spanish visa? JUROSpain explains the no-copay rules for Digital Nomad, NLV, and Student visas in 2026. Get the right cover now."
 seo_title: "Spain Visa Health Insurance 2026: Requirements & No-Copay Guide"
 permalink: /guides/health-insurance-spain-visas-2026/
 date: 2026-02-11

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Power of Attorney in Spain: The 2026 Guide to Remote Management"
-description: "Master the Spanish Power of Attorney (POA) process. Learn about the 'Poder Especial,' Hague Apostille requirements, and how to buy property or manage taxes from abroad."
+description: "Need a Power of Attorney for Spain? JUROSpain explains the process, Apostille rules, and how to manage property or taxes remotely in 2026. Get started today."
 seo_title: "Power of Attorney Spain 2026: Remote Property & Admin Guide"
 permalink: /guides/power-of-attorney-spain-remote-guide/
 date: 2026-01-11

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Healthcare in Spain for Expats: Public vs Private Options Explained"
-description: "How to access Spanish healthcare as an expat — including public system registration, private insurance options, and legal requirements for visas and residency."
+description: "Need health cover in Spain? JUROSpain explains public registration, private insurance, and visa health requirements for expats in 2026. Get sorted now."
 seo_title: "Healthcare in Spain for Expats: Public vs Private Options Explained"
 permalink: /guides/healthcare-in-spain-expats/
 date: 2025-11-11

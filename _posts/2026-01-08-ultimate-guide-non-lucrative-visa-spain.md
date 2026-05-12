@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Ultimate Guide to the Spain Non-Lucrative Visa (NLV): 2026 Requirements"
-description: "Master the 2026 Non-Lucrative Visa (NLV) process. Detailed financial thresholds, passive income proof, and the step-by-step path to Spanish residency for non-EU citizens."
+description: "Master the 2026 Non-Lucrative Visa with JUROSpain. We cover income thresholds, passive income proof, and the full path to Spanish residency. Apply now."
 seo_title: "2026 Spain Non-Lucrative Visa: Requirements, Income & Process"
 permalink: /guides/non-lucrative-visa-spain-2026-requirements/
 date: 2026-01-08
