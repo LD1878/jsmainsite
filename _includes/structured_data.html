@@ -1,7 +1,17 @@
 {% comment %}
-   This file injects Article Schema JSON-LD for maximum SEO visibility on post pages.
+   Meta Description for Humans (Search Results)
 {% endcomment %}
+{% if page.description %}
+  <meta name="description" content="{{ page.description | strip_html | strip_newlines | replace: '—', ',' | replace: '–', ',' | truncate: 160 }}">
+{% elsif page.excerpt %}
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | replace: '—', ',' | replace: '–', ',' | truncate: 160 }}">
+{% else %}
+  <meta name="description" content="{{ site.description | replace: '—', ',' | replace: '–', ',' }}">
+{% endif %}
 
+{% comment %}
+   Article Schema JSON-LD for Google Robots
+{% endcomment %}
 {% if page.layout == 'post' %}
 <script type="application/ld+json">
 {
@@ -12,7 +22,7 @@
     "@id": "{{ page.url | absolute_url }}"
   },
   "headline": "{{ page.title | escape }}",
-  "description": "{{ page.description | default: site.description | escape }}",
+  "description": "{% if page.description %}{{ page.description | escape }}{% else %}{{ page.excerpt | strip_html | truncate: 160 | escape }}{% endif %}",
   "image": "{{ page.image | default: '/assets/images/default-blog-cover.jpg' | absolute_url }}",
   "datePublished": "{{ page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date: "%Y-%m-%dT%H:%M:%S%z" }}",
