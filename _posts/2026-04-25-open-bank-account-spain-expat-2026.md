@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Opening a Bank Account in Spain as an Expat: The 2026 Guide"
-description: "From NIE requirements to anti-money-laundering checks: the complete guide to opening a Spanish bank account as a non-resident or new arrival in 2026, with the best banks ranked."
+description: "Need a bank account in Spain in 2026? JUROSpain covers NIE requirements, the best banks for expats, and how to avoid account rejection. Get sorted today."
 seo_title: "Open Bank Account Spain Expat 2026 | Best Banks for Non-Residents & Residents"
 permalink: /guides/open-bank-account-spain-expat-2026/
 date: 2026-04-25

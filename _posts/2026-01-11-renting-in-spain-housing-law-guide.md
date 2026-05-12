@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Renting in Spain 2026: A Guide to the New Housing Law"
-description: "Navigate the 2026 Spanish rental market. Learn about rental price caps, agency fee bans, and how to spot illegal seasonal contracts."
+description: "Renting in Spain under the new 2026 housing law? JUROSpain covers rent caps, agency fee bans, and how to avoid illegal contracts. Know your rights today."
 seo_title: "Renting in Spain 2026: Housing Law & Expat Tenant Rights"
 permalink: /guides/renting-in-spain-2026-housing-law/
 date: 2026-01-11

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Establishing an NGO in Spain: The 2026 Non-Profit Guide"
-description: "How to transfer your international NGO or build a new non-profit in Spain. Learn about associations, foundations, and tax-exempt 'Public Interest' status in 2026."
+description: "Setting up an NGO in Spain? JUROSpain covers associations, foundations, and tax-exempt public interest status for non-profits in 2026. Start your project now."
 seo_title: "How to Start an NGO in Spain 2026: Associations & Foundations"
 permalink: /guides/starting-ngo-nonprofit-spain/
 date: 2026-01-12

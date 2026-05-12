@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exchanging Your Driving Licence in Spain: The 2026 Expat Guide"
-description: "Spain gives foreign residents just six months to exchange or retake their driving test. Here is what UK, US, and non-EU drivers must do in 2026, and what happens if you miss the window."
+description: "Moving to Spain? You have 6 months to swap your driving licence. JUROSpain explains the rules for UK, US, and non-EU drivers in 2026. Don't miss the deadline."
 seo_title: "Exchange Foreign Driving Licence Spain 2026 | DGT Process for Expats"
 permalink: /guides/exchange-driving-licence-spain-expat-2026/
 date: 2026-04-25

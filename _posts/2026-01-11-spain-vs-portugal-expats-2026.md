@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain vs. Portugal 2026: The Expat Residency Comparison"
-description: "Which is better in 2026? Compare Spain’s Digital Nomad Visa and Beckham Law against Portugal’s NHR 2.0 and D7 options."
+description: "Spain or Portugal for expats in 2026? JUROSpain compares Digital Nomad Visa, Beckham Law, NHR 2.0, and the D7 Visa side by side. Find the right move now."
 seo_title: "Moving to Spain or Portugal 2026: Visas, Taxes & Cost Comparison"
 permalink: /guides/spain-vs-portugal-comparison-2026/
 date: 2026-01-11

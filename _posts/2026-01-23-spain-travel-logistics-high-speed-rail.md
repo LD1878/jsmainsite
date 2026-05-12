@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 2026 Transport Audit: Navigating Spain's High-Speed Rail Wars"
-description: "Renfe vs. Iryo vs. Ouigo. A tactical guide to Spanish travel infrastructure, airport logistics, and maximizing the resident discount in 2026."
+description: "Living in Spain and want cheaper train travel? JUROSpain compares Renfe, Iryo, and Ouigo and explains how to use the resident rail discount. Save money today."
 seo_title: "Travel in Spain 2026: High-Speed Rail & Airport Guide"
 permalink: /guides/spain-travel-logistics-high-speed-rail/
 date: 2026-01-23

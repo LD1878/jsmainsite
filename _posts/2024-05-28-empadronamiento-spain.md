@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empadronamiento in Spain: Registration, Proof of Address & Why It Matters"
-description: "What empadronamiento is, how to register, required documents, booking appointments, and how it links to healthcare, schools, and visas."
+description: "Register on the Spanish padron with JUROSpain. We explain what you need for empadronamiento and why it matters for your visa and healthcare. Start today."
 seo_title: "Empadronamiento in Spain: Registration, Proof of Address & Why It Matters"
 permalink: /guides/empadronamiento-spain/
 date: 2024-05-28

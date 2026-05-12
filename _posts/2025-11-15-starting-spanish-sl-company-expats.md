@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Expats Can Start a Spanish SL Company: 2025 Formation Checklist"
-description: "Step-by-step instructions for incorporating a Sociedad Limitada in Spain, from NIE and bank deposit to notary deed and tax registrations."
+description: "Starting a company in Spain? JUROSpain guides you through SL formation, from NIE and bank deposit to notary deed and tax registration. Get set up today."
 seo_title: "Start a Spanish SL Company as an Expat"
 permalink: /guides/starting-spanish-sl-company-expats/
 date: 2025-11-15

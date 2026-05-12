@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Registering as Autónomo in Spain: 2026 Quotas, Taxes & Digital Laws"
-description: "Master the 2026 Spanish self-employment system. Detailed income-based quotas, the new VeriFactu digital invoicing mandate, and current Social Security rates."
+description: "Going self-employed in Spain in 2026? JUROSpain covers autónomo quotas, new digital invoicing rules, and your tax obligations. Get properly set up today."
 seo_title: "Registering as Autónomo Spain 2026: Quotas, Taxes & Invoicing"
 permalink: /guides/register-as-autonomo-spain-2026/
 date: 2026-01-11

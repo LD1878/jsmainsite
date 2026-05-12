@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moving to Spain with a Partner but Not Married? (Pareja de Hecho Guide 2026)"
-description: "Can you bring your boyfriend or girlfriend to Spain on the Digital Nomad Visa? Yes, if you use the 'Pareja de Hecho' route. Here is the step-by-step guide."
+description: "Bringing your partner to Spain without being married? JUROSpain explains the Pareja de Hecho route step by step for Digital Nomad Visa applicants. Start now."
 seo_title: "Spain Visa Unmarried Partner Requirements 2026: Pareja de Hecho Guide"
 permalink: /guides/spain-visa-unmarried-partners-pareja-de-hecho/
 date: 2025-12-22

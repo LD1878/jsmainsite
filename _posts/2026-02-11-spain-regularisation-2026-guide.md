@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain’s Historic 2026 Regularisation: Legal Status for 500,000 Undocumented Migrants"
-description: "The Spanish government has approved a massive regularisation process for 2026. Learn the eligibility rules, the 5-month residency requirement, and how to apply for legal work status."
+description: "Spain is regularising undocumented migrants in 2026. JUROSpain explains the eligibility rules, 5-month residency requirement, and how to apply. Start today."
 seo_title: "Spain Extraordinary Regularisation 2026: 500,000 Migrants Decree"
 permalink: /guides/spain-regularisation-2026-guide/
 date: 2026-02-11

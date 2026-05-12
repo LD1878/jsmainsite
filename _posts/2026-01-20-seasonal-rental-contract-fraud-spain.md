@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The '11-Month' Rental Trap: How to Legally Turn a Temporary Contract into a Long-Term Home"
-description: "Landlords are refusing 5-year contracts to avoid the 2026 Rent Caps. They will offer you an '11-month seasonal contract' instead. Here is how to sign it, move in, and legally convert it to a permanent lease."
+description: "Stuck on an 11-month rental in Spain? JUROSpain explains the seasonal contract trap and how to legally convert it to a long-term lease. Know your rights now."
 seo_title: "11 Month Rental Contract Spain Rights: Fraud of Law & Conversion"
 permalink: /seasonal-rental-contract-fraud-spain/
 date: 2026-01-20

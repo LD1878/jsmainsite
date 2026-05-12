@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Golden Visa Ended in 2025: Alternative Residency Routes When Buying Spanish Property"
-description: "The Spain Golden Visa real estate route has ended. Discover the best alternatives for property buyers in 2025, including the Digital Nomad Visa and Non-Lucrative pathways."
+description: "Spain's Golden Visa property route is finished. JUROSpain explains the top alternative residency routes for property buyers in 2025. Find your path now."
 seo_title: "Golden Visa Spain Ended 2025: Best Alternatives for Property Buyers"
 permalink: /guides/golden-visa-ended-alternatives/
 date: 2025-12-14

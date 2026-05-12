@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mortgages for Expats in Spain: LTVs, Rates & Documentation"
-description: "Banks that lend to non-residents, typical loan-to-value ratios, required documentation, timelines, property valuation, and insurance obligations."
+description: "Want a mortgage in Spain as a foreigner? JUROSpain covers LTV ratios, required docs, and the best banks for expats in 2026. Start your application now."
 seo_title: "Mortgages for Expats in Spain: LTVs, Rates & Documentation"
 permalink: /guides/mortgages-for-expats-spain/
 date: 2024-06-10

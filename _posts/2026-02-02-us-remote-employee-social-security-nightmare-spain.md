@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 'Certificate of Coverage' Trap: Why US Remote Workers Should Switch to Contractor Status in Spain"
-description: "Are you a W-2 employee trying to get the Digital Nomad Visa? You are walking into a bureaucratic trap. Here is why switching to 'Contractor' (1099) is safer, faster, and surprisingly cheaper."
+description: "Are you a US W-2 employee moving to Spain? JUROSpain explains the social security trap and why switching to contractor status is the smarter move. Read now."
 seo_title: "US Digital Nomad Spain: W2 vs 1099 & Social Security Trap"
 permalink: /us-remote-employee-social-security-trap-spain/
 date: 2026-02-02

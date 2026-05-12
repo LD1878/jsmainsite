@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Relocating to Spain with Family: Schooling, Healthcare, and Residency Steps"
-description: "A relocation roadmap for families moving to Spain, covering school enrollment, healthcare registration, and documentation for dependants."
+description: "Moving to Spain with kids? JUROSpain guides families through school enrollment, healthcare registration, and residency for dependants. Start planning today."
 seo_title: "Relocating to Spain with Family"
 permalink: /guides/relocating-family-schools-spain/
 date: 2025-11-18

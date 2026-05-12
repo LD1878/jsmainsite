@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Golden Visa 2026: Renewals, Closures, and Alternatives"
-description: "Everything you need to know about the 2025 closure of the property route, renewal rules for current holders, and 2026 residency alternatives."
+description: "Spain's Golden Visa is closed. JUROSpain explains your options as a current holder or new investor looking for residency in 2026. See your alternatives now."
 seo_title: "Spain Golden Visa 2026: Guide to Renewals and Alternatives"
 permalink: /guides/spain-golden-visa/
 date: 2026-04-11

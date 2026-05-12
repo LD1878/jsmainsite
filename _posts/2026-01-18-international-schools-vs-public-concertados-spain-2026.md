@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Education Dilemma 2026: International Schools vs. Public 'Concertados' (And Why Your Arrival Date Decides For You)"
-description: "Debating between a €15k International School or a free Public School in Spain? The decision might not be yours to make. Here is the 2026 enrollment reality for expat parents."
+description: "International school or public concertado in Spain? JUROSpain explains real 2026 enrollment rules and costs to help expat parents decide. Plan ahead now."
 seo_title: "International vs Concertado vs Public Schools Spain 2026 Guide"
 permalink: /international-schools-vs-public-concertados-spain/
 date: 2026-01-18

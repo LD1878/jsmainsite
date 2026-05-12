@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Tax Havens 2026: Madrid vs. Andalusia vs. Basque Country"
-description: "A professional comparison of Spain's most tax-efficient regions for expats. Learn about regional wealth tax bonuses and unique fiscal regimes for 2026."
+description: "Want to pay less tax in Spain? JUROSpain compares regional wealth tax rules across Madrid, Andalusia, and the Basque Country for expats in 2026. Find out now."
 seo_title: "Tax Efficient Regions Spain 2026: Wealth Tax & Fiscal Guides"
 permalink: /guides/spain-tax-comparison-high-net-worth-2026/
 date: 2026-01-11

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Permanent Residency and Citizenship: The Complete 2026 Roadmap"
-description: "After five years in Spain you can lock in permanent residency. After ten, or just two for Latin Americans, you can apply for a Spanish passport. Every requirement, test, and timeline for 2026."
+description: "Want permanent residency or a Spanish passport? JUROSpain explains the 5-year and 10-year timelines, tests, and requirements for 2026. Start planning today."
 seo_title: "Spain Permanent Residency and Citizenship 2026 | DELE, CCSE & Full Timeline"
 permalink: /guides/permanent-residency-citizenship-spain-2026/
 date: 2026-04-25

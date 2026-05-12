@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "British Digital Nomad Visa 2026: The 'Hidden' Paperwork & True Costs"
-description: "Don't get stuck in the ACRO trap. A realistic 2026 guide for UK citizens on DNV processing speeds, legal fees, and avoiding the dreaded 'simulation' rejection."
+description: "UK citizen applying for Spain's Digital Nomad Visa? JUROSpain explains ACRO requirements, processing times, and how to avoid a rejection in 2026. Apply now."
 seo_title: "Spain Digital Nomad Visa for UK Citizens 2026 | Requirements & Fees"
 permalink: /guides/digital-nomad-visa-uk-citizens-2026/
 date: 2026-01-17

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Digital Nomad Visa Renewal: The 2026 Extension Guide"
-description: "How to renew your Spain Digital Nomad Visa in 2026. Step-by-step guide on income proof, social security certificates, and the 20-day administrative silence rule."
+description: "Time to renew your Digital Nomad Visa in Spain? JUROSpain covers income proof, social security docs, and key 2026 deadlines. Start your renewal today."
 seo_title: "DNV Spain Renewal 2026: Requirements & 2-Year Extension"
 permalink: /guides/digital-nomad-visa-spain-renewal-2026/
 date: 2026-01-11

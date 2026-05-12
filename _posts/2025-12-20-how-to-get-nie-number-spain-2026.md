@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Get a NIE Number in Spain (2026 Guide): Fast & Remote Options"
-description: "Can't get a NIE appointment? Learn the 3 ways to get your Spanish NIE Number in 2026, including the 'Remote' Power of Attorney method that requires no travel."
+description: "Can't get a NIE appointment in Spain? JUROSpain covers three ways to get your NIE in 2026, including the remote Power of Attorney option. Get yours now."
 seo_title: "Get Spanish NIE Number Fast (2026): Remote vs Consulate Guide"
 permalink: /guides/how-to-get-nie-number-spain-2026/
 date: 2025-12-20

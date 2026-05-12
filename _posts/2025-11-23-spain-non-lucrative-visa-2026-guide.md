@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Non-Lucrative Visa: Complete 2026 Guide for Retirees"
-description: "Everything you need to know about Spain's Non-Lucrative Visa: income requirements, application process, healthcare, renewal rules, and path to residency in 2026."
+description: "Want to retire or live in Spain in 2026? JUROSpain covers the Non-Lucrative Visa income thresholds, application steps, and path to residency. Start today."
 seo_title: "Spain Non-Lucrative Visa 2026: Retirement & Financial Independence Guide"
 permalink: /guides/spain-non-lucrative-visa-2026/
 date: 2025-11-23

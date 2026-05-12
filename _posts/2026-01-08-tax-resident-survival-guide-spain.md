@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 2026 Tax Resident Survival Guide for Expats in Spain"
-description: "Master the 2026 Spanish tax landscape. Learn about the Beckham Law, wealth tax updates, and how to optimize your global income for residency."
+description: "Becoming a tax resident in Spain in 2026? JUROSpain explains Beckham Law, wealth tax, and how to manage your global income as an expat. Start planning now."
 seo_title: "2026 Expat Tax Guide Spain: Beckham Law & Wealth Tax"
 permalink: /guides/tax-resident-survival-guide-spain/
 date: 2026-01-08

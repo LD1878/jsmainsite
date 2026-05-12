@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spanish Inheritance Planning for Expats: Wills, Heirs, and Tax Strategies"
-description: "Key steps expatriates should take to draft Spanish wills, coordinate with foreign estates, and manage inheritance tax across regions."
+description: "Planning your estate in Spain? JUROSpain explains Spanish wills, cross-border inheritance, and tax strategies to protect your family. Start planning now."
 seo_title: "Spanish Inheritance Planning for Expats"
 permalink: /guides/spanish-inheritance-planning-expats/
 date: 2025-11-17

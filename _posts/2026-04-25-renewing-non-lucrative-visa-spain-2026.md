@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Renewing the Non-Lucrative Visa in Spain: Step-by-Step 2026 Guide"
-description: "The Non-Lucrative Visa does not renew itself. Learn the exact 60-day filing window, updated income thresholds, and the tax trap that catches expats off guard at renewal time."
+description: "Need to renew your Non-Lucrative Visa? JUROSpain explains the 60-day filing window, updated income rules, and the tax trap expats miss in 2026. Renew today."
 seo_title: "Renew Non-Lucrative Visa Spain 2026 | Documents, Timelines & Tax Trap"
 permalink: /guides/renewing-non-lucrative-visa-spain-2026/
 date: 2026-04-25

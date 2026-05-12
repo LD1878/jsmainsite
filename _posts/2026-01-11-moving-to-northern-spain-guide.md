@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 2026 Expat Wildcard: Moving to Northern Spain"
-description: "Discover the benefits of relocating to the 'Green Spain' regions of Asturias and Cantabria. Ideal for expats seeking a cooler climate and high quality of life."
+description: "Moving to Northern Spain in 2026? JUROSpain covers life in Asturias and Cantabria, from cooler climate to quality of life benefits for expats. Explore now."
 seo_title: "Moving to Northern Spain 2026: Climate Migration & Lifestyle"
 permalink: /guides/moving-to-northern-spain-climate-migration/
 date: 2026-01-11

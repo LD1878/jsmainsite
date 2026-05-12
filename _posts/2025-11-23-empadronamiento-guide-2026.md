@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Empadronamiento in Spain: Complete 2026 Registration Guide"
-description: "Everything you need to know about empadronamiento (municipal registration) in Spain: requirements, process, documents, and why it's essential for expats in 2026."
+description: "JUROSpain's 2026 guide to empadronamiento in Spain. See what documents you need, how to register at your council, and why it's vital for expats. Do it now."
 seo_title: "Empadronamiento Spain 2026: How to Register at Your Town Hall"
 permalink: /guides/empadronamiento-spain-2026/
 date: 2025-11-23

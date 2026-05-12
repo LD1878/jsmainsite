@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "NIE vs. TIE in Spain: The Definitive 2026 Comparison"
-description: "Confused between the NIE and the TIE? Learn the differences, which one you need for your residency, and how to apply in 2026."
+description: "Confused about NIE vs TIE in Spain? JUROSpain explains the difference and when you need each one for residency and daily life in 2026. Get clear today."
 seo_title: "NIE vs TIE Spain 2026: Differences, Requirements & Guide"
 permalink: /guides/nie-vs-tie-spain-explained/
 date: 2026-02-12

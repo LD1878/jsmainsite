@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Valentine’s Day in Spain: A Curated Guide for the Modern Expat"
-description: "From the sunset over the Alhambra to the hidden 'Kissing Street' of Seville, discover how to celebrate a sophisticated Valentine's Day in Spain 2026."
+description: "Planning Valentine's Day in Spain as an expat? JUROSpain curates the best romantic spots and experiences for 2026, from Granada to Seville. Plan your day now."
 seo_title: "Valentine's Day Spain 2026: Romantic Getaways & Expat Guide"
 permalink: /guides/valentines-day-spain-2026/
 date: 2026-02-14

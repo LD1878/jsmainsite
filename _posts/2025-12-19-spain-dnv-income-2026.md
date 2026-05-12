@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spain Digital Nomad Visa 2026: New Income Requirements & SMI Changes"
-description: "Urgent 2026 Update: Spain’s Minimum Wage (SMI) is set to rise by up to 7.5%. See the new projected income thresholds for the Digital Nomad Visa and how to lock in 2025 rates."
+description: "Spain's Digital Nomad Visa income thresholds are rising in 2026 with the SMI. JUROSpain explains the new numbers and how to lock in 2025 rates. Act now."
 seo_title: "Spain Digital Nomad Visa Income 2026: New Requirements & SMI Forecast"
 permalink: /guides/spain-digital-nomad-visa-income-2026/
 date: 2025-12-19

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 20-Day Resolution: Why the Highly Qualified Professional Visa is the 'Gold Standard' for Tech Talent in 2026"
-description: "Standard work permits in Spain can take months. The Highly Qualified Professional (HQP) visa takes 20 days. Here is how to use your University Degree to unlock the fastest route to residency."
+description: "Want Spanish residency in 20 days? JUROSpain explains the Highly Qualified Professional Visa, who qualifies, and how to apply in 2026. Get started today."
 seo_title: "Highly Qualified Professional Visa Spain 2026: Requirements & Process"
 permalink: /highly-qualified-professional-visa-spain/
 date: 2026-01-17

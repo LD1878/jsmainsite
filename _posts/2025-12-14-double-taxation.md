@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Double Taxation in Spain: A Guide for US and UK Expats"
-description: "Stop paying tax twice. A clear guide to Spain's Double Taxation Agreements (DTA) with the US and UK, covering pensions, dividends, and the W-8BEN form."
+description: "Stop paying tax twice on your income. JUROSpain explains Spain's double taxation agreements with the US and UK for expats. Learn your rights and save now."
 seo_title: "Spain Double Taxation Treaty: US & UK Expat Guide 2026"
 permalink: /guides/double-taxation-spain-us-uk/
 date: 2025-12-20

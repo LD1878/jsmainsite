@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Get Your NIE Number in Spain (2026 Guide)"
-description: "Step-by-step guide to getting a Spanish NIE number in 2026: documents, appointments, costs, and timelines for EU and non-EU citizens."
+description: "Getting a Spanish NIE number? JUROSpain guides EU and non-EU citizens through documents, fees, and booking steps in 2026. No stress. Get started today."
 seo_title: "How to Get Your NIE Number in Spain: 2026 Updated Guide"
 permalink: /guides/nie-number-spain/
 date: 2026-04-11

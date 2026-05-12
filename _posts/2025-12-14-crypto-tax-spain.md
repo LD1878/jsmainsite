@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crypto Taxes in Spain 2025: Rates, Modelo 721, and Compliance"
-description: "A complete guide to cryptocurrency taxation in Spain for 2025. Learn about capital gains rates, the Modelo 721 declaration, and how to report staking rewards."
+description: "Paying crypto taxes in Spain? JUROSpain covers capital gains rates, Modelo 721 rules, and how to report staking rewards for 2025. Get compliant today."
 seo_title: "Crypto Tax Spain 2025 Guide: Rates, Modelo 721 & Staking"
 permalink: /guides/crypto-tax-spain-2025/
 date: 2025-12-28
