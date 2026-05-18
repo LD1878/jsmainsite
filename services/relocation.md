@@ -250,12 +250,12 @@ permalink: /services/relocation/
 
         <div class="faq-item">
             <span class="faq-question">What is the Digital Certificate?</span>
-            <div class="faq-answer">It is a software file installed on your browser that verifies your identity. It is critical for modern life in Spain—allowing you to sign tax returns, pay fines, and access social security online. We issue this for you in 24 hours.</div>
+            <div class="faq-answer">It is a software file installed on your browser that verifies your identity. It is critical for modern life in Spain allowing you to sign tax returns, pay fines, and access social security online. We issue this for you in 24 hours.</div>
         </div>
 
         <div class="faq-item">
             <span class="faq-question">Do you find the apartment for us?</span>
-            <div class="faq-answer">We are not real estate agents, so we don't take commissions. We act as your "Search Agent"—scanning Idealista, calling agents, and filtering out scams. We work for YOU, not the landlord.</div>
+            <div class="faq-answer">We are not real estate agents, so we don't take commissions. We act as your "Search Agent" scanning Idealista, calling agents, and filtering out scams. We work for YOU, not the landlord.</div>
         </div>
     </div>
 

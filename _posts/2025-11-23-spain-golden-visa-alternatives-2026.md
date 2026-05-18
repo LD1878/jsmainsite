@@ -34,11 +34,11 @@ faqs:
 
 ## Overview: What happened to Spain's Golden Visa
 
-Spain officially ended its Golden Visa program on April 3, 2025. The program, which launched in 2013, allowed non-EU citizens to obtain Spanish residency by investing €500,000 or more in real estate or making other qualifying investments. From April 2025 onwards, no new applications are accepted through any investment route—not just property.
+Spain officially ended its Golden Visa program on April 3, 2025. The program, which launched in 2013, allowed non-EU citizens to obtain Spanish residency by investing €500,000 or more in real estate or making other qualifying investments. From April 2025 onwards, no new applications are accepted through any investment route not just property.
 
 The Golden Visa was one of Europe's most popular residency-by-investment programs, issuing over 6,200 visas through real estate alone and attracting more than €1 billion annually in foreign investment. Most applicants came from China, the United States, Russia, and the United Kingdom, with a surge from UK and US investors following Brexit.
 
-For 12 years, the program offered significant benefits: Spanish residency for investors and their families, visa-free travel throughout the Schengen Area, access to Spanish healthcare and education, and a pathway to permanent residency after five years. The minimum stay requirement was minimal—just one visit per year—making it attractive for those seeking European access without full relocation.
+For 12 years, the program offered significant benefits: Spanish residency for investors and their families, visa-free travel throughout the Schengen Area, access to Spanish healthcare and education, and a pathway to permanent residency after five years. The minimum stay requirement was minimal just one visit per year making it attractive for those seeking European access without full relocation.
 
 Now that the program has ended, prospective investors must explore alternative residency routes or consider Golden Visa programs in other European countries like Portugal, Greece, or Malta.
 
@@ -48,7 +48,7 @@ Prime Minister Pedro Sánchez announced the decision in April 2024, citing housi
 
 Data showed that 94% of Golden Visas were granted through real estate investment, with the majority concentrated in Spain's most expensive urban markets. Local residents faced increasingly unaffordable housing, prompting political pressure to end the program. The decision aligned Spain with other European nations that have restricted or eliminated similar schemes, including the United Kingdom, Ireland, Portugal, and the Netherlands.
 
-Beyond housing concerns, the program faced scrutiny over financial transparency and questions about whether foreign capital inflows justified the social costs. As Spain's economy recovered from the 2008 crisis—the original catalyst for introducing the Golden Visa—the perceived need for such investment incentives diminished.
+Beyond housing concerns, the program faced scrutiny over financial transparency and questions about whether foreign capital inflows justified the social costs. As Spain's economy recovered from the 2008 crisis the original catalyst for introducing the Golden Visa the perceived need for such investment incentives diminished.
 
 The legislative process moved through both chambers of parliament throughout late 2024. The Senate initially vetoed the proposal in November, but Congress overrode the veto in December with 177 votes in favor and 170 against. The final law was published in the Official State Gazette on January 3, 2025, with a three-month grace period before implementation.
 
@@ -75,7 +75,7 @@ Current Golden Visa holders can breathe easily. The law includes transitional pr
 - Keep valid health insurance if required under your visa type.
 - Renew before your current visa expires or within 90 days after expiration.
 
-Your renewal applications will be processed according to the regulations in place when you first obtained the visa—not the new restrictions. Family members included in your original application retain the same rights.
+Your renewal applications will be processed according to the regulations in place when you first obtained the visa not the new restrictions. Family members included in your original application retain the same rights.
 
 Initial Golden Visas granted one-year residency, renewable for two additional years. After three years, you could apply for five-year renewal cards. The pathway to permanent residency after five years of legal residence remains unchanged, as does eligibility for Spanish citizenship after ten years.
 
@@ -93,7 +93,7 @@ For those who missed the deadline or encountered delays in property purchases, u
 
 ## Can foreigners still buy property in Spain?
 
-Absolutely. Spain welcomes foreign property investment, and non-residents enjoy the same ownership rights as Spanish citizens. The end of the Golden Visa only removed the automatic residency benefit—it did not restrict property purchases.
+Absolutely. Spain welcomes foreign property investment, and non-residents enjoy the same ownership rights as Spanish citizens. The end of the Golden Visa only removed the automatic residency benefit it did not restrict property purchases.
 
 Foreign buyers accounted for approximately 15% of all Spanish property transactions in 2024, totaling over 87,000 purchases. This activity continued even after the Golden Visa announcement, demonstrating strong underlying demand driven by Spain's climate, lifestyle, and rental yields averaging 6.5% in mid-2025.
 

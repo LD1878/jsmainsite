@@ -41,7 +41,7 @@ Spain's Non-Lucrative Visa (often called the retirement visa or financially inde
 
 The visa grants initial residency for one year, renewable for two-year periods. After five years of legal residence, you become eligible for permanent residency, and after ten years you can apply for Spanish citizenship if you meet language and integration requirements.
 
-Unlike work visas or the Digital Nomad Visa, the Non-Lucrative Visa strictly prohibits any employment or professional activity in Spain. You cannot work for Spanish companies, provide services to Spanish clients, or engage in any business activities. However, you can receive income from sources outside Spain—pensions, rental properties, dividends, interest, and annuities—without restriction.
+Unlike work visas or the Digital Nomad Visa, the Non-Lucrative Visa strictly prohibits any employment or professional activity in Spain. You cannot work for Spanish companies, provide services to Spanish clients, or engage in any business activities. However, you can receive income from sources outside Spain pensions, rental properties, dividends, interest, and annuities without restriction.
 
 This visa became increasingly popular after the Golden Visa ended in April 2025, as it offers a straightforward path to Spanish residency for those with sufficient financial means. Americans, Canadians, Brits, Australians, and other nationalities commonly use this route to retire in Spain's sunny climate.
 
@@ -64,7 +64,7 @@ Whether you're 55 or 75, if you have a pension, retirement savings, or investmen
 
 ### Early retirees
 
-Left the workforce at 50? Have investment portfolios generating passive income? The Non-Lucrative Visa doesn't require you to be retirement age—just financially independent. Early retirees from tech, finance, and entrepreneurial backgrounds frequently use this visa.
+Left the workforce at 50? Have investment portfolios generating passive income? The Non-Lucrative Visa doesn't require you to be retirement age just financially independent. Early retirees from tech, finance, and entrepreneurial backgrounds frequently use this visa.
 
 ### Financially independent individuals
 
@@ -88,9 +88,9 @@ Financial requirements are the heart of the Non-Lucrative Visa application. Span
 
 For 2026, the requirements are based on Spain's IPREM (Public Income Indicator), which adjusts annually for inflation. The IPREM for 2025 was €600 per month, and assuming modest inflation, expect 2026 requirements around:
 
-- **Main applicant**: €2,400 per month (€28,800 annually) — 400% of IPREM.
-- **Spouse**: Additional €600 per month (€7,200 annually) — 100% of IPREM.
-- **Each dependent child**: Additional €600 per month (€7,200 annually) — 100% of IPREM.
+- **Main applicant**: €2,400 per month (€28,800 annually)   400% of IPREM.
+- **Spouse**: Additional €600 per month (€7,200 annually)   100% of IPREM.
+- **Each dependent child**: Additional €600 per month (€7,200 annually)   100% of IPREM.
 
 **Example calculations**:
 
@@ -106,7 +106,7 @@ Beyond monthly income, you must prove savings to cover three years of expenses a
 - Couple: €108,000 (€36,000 × 3).
 - Family of four: €151,200 (€50,400 × 3).
 
-These savings must be liquid or easily accessible—bank accounts, investment portfolios, or money market funds. Property equity or illiquid assets don't count toward this requirement.
+These savings must be liquid or easily accessible bank accounts, investment portfolios, or money market funds. Property equity or illiquid assets don't count toward this requirement.
 
 ### Combining income and savings
 
@@ -223,7 +223,7 @@ Consulate requirements vary slightly. Check your specific consulate's website or
 
 ### Step 1: Confirm eligibility
 
-Review the financial requirements carefully and ensure your income and savings exceed the thresholds. If borderline, don't apply yet—build more savings or increase passive income first.
+Review the financial requirements carefully and ensure your income and savings exceed the thresholds. If borderline, don't apply yet build more savings or increase passive income first.
 
 ### Step 2: Choose your consulate
 
@@ -254,7 +254,7 @@ Be prepared to explain gaps in documentation or inconsistencies. Answer honestly
 
 ### Step 7: Await processing
 
-Processing takes 30-90 days, sometimes longer during busy periods. The consulate may email you requesting clarifications or additional documents—respond immediately to avoid further delays.
+Processing takes 30-90 days, sometimes longer during busy periods. The consulate may email you requesting clarifications or additional documents respond immediately to avoid further delays.
 
 You can usually check status online through your consulate's tracking portal using your application reference number.
 
@@ -315,7 +315,7 @@ Registration is usually instant, and you'll receive a certificate on the spot. F
 
 ### Step 3: Obtain your NIE
 
-If you don't already have an NIE (foreigner identification number), you'll receive it when you get your TIE. The NIE is a permanent number used for all official transactions—banking, taxes, property purchases, and more. Keep it safe.
+If you don't already have an NIE (foreigner identification number), you'll receive it when you get your TIE. The NIE is a permanent number used for all official transactions banking, taxes, property purchases, and more. Keep it safe.
 
 ### Step 4: Open a Spanish bank account
 
@@ -332,7 +332,7 @@ You become a Spanish tax resident if:
 - You spend more than 183 days per year in Spain.
 - Spain becomes your center of economic interests (e.g., your family lives there or most assets are there).
 
-As a tax resident, you must report and pay Spanish income tax on your worldwide income—pensions, investment income, rental income, capital gains—at progressive rates from 19% to 47% depending on total income.
+As a tax resident, you must report and pay Spanish income tax on your worldwide income pensions, investment income, rental income, capital gains at progressive rates from 19% to 47% depending on total income.
 
 ### Non-resident tax status
 
@@ -376,7 +376,7 @@ Spain has tax treaties with most countries to prevent double taxation. These tre
 
 ### Tax planning tips
 
-- Consider regional variations—Madrid's lower taxes may save you thousands annually.
+- Consider regional variations Madrid's lower taxes may save you thousands annually.
 - Time your move to minimize income in your first partial tax year.
 - Structure investment portfolios tax-efficiently (e.g., growth stocks over dividend-paying stocks if you're in high brackets).
 - Take advantage of allowances and deductions available to retirees in Spain.
@@ -441,7 +441,7 @@ After the first two-year renewal, subsequent renewals follow the same pattern: a
 - **Income drop**: If your income falls below required thresholds, provide explanations and additional savings to compensate.
 - **Insurance gaps**: Maintain continuous coverage. Lapses raise red flags.
 
-Keep meticulous records of your time in Spain—flight bookings, utility bills, bank statements—to prove physical residence.
+Keep meticulous records of your time in Spain flight bookings, utility bills, bank statements to prove physical residence.
 
 ## Path to permanent residency and citizenship
 
@@ -449,7 +449,7 @@ After five years of continuous legal residence, you can apply for permanent resi
 
 ### Permanent residency benefits
 
-- No renewal requirements—residency becomes indefinite.
+- No renewal requirements residency becomes indefinite.
 - Freedom to work without restrictions.
 - Leave Spain for up to 12 months without losing status.
 - Nearly equal rights to Spanish citizens except voting in national elections.
@@ -485,7 +485,7 @@ Some visa holders assume they can quietly work remotely for foreign employers. T
 
 ### Mistake 3: Spending too little time in Spain
 
-Treating the visa as a "golden ticket" while spending most time elsewhere backfires at renewal. Immigration requires genuine residence—at least 183 days annually, documented through utility bills, bank transactions, and flight records.
+Treating the visa as a "golden ticket" while spending most time elsewhere backfires at renewal. Immigration requires genuine residence at least 183 days annually, documented through utility bills, bank transactions, and flight records.
 
 ### Mistake 4: Insufficient documentation
 
@@ -493,7 +493,7 @@ Incomplete applications face delays or rejections. Double-check consulate requir
 
 ### Mistake 5: Ignoring healthcare continuity
 
-Letting private insurance lapse—even briefly—creates problems at renewal. Maintain continuous coverage and keep certificates proving it.
+Letting private insurance lapse even briefly creates problems at renewal. Maintain continuous coverage and keep certificates proving it.
 
 ### Mistake 6: Tax non-compliance
 
@@ -523,7 +523,7 @@ Not directly. You'd need to leave Spain, return to your home country, and apply 
 
 ### Is the Non-Lucrative Visa the same as the Golden Visa?
 
-No. The Golden Visa required a €500,000 property investment and granted residency automatically. It ended in April 2025. The Non-Lucrative Visa requires no investment—just proof of passive income—but prohibits working.
+No. The Golden Visa required a €500,000 property investment and granted residency automatically. It ended in April 2025. The Non-Lucrative Visa requires no investment just proof of passive income but prohibits working.
 
 ---
 

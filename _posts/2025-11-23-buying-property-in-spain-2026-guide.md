@@ -36,7 +36,7 @@ faqs:
 
 ## Overview: Foreign property ownership in Spain
 
-Spain welcomes foreign property buyers with open arms. Foreign nationals enjoy the same ownership rights as Spanish citizens, with no restrictions on where you can buy, how many properties you can own, or what you can do with them. In 2024, foreign buyers accounted for approximately 15% of all Spanish property transactions—over 87,000 purchases—demonstrating robust international demand.
+Spain welcomes foreign property buyers with open arms. Foreign nationals enjoy the same ownership rights as Spanish citizens, with no restrictions on where you can buy, how many properties you can own, or what you can do with them. In 2024, foreign buyers accounted for approximately 15% of all Spanish property transactions over 87,000 purchases demonstrating robust international demand.
 
 This openness continues in 2026 despite the end of the Golden Visa program in April 2025. That program granted residency to those investing €500,000 or more in real estate, but its cancellation only removed the automatic residency benefit. Property ownership itself remains completely unrestricted for non-residents.
 
@@ -115,7 +115,7 @@ You own the property and the land outright. This is standard for houses, villas,
 
 You own your specific unit plus a proportional share of communal areas (gardens, pools, elevators, lobbies). A homeowners' association (comunidad de propietarios) manages shared spaces, and you pay monthly community fees (gastos de comunidad) for maintenance, insurance, and services.
 
-Community fees vary widely—from €50 monthly for basic buildings to €300+ for complexes with extensive amenities. Review the community's financial statements and meeting minutes before purchasing to identify any special assessments or disputes.
+Community fees vary widely from €50 monthly for basic buildings to €300+ for complexes with extensive amenities. Review the community's financial statements and meeting minutes before purchasing to identify any special assessments or disputes.
 
 ### Obra nueva (new build)
 
@@ -133,7 +133,7 @@ Rural land or country properties not classified as urban. Rustic properties have
 
 Once you've found your property, make a formal offer. In Spain, verbal offers have limited legal weight, so submit offers in writing through your agent or lawyer.
 
-If the seller accepts, you typically sign a reservation contract (contrato de arras or contrato de reserva) and pay a reservation deposit—usually €3,000-10,000 or 1% of the purchase price. This takes the property off the market while you complete due diligence.
+If the seller accepts, you typically sign a reservation contract (contrato de arras or contrato de reserva) and pay a reservation deposit usually €3,000-10,000 or 1% of the purchase price. This takes the property off the market while you complete due diligence.
 
 Reservation contracts vary. Ensure yours:
 
@@ -272,7 +272,7 @@ Applied to resale properties. Rates vary by autonomous region:
 - **Madrid, Murcia**: 6-7%.
 - **Balearics, Canary Islands**: 6.5-7%.
 
-First-time buyers under certain age and income thresholds may qualify for reduced rates—ask your lawyer.
+First-time buyers under certain age and income thresholds may qualify for reduced rates ask your lawyer.
 
 ### VAT (IVA - Impuesto sobre el Valor Añadido)
 
@@ -325,7 +325,7 @@ Spanish banks lend to non-residents, but terms are less favorable than for resid
 - **Residents**: Up to 80% LTV.
 - **Non-residents**: Typically 60-70% LTV.
 
-This means you need a larger deposit—at least 30-40% of the property value plus purchase costs.
+This means you need a larger deposit at least 30-40% of the property value plus purchase costs.
 
 ### Interest rates
 
@@ -454,7 +454,7 @@ Purchasing based solely on photos or virtual tours is risky. Always view propert
 
 ### Mistake 3: Ignoring ongoing costs
 
-Budget for all annual expenses—taxes, fees, utilities, maintenance—not just the purchase price. Properties in premium communities with pools and gardens have significant ongoing costs.
+Budget for all annual expenses taxes, fees, utilities, maintenance not just the purchase price. Properties in premium communities with pools and gardens have significant ongoing costs.
 
 ### Mistake 4: Overpaying in hot markets
 

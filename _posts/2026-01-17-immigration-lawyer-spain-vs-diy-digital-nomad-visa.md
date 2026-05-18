@@ -37,7 +37,7 @@ Here is the honest Cost-Benefit Analysis of **The DIY Route** vs. **The JuroSpai
 When you choose to do it yourself, you are betting against the house.
 
 The Spanish immigration system is not designed to be user-friendly. It is designed to be rigorous.
-* **The "Silence" Risk:** If you make a small error—uploading a document in the wrong format, or translating a criminal record incorrectly—the administration often won't tell you. They will simply sit on your file. Weeks turn into months. You are left in "Administrative Silence," unsure if you are approved or denied.
+* **The "Silence" Risk:** If you make a small error uploading a document in the wrong format, or translating a criminal record incorrectly the administration often won't tell you. They will simply sit on your file. Weeks turn into months. You are left in "Administrative Silence," unsure if you are approved or denied.
 * **The "Reddit" Advice:** The advice you find on forums is often outdated. "What worked for Dave in 2023" does not work in 2026. The UGE-CE criteria have tightened, specifically regarding Social Security certificates and company letters.
 * **The Fragmented Reality:** You might successfully get the visa, only to realize you accidentally disqualified yourself from the Beckham Law tax breaks because of *when* you entered the country.
 
@@ -51,7 +51,7 @@ In a bureaucracy that is famous for being slow, **JuroSpain** moves fast.
 
 ### 1. The 20-Day Standard
 We know the internal criteria of the UGE-CE (Large Business Unit). We don't guess if your documents are correct; we know.
-By submitting a "Perfect File"—structured exactly how the civil servants want to see it—we drastically reduce the chance of *requerimientos* (requests for more info).
+By submitting a "Perfect File" structured exactly how the civil servants want to see it we drastically reduce the chance of *requerimientos* (requests for more info).
 Our goal is simple: **Approval in 20 working days.**
 
 ### 2. The "One-Stop-Shop" Ecosystem

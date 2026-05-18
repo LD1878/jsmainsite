@@ -28,7 +28,7 @@ You have the salary. You have the clean criminal record. You have the remote job
 
 But then the insurance broker calls you back: *"I'm sorry, but due to your medical history, Sanitas has declined your application."*
 
-If you have a pre-existing condition—diabetes, a history of heart issues, or even a recent surgery—Spanish private insurers will either reject you outright or exclude your specific condition.
+If you have a pre-existing condition diabetes, a history of heart issues, or even a recent surgery Spanish private insurers will either reject you outright or exclude your specific condition.
 
 For the **Digital Nomad Visa (DNV)**, the law requires "full coverage without exclusions." This creates a dead end. You can't get the insurance, so you can't get the visa.
 
@@ -77,7 +77,7 @@ If you are currently an **employee**, this is yet another reason to switch to a 
 * **As an Employee:** You are stuck trying to find private insurance (or fighting for a Certificate of Coverage).
 * **As a Contractor:** You pay your RETA, you get public healthcare, and your medical history becomes irrelevant.
 
-Do not let a diagnosis stop your relocation. The Spanish system is one of the best in the world—you just need the right key to open the door.
+Do not let a diagnosis stop your relocation. The Spanish system is one of the best in the world you just need the right key to open the door.
 
 <div class="faq-section">
   <h3>Frequently Asked Questions</h3>

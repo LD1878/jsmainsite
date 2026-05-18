@@ -18,7 +18,7 @@ breadcrumbs:
     url: /guides/healthcare-in-spain-expats/
 ---
 
-Spain’s healthcare system is among the best in Europe — and expats are fully eligible to access it under the right conditions. Whether you’re moving on a Digital Nomad Visa, Non-Lucrative Visa, or EU residency certificate, this guide explains how to register for public healthcare, when private cover is required, and what legal documents you’ll need.
+Spain’s healthcare system is among the best in Europe   and expats are fully eligible to access it under the right conditions. Whether you’re moving on a Digital Nomad Visa, Non-Lucrative Visa, or EU residency certificate, this guide explains how to register for public healthcare, when private cover is required, and what legal documents you’ll need.
 
 ## Table of contents
 - [Public healthcare eligibility](#public-healthcare-eligibility)
@@ -35,7 +35,7 @@ Spain’s healthcare system is among the best in Europe — and expats are fully
 Spain’s **Sistema Nacional de Salud (SNS)** covers residents registered with Social Security. To qualify:
 
 - You must be registered on the padrón (see [Empadronamiento in Spain](/guides/empadronamiento-spain/)).
-- You must contribute to Social Security (*Seguridad Social*) — either through employment, autónomo registration, or dependent status.
+- You must contribute to Social Security (*Seguridad Social*)   either through employment, autónomo registration, or dependent status.
 - EU citizens can access care immediately with a European Health Insurance Card (EHIC) while registering locally.
 - Non-EU residents must show proof of comprehensive health insurance when applying for visas or residency cards.
 
@@ -52,7 +52,7 @@ Policies must:
 - Offer zero co-payments and no exclusions.
 - Cover full medical, hospital, and repatriation services.
 
-Avoid travel insurance — Spanish consulates reject policies without full national coverage.
+Avoid travel insurance   Spanish consulates reject policies without full national coverage.
 
 ## Registering for public healthcare
 
@@ -71,7 +71,7 @@ Once you’re resident in Spain:
 
 The TSI links your Social Security contributions to the regional health service. Each autonomous community (Andalusia, Catalonia, Madrid, Valencia, etc.) manages its own healthcare portal for appointments and digital medical records.
 
-Keep your padrón current — expired certificates can delay renewals or access.
+Keep your padrón current   expired certificates can delay renewals or access.
 
 ## Healthcare for retirees and families
 

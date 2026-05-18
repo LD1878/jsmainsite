@@ -54,7 +54,7 @@ In 2026, the cost of living in Lisbon has surpassed that of Madrid and Barcelona
 
 Relocating is a high-stakes legal transition. At JuroSpain, we act as your **Project Managers**. We don’t just file your visa; we coordinate your sworn translations, set up your digital certificates, and perform the due diligence on your property rental or purchase. 
 
-While a traditional lawyer might only handle the application, we manage the **"First 90 Days"**—ensuring you have a bank account, a NIE, and a functioning digital signature from day one.
+While a traditional lawyer might only handle the application, we manage the **"First 90 Days"** ensuring you have a bank account, a NIE, and a functioning digital signature from day one.
 
 <hr>
 

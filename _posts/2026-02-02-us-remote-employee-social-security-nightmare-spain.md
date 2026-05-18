@@ -19,7 +19,7 @@ faqs:
   - question: "Can I still get the Beckham Law as a Freelancer/Contractor?"
     answer: "Yes. The 2023 Startup Law expanded the Beckham Law (Special Expats Regime) to include 'International Teleworkers' (Digital Nomad Visa holders), regardless of whether they are employees or freelancers."
   - question: "Will my US company get in trouble if I work from Spain?"
-    answer: "If you remain a W-2 employee, yes—they technically risk creating a 'Permanent Establishment' in Spain. If you switch to a 1099 Contractor, you remove this risk entirely. You become a B2B service provider, protecting their liability."
+    answer: "If you remain a W-2 employee, yes they technically risk creating a 'Permanent Establishment' in Spain. If you switch to a 1099 Contractor, you remove this risk entirely. You become a B2B service provider, protecting their liability."
 ---
 
 If you are an American employed by a US company (W-2) applying for the Spanish Digital Nomad Visa, your HR department is likely nervous.
@@ -42,7 +42,7 @@ So, Spain asks for a **Certificate of Coverage** from the US Social Security Adm
 
 **The Problem:** The SSA often refuses to issue this certificate for remote workers.
 
-The US-Spain treaty is designed for "Posted Workers"—executives sent to Madrid for 2 years to open a branch. It is *not* designed for a software engineer who just wants to live in Valencia for the lifestyle.
+The US-Spain treaty is designed for "Posted Workers" executives sent to Madrid for 2 years to open a branch. It is *not* designed for a software engineer who just wants to live in Valencia for the lifestyle.
 
 If the SSA denies your certificate (which happens frequently), your visa application is dead on arrival.
 

@@ -20,7 +20,7 @@ breadcrumbs:
 
 The era of buying Spanish residency for €500,000 officially ended in April 2025. With the termination of the real estate Golden Visa route, many investors are asking: **Can I still get residency if I buy a home in Spain?**
 
-The short answer is yes—but the pathway has changed. You can no longer get a visa *automatically* by purchasing property, but owning a home significantly strengthens applications for other visas. This guide outlines the top alternatives for 2025.
+The short answer is yes but the pathway has changed. You can no longer get a visa *automatically* by purchasing property, but owning a home significantly strengthens applications for other visas. This guide outlines the top alternatives for 2025.
 
 ## Table of contents
 - [Why the Golden Visa ended](#why-the-golden-visa-ended)

@@ -18,7 +18,7 @@ breadcrumbs:
     url: /guides/health-insurance-spain-visas-2026/
 ---
 
-In 2026, the Spanish government has tightened its review of private health insurance policies for non-EU expats. Whether you are applying for a **Digital Nomad Visa**, a **Non-Lucrative Visa (NLV)**, or a **Student Visa**, your policy must do more than just provide cover—it must match the specific legal "equivalent" of the Spanish public healthcare system.
+In 2026, the Spanish government has tightened its review of private health insurance policies for non-EU expats. Whether you are applying for a **Digital Nomad Visa**, a **Non-Lucrative Visa (NLV)**, or a **Student Visa**, your policy must do more than just provide cover it must match the specific legal "equivalent" of the Spanish public healthcare system.
 
 If your policy is missing the "no-copay" clause or the "repatriation" benefit, your visa application will be rejected instantly. This guide covers the absolute essentials for 2026.
 
@@ -37,12 +37,12 @@ For a policy to be accepted by a Spanish consulate or the UGE (Large Business Un
 
 1.  **Sin Copagos (No Co-payments):** You cannot have a deductible or pay a small fee per visit. The consulate wants to see that you will never have a financial barrier to seeking medical help.
 2.  **Sin Carencias (No Waiting Periods):** While most private policies have a 6-month wait for surgeries or complex tests (like MRIs), visa-compliant policies must offer **full coverage from Day 1**.
-3.  **Repatriation Included:** The policy must cover the cost of returning your remains to your home country in the event of death. This is often an "add-on" to standard Spanish policies—make sure it is listed on your certificate.
+3.  **Repatriation Included:** The policy must cover the cost of returning your remains to your home country in the event of death. This is often an "add-on" to standard Spanish policies make sure it is listed on your certificate.
 4.  **Authorized Insurer:** The company must be legally authorized to operate in Spain (e.g., Sanitas, Adeslas, DKV, or ASISA). International "Expat" plans are often rejected if they do not have a Spanish legal entity.
 
 ## Why 'Travel Insurance' is Not Accepted
 
-Many applicants try to use high-end travel insurance (like World Nomads or SafetyWing). **These will be rejected for residency.** Travel insurance is designed for emergencies and "accidental" care. Spanish residency requires **comprehensive** care, including preventive medicine, cancer screenings, and long-term chronic illness management—things travel insurance does not cover.
+Many applicants try to use high-end travel insurance (like World Nomads or SafetyWing). **These will be rejected for residency.** Travel insurance is designed for emergencies and "accidental" care. Spanish residency requires **comprehensive** care, including preventive medicine, cancer screenings, and long-term chronic illness management things travel insurance does not cover.
 
 ## Specific Requirements: DNV vs. NLV
 

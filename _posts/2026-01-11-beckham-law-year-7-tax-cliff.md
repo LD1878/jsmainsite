@@ -11,7 +11,7 @@ faqs:
   - question: "When exactly does the Beckham Law end?"
     answer: "The Beckham Law applies for the year you obtain tax residency plus the following five years. On January 1st of your seventh year, you automatically transition to the standard Spanish resident tax regime (IRPF)."
   - question: "Will I have to pay tax on my global savings after Year 6?"
-    answer: "Yes. Once you transition to the standard regime, your worldwide income—including dividends from foreign accounts, rental income from abroad, and capital gains—is subject to Spanish progressive tax rates."
+    answer: "Yes. Once you transition to the standard regime, your worldwide income including dividends from foreign accounts, rental income from abroad, and capital gains is subject to Spanish progressive tax rates."
   - question: "Do I need to file Modelo 720 after the Beckham Law ends?"
     answer: "Yes. One of the biggest changes in Year 7 is the mandatory filing of Modelo 720. You must declare all foreign assets (bank accounts, real estate, and investments) exceeding €50,000 per category."
 ---

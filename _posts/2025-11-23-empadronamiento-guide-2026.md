@@ -37,7 +37,7 @@ faqs:
 
 ## What is empadronamiento and why is it important?
 
-Empadronamiento is the administrative process of registering your residence at your local town hall (ayuntamiento). It's the Spanish equivalent of voter registration combined with census data—a fundamental record that you live at a specific address in a specific municipality.
+Empadronamiento is the administrative process of registering your residence at your local town hall (ayuntamiento). It's the Spanish equivalent of voter registration combined with census data a fundamental record that you live at a specific address in a specific municipality.
 
 Think of it as your official "proof of address" in Spain. The empadronamiento certificate (certificado de empadronamiento) shows your name, NIE or passport number, address, and registration date. It's required for countless administrative procedures and accessing public services.
 
@@ -64,7 +64,7 @@ EU, EEA, and Swiss citizens have freedom of movement in Spain but must register 
 
 ### Non-EU residents
 
-Anyone with Spanish residency—work visas, student visas, Non-Lucrative Visas, Digital Nomad Visas, family reunification—must register. It's usually required within 30 days of receiving your TIE card (residence permit).
+Anyone with Spanish residency work visas, student visas, Non-Lucrative Visas, Digital Nomad Visas, family reunification must register. It's usually required within 30 days of receiving your TIE card (residence permit).
 
 ### Long-term tourists
 
@@ -72,7 +72,7 @@ Even tourists staying in Spain for extended periods (up to the 90-day limit) can
 
 ### Irregular residents
 
-Interestingly, Spanish law requires empadronamiento regardless of legal immigration status. Undocumented immigrants can and should register—the municipal register is separate from immigration enforcement, and registration doesn't automatically trigger deportation proceedings. This ensures everyone, especially children, can access education and emergency healthcare.
+Interestingly, Spanish law requires empadronamiento regardless of legal immigration status. Undocumented immigrants can and should register the municipal register is separate from immigration enforcement, and registration doesn't automatically trigger deportation proceedings. This ensures everyone, especially children, can access education and emergency healthcare.
 
 ## Benefits of being empadronado
 
@@ -167,7 +167,7 @@ Some municipalities require appointments; others accept walk-ins. Check the ayun
 
 ### Step 3: Gather documents
 
-Collect all required documents as listed above. Make photocopies of everything—originals for verification, copies for the file.
+Collect all required documents as listed above. Make photocopies of everything originals for verification, copies for the file.
 
 ### Step 4: Complete the registration form
 
@@ -340,7 +340,7 @@ If you leave Spain permanently, you should de-register (baja por cambio de domic
 - Copy of your passport.
 - Proof of residence abroad.
 
-**Automatic de-registration**: After two years without renewing or updating your registration, many municipalities automatically de-register inactive entries during periodic audits. However, don't rely on this—actively de-register to close matters cleanly.
+**Automatic de-registration**: After two years without renewing or updating your registration, many municipalities automatically de-register inactive entries during periodic audits. However, don't rely on this actively de-register to close matters cleanly.
 
 ## Common problems and solutions
 
@@ -398,7 +398,7 @@ In regions with co-official languages, forms and certificates may be in the regi
 
 ## Empadronamiento and tax implications
 
-A common misconception is that empadronamiento automatically triggers tax residency. It doesn't—tax residency depends on physical presence (183+ days per year) or economic ties, not just registration.
+A common misconception is that empadronamiento automatically triggers tax residency. It doesn't tax residency depends on physical presence (183+ days per year) or economic ties, not just registration.
 
 However, empadronamiento can be evidence of tax residency if authorities investigate. If you're registered in Spain and claim to be a non-resident for tax purposes, you'll need to prove you spent fewer than 183 days in Spain, typically through flight records, foreign utility bills, and employment contracts abroad.
 
@@ -422,7 +422,7 @@ No. Empadronamiento is separate from immigration status. It's a municipal regist
 
 ### What if I live in temporary accommodation like a hostel?
 
-Long-term hostel or hotel residents can sometimes register using accommodation invoices and owner authorization. This is rare and discretionary—contact the specific town hall to inquire.
+Long-term hostel or hotel residents can sometimes register using accommodation invoices and owner authorization. This is rare and discretionary contact the specific town hall to inquire.
 
 ### Can I register at a friend's address if I don't have a lease?
 
