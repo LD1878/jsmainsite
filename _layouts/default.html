@@ -84,6 +84,23 @@ layout: null
             padding: 0 1.5rem;
         }
 
+        /* --- LOGO STYLING --- */
+        .site-logo {
+            height: 60px;
+            width: auto;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            filter: var(--logo-filter, none);
+            transition: filter 0.3s ease;
+        }
+
+        .site-logo img {
+            height: 100%;
+            width: auto;
+            object-fit: contain;
+        }
+
         /* --- 3. DESKTOP NAVIGATION --- */
         .site-nav {
             display: flex;
@@ -208,7 +225,8 @@ layout: null
                 '--bg-secondary': '#ffffff',
                 '--text-primary': '#232323',
                 '--text-muted': '#64748b',
-                '--border-light': '#e2e8f0'
+                '--border-light': '#e2e8f0',
+                '--logo-filter': 'none'
             },
             {
                 name: 'midnight-navy',
@@ -217,7 +235,8 @@ layout: null
                 '--bg-secondary': '#112240',
                 '--text-primary': '#e6f1ff',
                 '--text-muted': '#8892b0',
-                '--border-light': '#233554'
+                '--border-light': '#233554',
+                '--logo-filter': 'brightness(0.95)'
             }
         ];
 
@@ -264,8 +283,8 @@ layout: null
 
     <header class="site-header">
         <div class="header-container">
-            <a class="site-title" href="/" style="font-size: 1.8rem; text-decoration: none; font-weight: 800; color: var(--sp-red);">
-                J<span style="color:var(--gold-color)">U</span>R<span style="color:var(--gold-color)">O</span> Spain
+            <a class="site-logo" href="/" title="JURO Spain">
+                <img src="/assets/images/juro-spain-logo-white.png" alt="JURO Spain Logo">
             </a>
             
             <nav class="site-nav" id="siteNav">
