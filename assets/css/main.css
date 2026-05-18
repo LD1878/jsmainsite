@@ -25,7 +25,11 @@
   --sp-font-heavy: 'Oswald', sans-serif;
   --sp-font-body: 'Barlow', sans-serif;
   --sp-max-width: 1200px;
-  
+
+  /* HEADER & FOOTER THEME */
+  --header-footer-bg: #ffffff;
+  --header-footer-text: #232323;
+
   /* SHADOWS */
   --elev-1: 0 2px 6px rgba(0,0,0,0.06);
   --elev-2: 0 6px 12px rgba(0,0,0,0.12);
@@ -143,12 +147,12 @@ hr {
    4. HEADER & NAVIGATION (Glassmorphism Added)
    ---------------------------------------------------------- */
 .site-header {
-  background-color: var(--bg-secondary);
+  background-color: var(--header-footer-bg);
   /* TWEAK: Glass Effect */
-  backdrop-filter: blur(12px); 
+  backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   opacity: 0.98; /* Allows slight see-through for the blur */
-  
+
   border-bottom: 3px solid var(--gold-color);
   box-shadow: var(--elev-1);
   position: sticky;
@@ -175,6 +179,7 @@ hr {
   color: var(--sp-red);
   text-decoration: none;
   letter-spacing: -0.5px;
+  transition: color 0.3s ease;
 }
 
 .site-nav {
@@ -185,7 +190,7 @@ hr {
 
 .site-nav a {
   font-family: var(--sp-font-heavy);
-  color: var(--text-primary);
+  color: var(--header-footer-text);
   text-decoration: none;
   font-weight: 600;
   text-transform: uppercase;
@@ -207,7 +212,7 @@ hr {
 
 .dropdown-trigger {
     font-family: var(--sp-font-heavy);
-    color: var(--text-primary);
+    color: var(--header-footer-text);
     text-transform: uppercase;
     font-weight: 600;
     font-size: 0.95rem;
@@ -332,8 +337,8 @@ hr {
    7. FOOTER & MOBILE
    ---------------------------------------------------------- */
 .site-footer {
-  background: var(--bg-secondary);
-  color: var(--text-primary);
+  background: var(--header-footer-bg);
+  color: var(--header-footer-text);
   padding: 4rem 0 2rem;
   margin-top: 5rem;
   border-top: 1px solid var(--border-light);
@@ -346,8 +351,8 @@ hr {
   margin-bottom: 2rem;
 }
 
-.footer-section h3 { color: inherit; border-bottom: none; }
-.footer-section a { color: inherit; opacity: 0.8; text-decoration: none; }
+.footer-section h3 { color: var(--sp-red); border-bottom: none; transition: color 0.3s ease; }
+.footer-section a { color: var(--header-footer-text); opacity: 0.8; text-decoration: none; transition: opacity 0.2s ease; }
 
 /* WHATSAPP FLOAT */
 .whatsapp-float {
