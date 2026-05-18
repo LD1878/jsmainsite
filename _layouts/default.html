@@ -63,7 +63,7 @@ layout: null
 
         /* --- 2. HEADER CORE --- */
         .site-header {
-            background-color: var(--bg-secondary);
+            background-color: var(--header-footer-bg);
             border-bottom: 3px solid var(--gold-color);
             position: sticky;
             top: 0;
@@ -71,7 +71,7 @@ layout: null
             height: 90px;
             display: flex;
             align-items: center;
-            transition: background-color 0.3s ease;
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
 
         .header-container {
@@ -97,7 +97,7 @@ layout: null
             text-transform: uppercase;
             letter-spacing: 0.5px;
             font-size: 0.95rem;
-            color: var(--text-primary);
+            color: var(--header-footer-text);
             text-decoration: none;
             transition: color 0.2s ease;
             cursor: pointer;
@@ -173,7 +173,7 @@ layout: null
 
         /* --- 6. MOBILE MENU --- */
         .menu-toggle { display: none; flex-direction: column; gap: 6px; cursor: pointer; z-index: 10001; }
-        .menu-toggle span { width: 30px; height: 3px; background: var(--text-primary); border-radius: 2px; transition: 0.3s; }
+        .menu-toggle span { width: 30px; height: 3px; background: var(--header-footer-text); border-radius: 2px; transition: 0.3s; }
 
         .menu-toggle.active span:nth-child(1) { transform: translateY(9px) rotate(45deg); }
         .menu-toggle.active span:nth-child(2) { opacity: 0; }
@@ -186,7 +186,7 @@ layout: null
                 flex-direction: column;
                 position: fixed;
                 top: 90px; left: 0; width: 100%;
-                background: var(--bg-secondary);
+                background: var(--header-footer-bg);
                 padding: 2rem;
                 gap: 2rem;
                 border-bottom: 5px solid var(--sp-red);
