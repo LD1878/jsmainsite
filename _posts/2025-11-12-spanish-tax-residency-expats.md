@@ -79,7 +79,7 @@ The regime suits digital nomads, executives, and entrepreneurs relocating under 
 Spain has treaties with over 90 countries to prevent income from being taxed twice. Generally:
 
 - Tax paid abroad is credited against your Spanish liability.
-- Tie-breaker rules (based on the OECD model) resolve residency disputes — typically considering permanent home, centre of interests, habitual abode, and nationality.
+- Tie-breaker rules (based on the OECD model) resolve residency disputes   typically considering permanent home, centre of interests, habitual abode, and nationality.
 
 ## Practical examples
 

@@ -15,7 +15,7 @@ faqs:
   - question: "What is a 'Colegio Concertado'?"
     answer: "A Concertado is a 'semi-private' school. It is privately run (often by Catholic orders, though secular options exist) but funded by the government. Fees are low (typically €150-€300/month for 'voluntary' contributions) compared to private schools, but they follow the Spanish curriculum."
   - question: "Can I enroll my child in a Spanish public school in September?"
-    answer: "Technically, yes, but it is risky. The official enrollment window ('Matriculación') opens in March/April for the following school year. If you arrive in September, you are subject to 'Out of Period' enrollment, meaning you only get spots in schools that are not full—usually the least desirable ones."
+    answer: "Technically, yes, but it is risky. The official enrollment window ('Matriculación') opens in March/April for the following school year. If you arrive in September, you are subject to 'Out of Period' enrollment, meaning you only get spots in schools that are not full usually the least desirable ones."
   - question: "Do International Schools in Spain require the TIE card for enrollment?"
     answer: "No. Private and International schools are businesses; they will accept your money and enroll your child with just a passport. This makes them the only viable option for families arriving mid-year without finalized residency."
   - question: "Is the Spanish public system good for non-Spanish speakers?"
@@ -67,7 +67,7 @@ To make the right choice, you need to understand the "Middle Option."
 * **Cost:** €800 - €2,000 per month.
 * **Language:** English / American / French / German.
 * **The Verdict:** You are paying for **flexibility**. They have rolling admissions. They don't care about your *Padrón*. They understand expat anxiety.
-* **Barrier:** The price tag. Also, the "Expat Bubble"—your kids might live in Spain for 5 years and never learn Spanish.
+* **Barrier:** The price tag. Also, the "Expat Bubble" your kids might live in Spain for 5 years and never learn Spanish.
 
 ## The JuroSpain Strategy
 

@@ -49,7 +49,7 @@ By default, Spain may view your LLC as a foreign corporation (an "Opaque" entity
 
 To use the Digital Nomad Visa safely with a US LLC, most successful applicants use the **Autónomo (Freelancer)** structure.
 
-Instead of being an "employee" of your own LLC (which requires registering the LLC with Spanish Social Security—a bureaucratic nightmare), you register in Spain as a **Self-Employed Freelancer**.
+Instead of being an "employee" of your own LLC (which requires registering the LLC with Spanish Social Security a bureaucratic nightmare), you register in Spain as a **Self-Employed Freelancer**.
 
 ### How it flows:
 1.  **You (Spain):** Register as an *Autónomo*.

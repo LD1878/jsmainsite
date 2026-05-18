@@ -143,7 +143,7 @@ Online teachers, tutors, corporate trainers, life coaches, and language instruct
 ### Healthcare
 Telemedicine providers, medical consultants, and health coaches operating virtually.
 
-The key is proving your work can be performed remotely and doesn't require physical presence in your home country or Spain. Traditional roles tied to specific locations—like retail management or on-site construction—don't qualify.
+The key is proving your work can be performed remotely and doesn't require physical presence in your home country or Spain. Traditional roles tied to specific locations like retail management or on-site construction don't qualify.
 
 ## Documents checklist
 

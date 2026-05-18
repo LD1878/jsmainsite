@@ -18,7 +18,7 @@ breadcrumbs:
     url: /guides/double-taxation-spain-us-uk/
 ---
 
-Becoming a tax resident in Spain (spending 183+ days here) means you are liable for taxes on your **worldwide income**. However, thanks to Double Taxation Agreements (DTAs) with countries like the US and UK, you should rarely pay tax twice on the same Euro—**if you file correctly**.
+Becoming a tax resident in Spain (spending 183+ days here) means you are liable for taxes on your **worldwide income**. However, thanks to Double Taxation Agreements (DTAs) with countries like the US and UK, you should rarely pay tax twice on the same Euro **if you file correctly**.
 
 These treaties define which country has the primary right to tax specific income streams (e.g., salaries, pensions, property rent). This guide breaks down the essential rules for US and UK expats to ensure compliance and avoid overpayment in 2026.
 

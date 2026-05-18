@@ -19,7 +19,7 @@ faqs:
   - question: "Should I tell the landlord I plan to stay long-term?"
     answer: "Be careful. If you tell them before signing, they won't rent to you. The strategy is often to sign the 'Seasonal' contract, move in, and then establish proof of permanent residency (Padrón, internet bills, school enrollment)."
   - question: "Do I have to pay the Agency Fee for a Seasonal Contract?"
-    answer: "Legally, yes. The Housing Law banning agency fees only applies to Long-Term rentals. This is why agencies push seasonal contracts—they still get their commission. It is a corrupt incentive."
+    answer: "Legally, yes. The Housing Law banning agency fees only applies to Long-Term rentals. This is why agencies push seasonal contracts they still get their commission. It is a corrupt incentive."
 ---
 
 It is the most common frustration in 2026.
@@ -35,7 +35,7 @@ They think they are clever.
 ## The "Trojan Horse" Strategy
 
 If you demand a 5-year contract upfront, you will lose the flat. The market is too hot.
-Sometimes, the only way to secure a home is to play their game—then checkmate them after you have the keys.
+Sometimes, the only way to secure a home is to play their game then checkmate them after you have the keys.
 
 This is what we call the **"Fraud of Law" Pivot.**
 
@@ -44,7 +44,7 @@ The contract will say "Seasonal Lease." It will claim you are there for "leisure
 * **The Trick:** As long as the clause doesn't force you to maintain a main residence elsewhere (like in the UK/US), sign it. Pay the agency fee (yes, it hurts, but consider it an investment).
 
 ### Step 2: Establish "Habituality" (The Switch)
-Once you are inside, you need to prove that this house is not a holiday home—it is your **primary residence.**
+Once you are inside, you need to prove that this house is not a holiday home it is your **primary residence.**
 * **Get the Padrón:** Register yourself at the Town Hall immediately.
 * **Utility Bills:** Put the electricity/internet in your name.
 * **School:** Enroll your kids in the local school using this address.

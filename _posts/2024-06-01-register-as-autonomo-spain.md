@@ -86,7 +86,7 @@ Autónomos pay income tax (*IRPF*) through quarterly installments:
 - **Form 130 (direct estimation).** Pay 20% of net profit each quarter, offset by income tax withheld by clients.
 - **Form 131 (modules).** Fixed quotas based on activity indicators like staff or vehicle count.
 
-At year-end, file the annual income tax return (*Renta*, form 100) declaring worldwide income. Non-resident autónomos may have different rules—consult a tax advisor if you spend less than 183 days per year in Spain.
+At year-end, file the annual income tax return (*Renta*, form 100) declaring worldwide income. Non-resident autónomos may have different rules consult a tax advisor if you spend less than 183 days per year in Spain.
 
 ## Bookkeeping and invoicing requirements
 
@@ -107,7 +107,7 @@ Deductible expenses include:
 - Professional services (lawyers, accountants, translators).
 - Software subscriptions and hardware purchases.
 - Travel costs related to client meetings (flights, hotels, mileage).
-- Utilities for home offices—proportionally allocated based on floor space.
+- Utilities for home offices proportionally allocated based on floor space.
 - Health insurance premiums up to €500 per person (double for disabled dependants).
 
 Plan purchases strategically near quarter-end to balance VAT liabilities. Keep receipts and payment proof (bank statements) for every deduction.

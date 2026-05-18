@@ -20,7 +20,7 @@ breadcrumbs:
 
 In Spain, romance isn't a scheduled event; it is woven into the architecture. Whether it's the scent of orange blossoms beginning to stir in Seville or the crisp, salt-air evenings of the Costa Brava, Valentine's Day 2026 offers expats a chance to experience the country beyond the bureaucracy. 
 
-This guide moves away from the tourist traps and into the places where the locals—and the most discerning expats—spend their February 14th.
+This guide moves away from the tourist traps and into the places where the locals and the most discerning expats spend their February 14th.
 
 ## Table of contents
 - [The 'Kissing Street' and Andalusian Charm](#the-kissing-street-and-andalusian-charm)
@@ -36,11 +36,11 @@ If you find yourself in Seville, skip the crowded main squares and head to the *
 
 ## Sunset Sailing and Cava on the Coast
 
-For those on the Costa Blanca or in Barcelona, the most sophisticated way to spend the evening is on the water. Private sunset charters—typically including a bottle of local Cava and traditional tapas—allow you to see the skyline transition into a silhouette against the Mediterranean gold.
+For those on the Costa Blanca or in Barcelona, the most sophisticated way to spend the evening is on the water. Private sunset charters typically including a bottle of local Cava and traditional tapas allow you to see the skyline transition into a silhouette against the Mediterranean gold.
 
 ## Girona: The 'Spanish Tuscany'
 
-Often cited by travel editors as the most romantic city in Spain, Girona’s Jewish Quarter (*El Call*) is a labyrinth of stone and history. In February, the light is soft, the crowds are thin, and the fine-dining scene—led by some of the world’s best chefs—is at its most intimate.
+Often cited by travel editors as the most romantic city in Spain, Girona’s Jewish Quarter (*El Call*) is a labyrinth of stone and history. In February, the light is soft, the crowds are thin, and the fine-dining scene led by some of the world’s best chefs is at its most intimate.
 
 ## Stargazing in the Sierra Nevada
 
@@ -58,6 +58,6 @@ For the adventurous, a night in the Sierra Nevada mountains offers more than jus
 No, businesses remain open, but restaurants will be fully booked weeks in advance.
 
 **What is the traditional gift in Spain?**
-While roses are common, experiential gifts—like a visit to an Arab Bath (*Hamman*)—are increasingly popular among Spanish couples.
+While roses are common, experiential gifts like a visit to an Arab Bath (*Hamman*) are increasingly popular among Spanish couples.
 
 This guide is curated for those who call Spain home. For more lifestyle and residency advice, explore our recent guides.

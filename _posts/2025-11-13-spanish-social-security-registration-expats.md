@@ -81,7 +81,7 @@ If you lack Cl@ve credentials, request an in-person identity verification appoin
 ## Common issues and fixes
 
 - **Duplicate numbers:** If you previously worked in Spain, request a certificate of affiliation instead of a new number.
-- **Missing padrón:** Book empadronamiento quickly—many TGSS offices reject applications without proof of residence.
+- **Missing padrón:** Book empadronamiento quickly many TGSS offices reject applications without proof of residence.
 - **Expired passports:** Renew before applying; TGSS will not issue a NUSS with an expired document.
 - **Appointment delays:** Check nearby towns for faster availability or visit during early-morning walk-in slots.
 

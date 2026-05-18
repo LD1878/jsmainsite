@@ -37,7 +37,7 @@ For high-earning digital nomads, the days of cheap coverage are numbered. Here i
 If this is your first time registering as an Autónomo in Spain, you qualify for the **Tarifa Plana** (Flat Rate).
 
 However, in 2026, it is no longer exactly €80.
-The government has increased the **MEI** (*Mecanismo de Equidad Intergeneracional*)—a tax to pay for boomer pensions—to **0.9%**.
+The government has increased the **MEI** (*Mecanismo de Equidad Intergeneracional*) a tax to pay for boomer pensions to **0.9%**.
 
 * **Base Rate:** €80.00
 * **MEI Surcharge:** +€8.64 (approx)

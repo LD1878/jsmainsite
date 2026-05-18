@@ -25,7 +25,7 @@ faqs:
 
 ## Understanding Spain’s Property Market in 2025
 
-Spain’s property market continues to show resilience thanks to limited housing supply in major cities, strong tourism, and remote workers relocating to sunbelt regions. Prices rose modestly in 2024—around 3% nationally—while coastal hotspots like Málaga, Valencia, and the Balearic Islands saw higher appreciation. Mortgage rates stabilised after earlier increases, hovering between 3% and 4% for fixed loans. For international buyers, favourable exchange rates and Spain’s [Golden Visa programme]({{ '/services/' | relative_url }}) add extra appeal.
+Spain’s property market continues to show resilience thanks to limited housing supply in major cities, strong tourism, and remote workers relocating to sunbelt regions. Prices rose modestly in 2024 around 3% nationally while coastal hotspots like Málaga, Valencia, and the Balearic Islands saw higher appreciation. Mortgage rates stabilised after earlier increases, hovering between 3% and 4% for fixed loans. For international buyers, favourable exchange rates and Spain’s [Golden Visa programme]({{ '/services/' | relative_url }}) add extra appeal.
 
 As a foreign buyer, focus on value fundamentals: demand drivers, infrastructure, rental yields, and long-term livability. While popular areas can feel saturated, Spain still offers overlooked neighbourhoods with excellent transport links and cultural amenities. Working with a buyer’s agent or legal team helps you identify opportunities before they hit the open market.
 

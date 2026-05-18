@@ -20,7 +20,7 @@ faqs:
 
 Since Brexit, the romantic idea of "just moving to Spain" has been replaced by a rigid wall of paperwork. For British citizens in 2026, the Digital Nomad Visa (DNV) is the most viable path, but it is not a "rubber stamp" process.
 
-The biggest shock for our UK clients isn't the income requirement (approx. £2,300/month)—it's the **provenance of paperwork**. Spanish authorities do not trust simple PDFs. Every document, from your marriage certificate to your ACRO background check, must be **Apostilled** by the FCDO and translated by a *Traductor Jurado* (Sworn Translator). Missing a single stamp can pause your application for weeks.
+The biggest shock for our UK clients isn't the income requirement (approx. £2,300/month) it's the **provenance of paperwork**. Spanish authorities do not trust simple PDFs. Every document, from your marriage certificate to your ACRO background check, must be **Apostilled** by the FCDO and translated by a *Traductor Jurado* (Sworn Translator). Missing a single stamp can pause your application for weeks.
 
 ## The Reality of "Spanish Time": Speed vs. Strategy
 
@@ -35,7 +35,7 @@ How long does it take? That depends entirely on *where* you file.
 
 You will see online services offering visa processing for €500 and law firms charging €2,500+. Why the gap?
 
-The difference lies in the **audit of your employment status**. The #1 reason for rejection in 2026 is "Simulation of Employment"—when the Spanish government believes you are a contractor disguised as an employee to avoid taxes.
+The difference lies in the **audit of your employment status**. The #1 reason for rejection in 2026 is "Simulation of Employment" when the Spanish government believes you are a contractor disguised as an employee to avoid taxes.
 
 * **Cheap Services:** They will upload whatever PDF you give them. If the examiner asks a complex tax question about your "Permanent Establishment" risk, they often cannot answer.
 * **Legal Counsel:** We review your contract *before* submission. We draft the necessary "Certificate of Coverage" arguments to ensure you don't accidentally trigger a tax audit in the UK.

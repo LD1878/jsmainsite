@@ -108,4 +108,4 @@ Expect 2–4 weeks if paperwork is complete and bank compliance checks are satis
 - [Opening a Bank Account in Spain](/guides/opening-a-bank-account-spain/)
 - [Spanish Tax Residency for Expats](/guides/spanish-tax-residency-expats/)
 
-Get personalised incorporation support—[book a consultation](/contact/).
+Get personalised incorporation support [book a consultation](/contact/).
