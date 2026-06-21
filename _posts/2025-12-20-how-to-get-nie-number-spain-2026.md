@@ -98,4 +98,4 @@ No. We handle the appointments internally. You only need to visit a notary in yo
 
 If you value your time, the Remote NIE is the smartest investment you can make before your move.
 
-**[Get Your NIE Remotely – Book a Consultation](https://app.cal.eu/jurospain/30min)**
+**[Get Your NIE Remotely – Book a Consultation](/contact/)**

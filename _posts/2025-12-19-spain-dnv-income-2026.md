@@ -102,4 +102,4 @@ If your income is close to the current €2,763 threshold, waiting until 2026 co
 
 **We can fast-track your document review and aim for a December submission.**
 
-[**Book a Free Eligibility Check**](https://app.cal.eu/jurospain/30min)
+[**Book a Free Eligibility Check**](/contact/)
