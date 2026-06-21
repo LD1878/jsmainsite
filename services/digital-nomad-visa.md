@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spain Digital Nomad Visa (2026 Guide) | Requirements & Tax Strategy
+title: Spain Digital Nomad Visa 2026 Guide
 description: The definitive 2026 guide to the Spanish Digital Nomad Visa. We cover income requirements, UGE-CE application steps, and the Beckham Law tax strategy.
 permalink: /services/digital-nomad-visa/
 ---

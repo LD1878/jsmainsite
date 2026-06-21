@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Relocation Concierge Spain | Schools, Housing & NIE Services | JURO
+title: Relocation Concierge Spain | Schools, Housing & NIE
 description: We manage the logistics of your move to Spain. From finding international schools to setting up utilities and bank accounts. Your on-ground project managers.
 permalink: /services/relocation/
 ---

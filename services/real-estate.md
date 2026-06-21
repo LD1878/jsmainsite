@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spanish Real Estate Law (2026 Guide) | Conveyancing & Buying Safe
+title: Spanish Real Estate Law 2026 Guide
 description: Don't buy blindly. Our expert property lawyers perform forensic legal audits (Due Diligence) to ensure your Spanish property is debt-free and legal.
 permalink: /services/real-estate/
 ---

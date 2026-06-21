@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Terms of Use
-description: Terms governing use of the Juro Spain website and services.
+description: Read the Terms of Service governing use of the JURO Spain website and advisory services. Understand your rights and obligations before engaging with our legal team.
 permalink: /terms/
 ---
 ## 1. Who we are
