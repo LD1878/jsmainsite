@@ -132,8 +132,14 @@ permalink: /contact/
             <div id="step-1" class="step active">
                 <span class="juro-meta">Strategic Selection</span>
                 <h1 class="juro-h1">Direct Legal<br>Intake</h1>
-                <p class="juro-sub">Select your inquiry framework to bypass general queues and access specialized counsel.</p>
-                
+                <p class="juro-sub">Tell us what you need and we'll point you to the right person.</p>
+
+                <div style="margin-bottom: 2rem; padding: 1rem 1.5rem; border: 1px solid var(--juro-border); border-radius: 4px; background: rgba(197,160,89,0.06);">
+                    <p style="margin: 0; font-size: 1rem; color: var(--juro-slate);">
+                        Already know what you need? <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" style="color: var(--juro-gold); font-weight: 700; text-decoration: none;">Book a free call directly →</a>
+                    </p>
+                </div>
+
                 <div class="choice-grid">
                     <div class="juro-tile" onclick="runAudit('DNV')">
                         <h3>Digital Nomad</h3>
@@ -153,16 +159,16 @@ permalink: /contact/
             </div>
 
             <div id="step-audit" class="step">
-                <span class="juro-meta">Compliance Audit</span>
-                <h1 class="juro-h1" id="audit-title">Framework Brief.</h1>
+                <span class="juro-meta">Quick Check</span>
+                <h1 class="juro-h1" id="audit-title">A Few Quick Questions</h1>
                 
                 <div id="audit-content" class="audit-briefing">
                     </div>
 
                 <div class="choice-grid">
                     <div class="juro-tile" style="padding: 2.5rem;" onclick="goToContact(true)">
-                        <h3>I meet these criteria</h3>
-                        <p>Proceed to priority strategy session booking.</p>
+                        <h3>I meet these requirements</h3>
+                        <p>Proceed to book your free call directly.</p>
                     </div>
                     <div class="juro-tile" style="padding: 2.5rem;" onclick="goToContact(false)">
                         <h3>I have questions</h3>
@@ -173,9 +179,9 @@ permalink: /contact/
             </div>
 
             <div id="step-contact" class="step">
-                <span class="juro-meta">Case File Initiation</span>
+                <span class="juro-meta">Your Details</span>
                 <h1 class="juro-h1">Personal Details.</h1>
-                <p class="juro-sub">Provide a brief overview of your situation. Qualified leads will receive immediate calendar access following submission.</p>
+                <p class="juro-sub">Tell us a bit about your situation. As soon as you submit, you'll get instant access to book a time.</p>
                 
                 <form id="juro-form" action="https://formspree.io/f/mwpjpyoj" method="POST" onsubmit="handleFormSubmission(event)">
                     <input type="hidden" name="Inquiry_Path" id="context-path">
@@ -193,26 +199,26 @@ permalink: /contact/
                     </div>
 
                     <div style="margin-bottom: 2rem;">
-                        <label class="juro-meta" style="font-size: 0.6rem; color: var(--text-muted);">Brief Case Overview / Comments</label>
+                        <label class="juro-meta" style="font-size: 0.6rem; color: var(--text-muted);">Briefly, what's your situation?</label>
                         <textarea name="message" class="juro-input" placeholder="Tell us about your timeline, citizenship, or specific concerns..." required></textarea>
                     </div>
                     
-                    <button type="submit" class="juro-btn" id="submit-btn">Initialize Case File</button>
+                    <button type="submit" class="juro-btn" id="submit-btn">Send My Details</button>
                 </form>
             </div>
 
             <div id="step-calendar" class="step">
-                <span class="juro-meta">Priority Access Confirmed</span>
-                <h1 class="juro-h1">Strategy Session.</h1>
-                <p class="juro-sub">Select a briefing time below. Our counsel will have reviewed your notes prior to the session.</p>
+                <span class="juro-meta">You're In — Pick a Time</span>
+                <h1 class="juro-h1">Book Your Call.</h1>
+                <p class="juro-sub">Select a time that works for you. Our team will have reviewed your notes before the call.</p>
                 <div style="border: 1px solid var(--juro-border); border-radius: 4px; overflow: hidden; background: #fff;">
                     <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ31hS3coGTV1kHmjpOWC_aAD_C96OHnWM84Ts_Nzi1iEL-iO2hzdz2uru7KI_HkfBvOenuQV_L7?gv=true" style="border: 0" width="100%" height="650" frameborder="0"></iframe>
                 </div>
             </div>
 
             <div id="step-success" class="step" style="text-align: center; padding-top: 5rem;">
-                <h1 class="juro-h1">Brief Received.</h1>
-                <p class="juro-sub" style="margin: 0 auto 3rem;">Your case file has been routed to our senior counsel. You will receive a bespoke response via email within 4 business hours.</p>
+                <h1 class="juro-h1">Got It — Check Your Inbox</h1>
+                <p class="juro-sub" style="margin: 0 auto 3rem;">Thanks — we've got your details. You'll hear back from our team by email within 4 business hours.</p>
                 <div style="height: 1px; width: 100px; background: var(--juro-gold); margin: 0 auto;"></div>
             </div>
 

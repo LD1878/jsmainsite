@@ -1,5 +1,6 @@
 # Ignore generated site output
 _site/
+.sass-cache/
 
 # Ignore common editor/temp files
 .DS_Store

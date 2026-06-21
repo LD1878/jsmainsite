@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The 2026 Non-Lucrative Visa: A Procedural Guide for High-Net-Worth Applicants"
-description: "Applying for Spain's Non-Lucrative Visa with high net worth? JUROSpain covers IPREM thresholds, medical underwriting, and the consular interview. Apply today."
+title: "The 2026 Non-Lucrative Visa: A Complete Procedural Guide for Applicants"
+description: "Applying for Spain's Non-Lucrative Visa? JUROSpain covers IPREM thresholds, medical underwriting, and the consular interview. Apply today."
 seo_title: "Non-Lucrative Visa Spain 2026 | Requirements & Legal Process"
 permalink: /guides/non-lucrative-visa-procedural-guide-2026/
 date: 2026-01-23
