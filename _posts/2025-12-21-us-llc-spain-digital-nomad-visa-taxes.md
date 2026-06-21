@@ -95,4 +95,4 @@ Technically yes, but your LLC would need to register a "payroll" branch in Spain
 
 Structuring a US LLC for Spain requires a precise mix of US and Spanish tax law. One wrong form can cost you thousands.
 
-**[Book a US-Spain Tax Consult](https://app.cal.eu/jurospain/30min)**
+**[Book a US-Spain Tax Consult](/contact/)**

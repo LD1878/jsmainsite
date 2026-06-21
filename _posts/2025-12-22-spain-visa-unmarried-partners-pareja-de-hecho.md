@@ -100,4 +100,4 @@ Yes, but you are racing the 90-day clock. You must enter, find an apartment, get
 
 The *Pareja de Hecho* process is time-sensitive. We can book your Notary appointment and review your documents before you arrive.
 
-**[Book a Couples Consultation](https://app.cal.eu/jurospain/30min)**
+**[Book a Couples Consultation](/contact/)**
