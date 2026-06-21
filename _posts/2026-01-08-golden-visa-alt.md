@@ -29,7 +29,7 @@ As of 2026, the traditional Golden Visa based on property investment is no longe
 | **Entrepreneur Visa** | Business owners | Yes (Own Business) | Innovative business plan |
 | **Self-Employed Visa** | Freelancers | Yes (Local/Global) | Local business viability |
 
-## The Entrepreneur Visa: The New Choice for High-Net-Worth Individuals
+## The Entrepreneur Visa: The Smart Alternative for Entrepreneurs
 
 For those who previously looked at the Golden Visa, the Entrepreneur Visa is the closest remaining match. This permit is designed for individuals starting a business project in Spain that is considered "innovative" or of "special economic interest."
 

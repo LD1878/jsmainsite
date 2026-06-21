@@ -74,4 +74,4 @@ Inheritances are subject to regional Inheritance Tax in Spain. Even on an NLV, y
 
 ---
 
-This guide is designed for high-net-worth individuals navigating the 2026 Spanish landscape. To secure your residency with a custom financial audit, book a consultation.
+This guide is designed for people planning their Spanish residency in 2026. To confirm your eligibility with a custom audit, book a free call.
