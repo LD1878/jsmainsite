@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: post
 title: "Spain Digital Nomad Visa: Complete 2026 Application Guide"
@@ -494,4 +493,3 @@ If you spend more than 183 days per year in Spain, you become a Spanish tax resi
 
 **How long does processing take?**  
 UGE-CE: maximum 20 days on a complete residence file. Consulates: this guide's range is 20-60 days, plus appointment wait. TIE issuance is a separate police appointment.
-```
